@@ -1,0 +1,69 @@
+[
+  {
+    "arquivo_imagem": "nota_fiscal.jpeg",
+    "pergunta": [
+      "Qual o valor total nessa nota fiscal?",
+      "Descreva os gastos"
+    ]
+  },
+  {
+    "arquivo_imagem": "embalagem_bis.jpeg",
+    "pergunta": [
+      "essa embalagem é de que?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000006.jpg",
+    "pergunta": [
+      "O que tá dentro dessa garrafa?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000272.jpg",
+    "pergunta": [
+      "é a data de validade?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000296.jpg",
+    "pergunta": [
+      "O nome desse item está aparecendo e qual é?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000667.jpg",
+    "pergunta": [
+      "Da esquerda para a direita. O que está em cada uma dessas embalagens?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00001096.jpg",
+    "pergunta": [
+      "Cor é essa?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00001174.jpg",
+    "pergunta": [
+      "Pode me descrever o design dessa camisa?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00001232.jpg",
+    "pergunta": [
+      "Eu só quero saber se você consegue me falar a data de validade nessa caixa de leite?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000259.jpg",
+    "pergunta": [
+      "Qual o sabor desse jantar?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000628.jpg",
+    "pergunta": [
+      "Que número da página está visível? Obrigado."
+    ]
+  }
+]

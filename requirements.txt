@@ -1,0 +1,7 @@
+google-generativeai
+openai
+requests
+Pillow
+google-cloud-translate
+moondream
+python-dotenv
