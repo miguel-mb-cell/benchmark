@@ -221,11 +221,11 @@ def main():
     # NOVO: Monta uma lista de todas as tarefas pendentes
     tasks_to_process = []
     for item in data:
-        if "arquivo_imagem" not in item or "questions" not in item:
+        if "arquivo_imagem" not in item or "pergunta" not in item:
             continue
         
         arquivo_imagem = item["arquivo_imagem"]
-        for question_data in item["questions"]:
+        for question_data in item["pergunta"]:
             question = question_data["pergunta"]
             unique_id = f"{arquivo_imagem}::{question}"
             
