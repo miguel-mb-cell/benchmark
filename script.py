@@ -308,26 +308,38 @@ def main():
         print(f"❌ Arquivo de perguntas não encontrado em: {ARQUIVO_PERGUNTAS}")
         return
     
-    # Extrai todas as perguntas
-    perguntas = []
+    # Cria um dicionário mapeando arquivo_imagem -> perguntas
+    photo_questions_map = {}
     for item in data:
-        if "pergunta" in item and isinstance(item["pergunta"], list):
-            perguntas.extend(item["pergunta"])
+        if "arquivo_imagem" in item and "pergunta" in item:
+            filename = item["arquivo_imagem"]
+            questions = item["pergunta"] if isinstance(item["pergunta"], list) else [item["pergunta"]]
+            photo_questions_map[filename] = questions
     
-    print(f"\n❓ Total de perguntas: {len(perguntas)}")
-    print(f"🔄 Total de combinações a processar: {len(photos_to_send_today)} fotos × {len(perguntas)} perguntas = {len(photos_to_send_today) * len(perguntas)} combinações\n")
+    # Calcula total de combinações
+    total_combinations = sum(len(photo_questions_map.get(photo.name, [])) for photo in photos_to_send_today)
+    
+    print(f"\n❓ Mapeamento de perguntas carregado para {len(photo_questions_map)} fotos")
+    print(f"🔄 Total de combinações a processar: {total_combinations} (foto + pergunta específica)\n")
     
     # Contador de progresso
-    total_combinations = len(photos_to_send_today) * len(perguntas)
     current_combination = 0
     
     # Processa cada foto do dia
     for photo_path in photos_to_send_today:
+        # Busca as perguntas específicas para esta foto
+        questions_for_photo = photo_questions_map.get(photo_path.name, [])
+        
+        if not questions_for_photo:
+            print(f"\n⚠️  Nenhuma pergunta encontrada para: {photo_path.name} - Pulando...")
+            continue
+        
         print(f"\n{'='*60}")
         print(f"📷 Processando foto: {photo_path.name}")
+        print(f"   Total de perguntas para esta foto: {len(questions_for_photo)}")
         print(f"{'='*60}")
         
-        for question in perguntas:
+        for question in questions_for_photo:
             current_combination += 1
             print(f"\n[{current_combination}/{total_combinations}] 💬 Pergunta: '{question}'")
             sent_timestamp = datetime.now().isoformat()
