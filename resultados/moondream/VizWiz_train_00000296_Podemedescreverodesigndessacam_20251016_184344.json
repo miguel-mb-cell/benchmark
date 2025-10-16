@@ -1,9 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000296.jpg",
-    "question_original_pt": "Pode me descrever o design dessa camisa?",
-    "timestamp_sent_utc": "2025-10-16T18:43:21.278780",
-    "pergunta_translated_en": "Can you describe the design of this shirt to me?",
-    "response_original_en": "The image does not show a shirt; it displays a GNC Biotin dietary supplement bottle. The bottle is gray with black text and branding. The label reads “GNC” in black letters, “Biotin” in white, and “DIETARY SUP” in blue. The bottle is lying on a light brown wooden surface. No other clothing or design elements are visible.",
-    "response_translated_pt": "A imagem não mostra camisa; ele exibe um frasco de suplemento dietético GNC Biotin. O frasco é cinza com texto e marca em preto. O rótulo diz “GNC” em letras pretas, “Biotina” em branco e “DIETARY SUP” em azul. A garrafa está sobre uma superfície de madeira marrom clara. Nenhuma outra roupa ou elemento de design é visível.",
-    "latency_seconds": 3.568922519683838
-}

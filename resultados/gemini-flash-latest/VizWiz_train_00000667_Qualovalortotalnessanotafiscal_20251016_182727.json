@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000667.jpg",
-    "question_original_pt": "Qual o valor total nessa nota fiscal?",
-    "timestamp_sent_utc": "2025-10-16T18:26:59.613549",
-    "response": "A imagem fornecida **não é uma nota fiscal, recibo ou comprovante de compra**.\n\nA foto mostra apenas três frascos de produtos de higiene (condicionador, shampoo e loção) da marca Re-Nue Botanicals, que parecem ser *amenities* de hotel.\n\nComo não há informações de preço, valor total, impostos ou transação na imagem, **não é possível determinar o valor total** desta \"nota fiscal\".",
-    "latency_seconds": 3.758580446243286
-}

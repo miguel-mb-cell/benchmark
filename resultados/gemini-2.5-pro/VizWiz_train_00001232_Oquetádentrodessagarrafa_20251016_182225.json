@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00001232.jpg",
-    "question_original_pt": "O que tá dentro dessa garrafa?",
-    "timestamp_sent_utc": "2025-10-16T18:21:56.708151",
-    "response": "Com base na imagem, dentro dessa embalagem tem **leite desnatado** (fat-free milk).\n\nÉ possível identificar isso pelas seguintes informações na caixa:\n*   O texto **\"fat free milk\"** visível na parte inferior.\n*   O nome da marca **\"Lucerne\"**.\n*   O desenho de uma **vaca**, que é o logo da marca.",
-    "latency_seconds": 11.259287595748901
-}

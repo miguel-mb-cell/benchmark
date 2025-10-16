@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000272.jpg",
-    "question_original_pt": "Eu só quero saber se você consegue me falar a data de validade nessa caixa de leite?",
-    "timestamp_sent_utc": "2025-10-16T18:38:33.309162",
-    "response": "Olá!\n\nA imagem que você enviou não é de uma caixa de leite, mas sim de uma refeição de macarrão da marca \"Healthy Choice\", sabor \"Creamy Tomato Basil Penne\".\n\nInfelizmente, a data de validade não está visível na parte da embalagem que aparece na foto. Geralmente, a data fica estampada em um dos lados ou no fundo da caixa. Se você puder me mostrar outra parte da embalagem, ficarei feliz em ajudar a encontrar a data para você",
-    "latency_seconds": 8.869916915893555
-}

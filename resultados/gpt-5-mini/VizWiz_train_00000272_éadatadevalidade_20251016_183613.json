@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000272.jpg",
-    "question_original_pt": "é a data de validade?",
-    "timestamp_sent_utc": "2025-10-16T18:35:36.672095",
-    "response": "Não consigo ver nenhuma data de validade nessa foto — a imagem mostra a frente da embalagem, sem o carimbo da data.\n\nDicas para localizar/photografar a data:\n- Procure na parte inferior da bandeja/plástico, na lateral ou perto do código de barras (às vezes na tampa interna).\n- A data costuma vir como \"EXP\", \"Best before\", \"Use by\" ou \"Best before end\".\n- Tire outra foto aproximada (close-up) da parte de baixo/lateral da embalagem com boa iluminação e sem reflexo.\n\nSe quiser, envie uma nova foto focando essas áreas e eu procuro a data pra você.",
-    "latency_seconds": 8.451232671737671
-}

@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000296.jpg",
-    "question_original_pt": "é a data de validade?",
-    "timestamp_sent_utc": "2025-10-16T18:41:44.607922",
-    "response": "Com base na imagem fornecida, não é possível ver a data de validade. A foto está embaçada e a parte do rótulo onde essa informação geralmente se encontra não está visível ou legível.\n\nPara encontrar a data de validade, por favor, verifique:\n*   **Na lateral do rótulo**\n*   **No fundo do frasco**\n*   **Na tampa**",
-    "latency_seconds": 13.261763095855713
-}

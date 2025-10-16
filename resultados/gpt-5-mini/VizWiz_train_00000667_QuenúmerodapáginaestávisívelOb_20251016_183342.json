@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000667.jpg",
-    "question_original_pt": "Que número da página está visível? Obrigado.",
-    "timestamp_sent_utc": "2025-10-16T18:33:16.855513",
-    "response": "Não há nenhum número de página visível na imagem. Ela mostra três frascos (conditioner, shampoo e lotion) sobre uma superfície de madeira. Quer que eu procure algo específico na foto?",
-    "latency_seconds": 6.5498247146606445
-}

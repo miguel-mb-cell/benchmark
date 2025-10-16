@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000272.jpg",
-    "question_original_pt": "Cor é essa?",
-    "timestamp_sent_utc": "2025-10-16T18:37:24.408699",
-    "response": "A imagem exibe várias cores proeminentes na embalagem do produto. As cores principais são:\n\n1.  **Verde Escuro** (Dark Green): O fundo principal da embalagem (onde está escrito \"Healthy Choice\").\n2.  **Roxo/Lavanda** (Purple/Lavender): A cor de fundo do bloco de texto que descreve o sabor (\"Creamy Tomato Basil Penne\").\n3.  **Verde Limão/Claro** (Lime Green/Light Green): A cor do aro do recipiente na parte superior.\n4.  **Branco**: Usado para a maioria dos textos.",
-    "latency_seconds": 5.446130037307739
-}

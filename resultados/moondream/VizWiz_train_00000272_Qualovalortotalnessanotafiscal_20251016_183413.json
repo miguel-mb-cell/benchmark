@@ -1,9 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000272.jpg",
-    "question_original_pt": "Qual o valor total nessa nota fiscal?",
-    "timestamp_sent_utc": "2025-10-16T18:33:42.466287",
-    "pergunta_translated_en": "What is the total value on this invoice?",
-    "response_original_en": "The total value on this invoice cannot be determined from the image alone. The image shows a box of Healthy Mixers pasta with tomato sauce and basil, but there is no pricing or total listed.",
-    "response_translated_pt": "O valor total desta fatura não pode ser determinado apenas pela imagem. A imagem mostra uma caixa de macarrão Healthy Mixers com molho de tomate e manjericão, mas não há preço nem total listado.",
-    "latency_seconds": 6.368129730224609
-}

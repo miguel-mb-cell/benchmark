@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00001232.jpg",
-    "question_original_pt": "é a data de validade?",
-    "timestamp_sent_utc": "2025-10-16T18:22:25.671109",
-    "response": "A data de validade indicada na imagem é 30 de outubro de 2023.",
-    "latency_seconds": 7.382083415985107
-}

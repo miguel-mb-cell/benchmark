@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000667.jpg",
-    "question_original_pt": "essa embalagem é de que?",
-    "timestamp_sent_utc": "2025-10-16T18:28:08.177636",
-    "response": "Esta embalagem é para **produtos de higiene pessoal e cosméticos**, geralmente encontrados como *amenities* (itens de cortesia) em hotéis ou kits de viagem.\n\nAs embalagens mostradas contêm:\n\n1.  **Restoring Conditioner** (Condicionador restaurador)\n2.  **Revitalizing Shampoo** (Shampoo revitalizante)\n3.  **Nourishing Lotion** (Loção corporal nutritiva)\n\nTodos são da marca **RE-NEU™ BOTANICALS**.",
-    "latency_seconds": 3.7094151973724365
-}

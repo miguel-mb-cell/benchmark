@@ -1,9 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00001096.jpg",
-    "question_original_pt": "Da esquerda para a direita. O que está em cada uma dessas embalagens?",
-    "timestamp_sent_utc": "2025-10-16T18:46:46.774270",
-    "pergunta_translated_en": "From left to right. What is in each of these packages?",
-    "response_original_en": "The image does not show any packages.",
-    "response_translated_pt": "A imagem não mostra nenhum pacote.",
-    "latency_seconds": 4.4971935749053955
-}

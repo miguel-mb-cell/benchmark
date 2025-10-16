@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000296.jpg",
-    "question_original_pt": "Descreva os gastos",
-    "timestamp_sent_utc": "2025-10-16T18:40:39.562772",
-    "response": "A imagem é um close-up de um frasco de suplemento dietético, posicionado na diagonal sobre uma superfície texturizada de cor bege ou dourada (que pode ser madeira, carpete ou tecido sob luz quente).\n\n**Detalhes da Embalagem:**\n\n*   **Produto:** O recipiente é cilíndrico e de cor cinza fosco ou prateada.\n*   **Marca e Nome:** O logotipo da marca **GNC** está claramente visível em letras pretas. O nome do produto, **Biotin** (Biotina), aparece em letras brancas grandes.\n*   **Tipo de Produto:** A inscrição **DIETARY SUPPLEMENT** (Suplemento Dietético) é visível em letras azuis.\n*   **Informação Adicional:** Parte do texto no rótulo inclui a frase \"supports health...\" (apoia a saúde...), seguida por uma declaração de isenção de responsabilidade padrão da indústria (parcialmente legível) que menciona que o produto não se destina a diagnosticar, tratar, curar ou prevenir doenças.\n*   **Código de Barras:** Uma parte de um código de barras preto e branco é visível na extremidade inferior direita do frasco.\n*   **Outras Inscrições:** Também há informações de contato ou localização (parcialmente obscurecidas) e um endereço de website, possivelmente GNC.COM.\n\nA iluminação é forte e quente, criando reflexos na superfície do frasco.",
-    "latency_seconds": 7.643160343170166
-}

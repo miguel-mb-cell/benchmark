@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00001232.jpg",
-    "question_original_pt": "Da esquerda para a direita. O que está em cada uma dessas embalagens?",
-    "timestamp_sent_utc": "2025-10-16T18:23:32.666266",
-    "response": "Com base no texto visível na embalagem principal:\n\nA embalagem mostrada (com a tampa branca e o rótulo azul, da marca Lucerne) contém **leite desnatado** (fat free milk).\n\nEmbora a imagem mostre uma segunda embalagem desfocada no fundo, esta também parece ser da marca Lucerne e, pelo contexto, provavelmente também contém leite.",
-    "latency_seconds": 5.299762487411499
-}

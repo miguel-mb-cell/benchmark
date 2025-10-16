@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000272.jpg",
-    "question_original_pt": "essa embalagem é de que?",
-    "timestamp_sent_utc": "2025-10-16T18:34:40.277571",
-    "response": "Esta embalagem é de uma refeição pronta da marca **Healthy Choice**.\n\nPelo texto e a imagem, trata-se de um kit de massa (macarrão) para preparo rápido no micro-ondas, da linha **Healthy Choice Mixers**.\n\nO sabor específico é: **Penne de Manjericão e Tomate Cremoso** (Creamy Tomato Basil Penne).",
-    "latency_seconds": 4.307751893997192
-}

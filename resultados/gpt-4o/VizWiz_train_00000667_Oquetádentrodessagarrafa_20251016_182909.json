@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000667.jpg",
-    "question_original_pt": "O que tá dentro dessa garrafa?",
-    "timestamp_sent_utc": "2025-10-16T18:28:39.882973",
-    "response": "A imagem mostra três frascos da marca Re:NEU Botanicals. Os produtos são:\n\n- Condicionador restaurador (restoring conditioner)\n- Shampoo revitalizante (revitalizing shampoo)\n- Loção nutritiva (nourishing lotion)\n\nCada um tem 37 ml (1.25 fl oz).",
-    "latency_seconds": 5.121334552764893
-}

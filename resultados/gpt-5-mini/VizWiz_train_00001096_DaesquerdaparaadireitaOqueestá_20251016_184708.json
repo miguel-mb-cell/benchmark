@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00001096.jpg",
-    "question_original_pt": "Da esquerda para a direita. O que está em cada uma dessas embalagens?",
-    "timestamp_sent_utc": "2025-10-16T18:46:46.774270",
-    "response": "Preciso de uma clarificação — nesta imagem eu vejo apenas uma camisa social vinho/ameixa pendurada (manga longa, botões). Não há várias embalagens visíveis para eu dizer o que tem \"da esquerda para a direita\".\n\nPode:\n- enviar a foto correta com as embalagens juntas, ou\n- enviar fotos separadas (uma por embalagem), ou\n- indicar na mesma imagem onde estão as embalagens (marcar ou cortar),\n\nque aí eu descrevo o conteúdo de cada uma da esquerda para a direita.",
-    "latency_seconds": 8.822322845458984
-}

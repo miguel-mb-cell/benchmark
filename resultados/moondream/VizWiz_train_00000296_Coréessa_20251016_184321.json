@@ -1,9 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000296.jpg",
-    "question_original_pt": "Cor é essa?",
-    "timestamp_sent_utc": "2025-10-16T18:43:07.412594",
-    "pergunta_translated_en": "Is this color?",
-    "response_original_en": "Yes, the bottle is silver in color.",
-    "response_translated_pt": "Sim, o frasco é prateado.",
-    "latency_seconds": 2.9391136169433594
-}

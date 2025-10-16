@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000272.jpg",
-    "question_original_pt": "Qual o valor total nessa nota fiscal?",
-    "timestamp_sent_utc": "2025-10-16T18:33:42.466287",
-    "response": "Olá! A imagem que você enviou não é uma nota fiscal. É a embalagem de um produto alimentício, um \"Creamy Tomato Basil Penne\" da marca Healthy Choice.\n\nPor isso, não há um valor total para ser extraído da imagem. Se você tiver a foto da nota fiscal, pode me enviar que terei prazer em ajudar",
-    "latency_seconds": 7.463101387023926
-}

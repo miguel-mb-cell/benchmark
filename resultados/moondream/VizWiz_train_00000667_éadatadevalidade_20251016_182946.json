@@ -1,9 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000667.jpg",
-    "question_original_pt": "é a data de validade?",
-    "timestamp_sent_utc": "2025-10-16T18:29:09.462913",
-    "pergunta_translated_en": "Is it the expiration date?",
-    "response_original_en": "No, the image does not show an expiration date.",
-    "response_translated_pt": "Não, a imagem não mostra data de validade.",
-    "latency_seconds": 3.2570040225982666
-}

@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000667.jpg",
-    "question_original_pt": "Eu só quero saber se você consegue me falar a data de validade nessa caixa de leite?",
-    "timestamp_sent_utc": "2025-10-16T18:32:10.113424",
-    "response": "Esta é uma excelente pergunta!\n\nNo entanto, a imagem que você me enviou mostra **três frascos de produtos de higiene pessoal** (condicionador, shampoo e loção da marca RENEU Botanicals), e **não uma caixa de leite**.\n\nComo a imagem não contém uma caixa de leite, não consigo lhe informar a data de validade dela.",
-    "latency_seconds": 4.536880970001221
-}

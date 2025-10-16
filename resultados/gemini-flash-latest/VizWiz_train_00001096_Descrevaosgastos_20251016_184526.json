@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00001096.jpg",
-    "question_original_pt": "Descreva os gastos",
-    "timestamp_sent_utc": "2025-10-16T18:45:01.627776",
-    "response": "A imagem exibe uma **camisa social (ou de botões) de manga comprida**, em um plano fechado.\n\n**Detalhes da Imagem:**\n\n1.  **Cor:** A peça de vestuário é de uma cor sólida e escura, que se assemelha a **bordô, vinho tinto ou borgonha**. É uma cor rica e profunda.\n2.  **Material:** O tecido parece ser liso e opaco, típico de camisas de algodão ou misturas sintéticas, sem padrões visíveis.\n3.  **Características da Camisa:**\n    *   O colarinho é visível no topo, com o fecho do pescoço abotoado.\n    *   Há uma série de botões descendo pela frente da camisa. A maioria dos botões parece ser escura (preta ou marrom escuro), criando um leve contraste com o tecido. No entanto, pelo menos um dos botões centrais reflete fortemente a luz, parecendo branco ou perolado.\n    *   Um pequeno pedaço de uma etiqueta branca é sutilmente visível na parte de trás do colarinho.\n4.  **Qualidade da Foto:** A imagem está **muito embaçada (fora de foco)** e **granulada (com ruído)**, o que dificulta a distinção de detalhes precisos do tecido ou da marca. A camisa parece estar pendurada em um cabide ou contra uma parede clara.",
-    "latency_seconds": 6.3104870319366455
-}

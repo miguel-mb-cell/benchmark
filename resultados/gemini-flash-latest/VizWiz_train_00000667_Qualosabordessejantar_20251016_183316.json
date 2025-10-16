@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000667.jpg",
-    "question_original_pt": "Qual o sabor desse jantar?",
-    "timestamp_sent_utc": "2025-10-16T18:32:42.971613",
-    "response": "Essa é uma excelente pergunta! No entanto, as embalagens na imagem não contêm um jantar, mas sim **produtos de higiene pessoal** da marca **Re-Neu™ Botanicals** (condicionador, shampoo e loção corporal).\n\nPortanto, **eles não têm sabor e não devem ser consumidos!**\n\nO que está descrito nas embalagens é o **aroma** (cheiro) dos produtos, que é:\n\n*   **Uma mistura quente de bergamota espumante e gengibre fresco.**\n*   **Notas limpas de almíscar de chá branco, em meio a nuances picantes de vetiver e noz-moscada.**",
-    "latency_seconds": 6.0128538608551025
-}

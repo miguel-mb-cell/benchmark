@@ -1,9 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000667.jpg",
-    "question_original_pt": "essa embalagem é de que?",
-    "timestamp_sent_utc": "2025-10-16T18:28:08.177636",
-    "pergunta_translated_en": "What is this packaging from?",
-    "response_original_en": "This packaging is from Re-Neu Botanicals.",
-    "response_translated_pt": "Esta embalagem é da Re-Neu Botanicals.",
-    "latency_seconds": 2.6411209106445312
-}

@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000272.jpg",
-    "question_original_pt": "Eu só quero saber se você consegue me falar a data de validade nessa caixa de leite?",
-    "timestamp_sent_utc": "2025-10-16T18:38:33.309162",
-    "response": "Essa não é uma caixa de leite, mas sim uma embalagem de massa pronta (Healthy Choice Mixers - Creamy Tomato Basil Penne).\n\nInfelizmente, **eu não consigo ver a data de validade** nessa imagem.\n\nGeralmente, a data de validade é impressa ou carimbada:\n1.  Na **tampa** da embalagem.\n2.  Na **parte de baixo** (fundo) do pote.\n3.  Próximo ao código de barras.\n\nComo a foto mostra apenas a parte superior da embalagem, a data não está visível.",
-    "latency_seconds": 5.386778116226196
-}

@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00001232.jpg",
-    "question_original_pt": "é a data de validade?",
-    "timestamp_sent_utc": "2025-10-16T18:22:25.671109",
-    "response": "Com base na imagem, a data \"SELL BY\" (Vender Até) impressa na embalagem é **06/09**.\n\nIsso provavelmente significa **9 de junho**.",
-    "latency_seconds": 11.283698320388794
-}

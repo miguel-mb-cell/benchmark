@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000667.jpg",
-    "question_original_pt": "é a data de validade?",
-    "timestamp_sent_utc": "2025-10-16T18:29:09.462913",
-    "response": "Com base na imagem fornecida, **não consigo ver** a data de validade (Expiration Date) ou o código de lote.\n\nEssas informações geralmente não ficam na parte da frente dos rótulos.\n\nPara saber a validade, procure:\n\n1.  **Um símbolo de pote aberto (PAO - Period After Opening):** Este símbolo (um pote pequeno com um número seguido pela letra M, como **12M** ou **24M**) indica quantos meses o produto pode ser usado com segurança depois de ser aberto pela primeira vez.\n2.  **Uma data impressa (EXP):** Ela pode estar impressa em tinta perto da base do tubo, na parte de trás da embalagem ou na solda da tampa.",
-    "latency_seconds": 6.0144853591918945
-}

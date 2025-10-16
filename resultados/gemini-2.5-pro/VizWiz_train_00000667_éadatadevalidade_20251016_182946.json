@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000667.jpg",
-    "question_original_pt": "é a data de validade?",
-    "timestamp_sent_utc": "2025-10-16T18:29:09.462913",
-    "response": "Com base nas imagens fornecidas, a data de validade não está visível. A foto mostra apenas a parte da frente dos frascos.\n\nGeralmente, a data de validade ou o prazo de utilização após a abertura (simbolizado por um pote aberto com um número, como \"12M\" para 12 meses) encontra-se no **verso da embalagem** ou impresso no **fundo do frasco**.",
-    "latency_seconds": 11.702291011810303
-}

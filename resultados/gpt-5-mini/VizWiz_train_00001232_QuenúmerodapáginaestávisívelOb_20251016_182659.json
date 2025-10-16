@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00001232.jpg",
-    "question_original_pt": "Que número da página está visível? Obrigado.",
-    "timestamp_sent_utc": "2025-10-16T18:26:29.051057",
-    "response": "Não há nenhum número de página visível. A imagem mostra a tampa de uma caixa de leite com o texto \"Tastes Fresh Longer\".",
-    "latency_seconds": 7.284172058105469
-}

@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000667.jpg",
-    "question_original_pt": "Cor é essa?",
-    "timestamp_sent_utc": "2025-10-16T18:30:39.514293",
-    "response": "Com base na imagem, as cores principais são:\n\n*   **Marrom:** A cor da superfície onde os frascos estão, que parece ser madeira.\n*   **Branco, Creme e Amarelo claro:** As cores dos frascos e dos produtos dentro deles (condicionador, xampu e loção).\n*   **Verde escuro ou Preto:** A cor do texto nas embalagens.",
-    "latency_seconds": 8.627330780029297
-}

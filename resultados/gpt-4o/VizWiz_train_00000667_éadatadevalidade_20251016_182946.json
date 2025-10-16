@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000667.jpg",
-    "question_original_pt": "é a data de validade?",
-    "timestamp_sent_utc": "2025-10-16T18:29:09.462913",
-    "response": "Não consigo identificar uma data de validade na imagem. Geralmente, a validade de produtos de higiene pessoal está impressa no fundo ou no corpo do frasco. Verifique nessas áreas para encontrar a informação.",
-    "latency_seconds": 3.477864980697632
-}

@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000296.jpg",
-    "question_original_pt": "Que número da página está visível? Obrigado.",
-    "timestamp_sent_utc": "2025-10-16T18:44:34.958498",
-    "response": "Não há nenhum número de página visível na imagem. Ela mostra um frasco de suplemento (GNC Biotin) com um código de barras, não uma página numerada.",
-    "latency_seconds": 4.183136224746704
-}

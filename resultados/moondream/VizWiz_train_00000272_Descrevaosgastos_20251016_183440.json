@@ -1,9 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000272.jpg",
-    "question_original_pt": "Descreva os gastos",
-    "timestamp_sent_utc": "2025-10-16T18:34:13.004749",
-    "pergunta_translated_en": "Describe the expenses",
-    "response_original_en": "The image does not provide any information about expenses. It shows a box of Healthy Mixers Creamy Tomato Basil Penne pasta in a green container, with nutritional information visible on the box. There is no pricing or cost data displayed.",
-    "response_translated_pt": "A imagem não traz nenhuma informação sobre despesas. Mostra uma caixa de Massa Penne Cremosa de Tomate e Manjericão Healthy Mixers em recipiente verde, com informações nutricionais visíveis na caixa. Não há preços ou dados de custo exibidos.",
-    "latency_seconds": 3.7291109561920166
-}

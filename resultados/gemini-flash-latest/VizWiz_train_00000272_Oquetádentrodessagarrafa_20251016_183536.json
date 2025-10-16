@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000272.jpg",
-    "question_original_pt": "O que tá dentro dessa garrafa?",
-    "timestamp_sent_utc": "2025-10-16T18:35:08.980515",
-    "response": "A imagem mostra o rótulo de uma embalagem (provavelmente um pote ou tigela de micro-ondas, e não uma garrafa).\n\nO que está dentro dessa embalagem é uma refeição de macarrão (pasta):\n\n**Penne Basílico Cremoso com Tomate** (Creamy Tomato Basil Penne)\n\nTrata-se de um macarrão penne com molho de tomate cremoso, ervas e alho. O produto é da linha **Healthy Choice Mixers**.",
-    "latency_seconds": 5.09801173210144
-}

@@ -1,9 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00001096.jpg",
-    "question_original_pt": "Pode me descrever o design dessa camisa?",
-    "timestamp_sent_utc": "2025-10-16T18:47:25.964973",
-    "pergunta_translated_en": "Can you describe the design of this shirt to me?",
-    "response_original_en": "The shirt has a classic button-down style with a pointed collar and long sleeves. The fabric appears to be a solid color, possibly maroon or burgundy, with subtle vertical stripes visible in the image. The shirt is laid flat against a light-colored background, emphasizing its details and texture.",
-    "response_translated_pt": "A camisa tem um estilo clássico de botão com gola pontuda e mangas compridas. O tecido parece ser de cor sólida, possivelmente marrom ou bordô, com listras verticais sutis visíveis na imagem. A camisa fica plana sobre um fundo de cor clara, enfatizando seus detalhes e textura.",
-    "latency_seconds": 3.0887019634246826
-}

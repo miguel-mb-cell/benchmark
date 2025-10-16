@@ -1,9 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000296.jpg",
-    "question_original_pt": "Da esquerda para a direita. O que está em cada uma dessas embalagens?",
-    "timestamp_sent_utc": "2025-10-16T18:42:48.441556",
-    "pergunta_translated_en": "From left to right. What is in each of these packages?",
-    "response_original_en": "GNC Biotin Dietary Supplement",
-    "response_translated_pt": "Suplemento dietético de biotina GNC",
-    "latency_seconds": 2.6117122173309326
-}

@@ -1,9 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000272.jpg",
-    "question_original_pt": "Cor é essa?",
-    "timestamp_sent_utc": "2025-10-16T18:37:24.408699",
-    "pergunta_translated_en": "Is this color?",
-    "response_original_en": "Yes, the container is green.",
-    "response_translated_pt": "Sim, o contêiner é verde.",
-    "latency_seconds": 2.7738099098205566
-}

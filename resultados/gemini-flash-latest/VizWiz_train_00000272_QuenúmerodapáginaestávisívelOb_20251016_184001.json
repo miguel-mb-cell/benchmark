@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000272.jpg",
-    "question_original_pt": "Que número da página está visível? Obrigado.",
-    "timestamp_sent_utc": "2025-10-16T18:39:39.267869",
-    "response": "Com base na imagem fornecida, que é um rótulo de embalagem de um produto alimentício (Healthy Choice Mixers), **não há nenhum número de página visível**.",
-    "latency_seconds": 3.10914945602417
-}

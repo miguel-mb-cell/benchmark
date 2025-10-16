@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000667.jpg",
-    "question_original_pt": "O nome desse item está aparecendo e qual é?",
-    "timestamp_sent_utc": "2025-10-16T18:29:46.294389",
-    "response": "Sim, o nome da marca e os nomes específicos dos produtos estão visíveis na imagem.\n\nA marca é **RE-NEU™ BOTANICALS**.\n\nOs itens específicos (da esquerda para a direita) são:\n\n1.  **Restoring Conditioner** (Condicionador Restaurador)\n2.  **Revitalizing Shampoo** (Shampoo Revitalizante)\n3.  **Nourishing Lotion** (Loção Nutritiva)",
-    "latency_seconds": 3.8714656829833984
-}

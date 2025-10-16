@@ -1,9 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000272.jpg",
-    "question_original_pt": "Pode me descrever o design dessa camisa?",
-    "timestamp_sent_utc": "2025-10-16T18:37:51.306930",
-    "pergunta_translated_en": "Can you describe the design of this shirt to me?",
-    "response_original_en": "The image does not show a shirt; it displays a box of Healthy Mixers Creamy Tomato Basil Penne pasta mix. The box features green and purple colors and highlights the pasta dish with tomatoes and basil. The box also indicates the serving size (1/2 cup) and nutritional information (280 calories, 28g whole grain).",
-    "response_translated_pt": "A imagem não mostra camisa; ele exibe uma caixa de mistura para macarrão Cremoso Tomate Basil Penne da Healthy Mixers. A caixa apresenta as cores verde e roxa e destaca o prato de macarrão com tomate e manjericão. A caixa também indica o tamanho da porção (1/2 xícara) e informações nutricionais (280 calorias, 28g de grãos inteiros).",
-    "latency_seconds": 2.9379618167877197
-}

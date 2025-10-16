@@ -1,9 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000296.jpg",
-    "question_original_pt": "O que tá dentro dessa garrafa?",
-    "timestamp_sent_utc": "2025-10-16T18:41:23.308761",
-    "pergunta_translated_en": "What's inside that bottle?",
-    "response_original_en": "The bottle contains GNC Biotin, a dietary supplement.",
-    "response_translated_pt": "O frasco contém GNC Biotina, um suplemento dietético.",
-    "latency_seconds": 3.2080695629119873
-}

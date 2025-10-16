@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000667.jpg",
-    "question_original_pt": "Qual o valor total nessa nota fiscal?",
-    "timestamp_sent_utc": "2025-10-16T18:26:59.613549",
-    "response": "A imagem que você enviou não é uma nota fiscal. Ela mostra três frascos de produtos de higiene pessoal: um condicionador (conditioner), um shampoo e uma loção (lotion).\n\nPor não ser uma nota fiscal, não há informações sobre preços ou um valor total na imagem.",
-    "latency_seconds": 9.17931842803955
-}

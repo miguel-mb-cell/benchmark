@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00001232.jpg",
-    "question_original_pt": "Descreva os gastos",
-    "timestamp_sent_utc": "2025-10-16T18:20:43.951552",
-    "response": "Com base na imagem fornecida, aqui está uma descrição detalhada:\n\nEsta é uma foto em close-up da parte superior de uma embalagem de leite da marca **Lucerne**. A embalagem tem um design predominantemente azul e branco.\n\n**Principais detalhes visíveis:**\n\n*   **Tampa:** Uma tampa de rosca de plástico branco, identificada como \"FRESH CAP™\", está no canto superior esquerdo.\n*   **Slogan:** Na parte azul da embalagem, em letras brancas, está a frase \"Tastes Fresh Longer\" (Sabor fresco por mais tempo).\n*   **Logotipo e Nome:** Abaixo da tampa, é possível ver parte do logotipo de uma vaca de desenho animado e o nome da marca \"Lucerne\". Mais abaixo, as palavras \"fat free milk\" (leite desnatado) são parcialmente visíveis.\n*   **Data de Validade:** No topo da embalagem, há uma data de validade estampada com a indicação \"SELL BY\" (Vender até). A data e hora parecem ser \"13:30 04/09\", seguidas por outros códigos de produção.\n*   **Ambiente:** A embalagem de leite está dentro de uma geladeira, o que é sugerido pela prateleira de arame branco e pela iluminação. Outra embalagem de leite e um item colorido ao fundo também são visíveis, mas desfocados.",
-    "latency_seconds": 15.969462156295776
-}

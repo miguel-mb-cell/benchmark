@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000272.jpg",
-    "question_original_pt": "O que tá dentro dessa garrafa?",
-    "timestamp_sent_utc": "2025-10-16T18:35:08.980515",
-    "response": "Com base na imagem, isso não é uma garrafa, mas sim a embalagem de uma refeição pronta para micro-ondas.\n\nDentro da embalagem há:\n\n**Macarrão Penne com Tomate Cremoso e Manjericão** (Creamy Tomato Basil Penne)\n\nA descrição diz que é um molho de tomate cremoso com ervas, alho e macarrão. É um produto da marca **Healthy Choice**.",
-    "latency_seconds": 7.992429971694946
-}

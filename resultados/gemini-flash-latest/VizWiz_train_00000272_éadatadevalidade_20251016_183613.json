@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000272.jpg",
-    "question_original_pt": "é a data de validade?",
-    "timestamp_sent_utc": "2025-10-16T18:35:36.672095",
-    "response": "Não, a imagem fornecida mostra a frente da embalagem do produto (informações nutricionais e o nome do prato), mas **a data de validade (ou \"consumir até\") não está visível aqui.**\n\nNormalmente, a data de validade é impressa na parte de trás, na lateral ou carimbada no fundo ou na tampa do recipiente.",
-    "latency_seconds": 5.013457775115967
-}

@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00001232.jpg",
-    "question_original_pt": "é a data de validade?",
-    "timestamp_sent_utc": "2025-10-16T18:22:25.671109",
-    "response": "Sim, essa marcação está relacionada à validade, mas ela especifica a **data limite de venda**.\n\nO texto visível é **\"SELL BY\"**, que em português significa **\"VENDER ATÉ\"** (ou \"Data Limite de Venda\").\n\n**O que isso significa:**\n\n*   Esta é a data até a qual o supermercado deve manter o produto na prateleira.\n*   Geralmente, produtos como leite podem ser consumidos com segurança por alguns dias (tipicamente 5 a 7 dias) *após* a data \"SELL BY\", desde que mantidos refrigerados adequadamente.\n\nA data impressa na caixa é **04/09** (provavelmente 9 de Abril, ou 4 de Setembro, dependendo da formatação regional, mas para leite nos EUA costuma ser Mês/Dia) e a hora é **13:30**.",
-    "latency_seconds": 5.824898719787598
-}

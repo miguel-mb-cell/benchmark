@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000296.jpg",
-    "question_original_pt": "Que número da página está visível? Obrigado.",
-    "timestamp_sent_utc": "2025-10-16T18:44:34.958498",
-    "response": "Com base na imagem fornecida, que mostra um pote de suplemento GNC Biotin, **não há nenhum número de página visível**.\n\nA imagem mostra o rótulo do produto, que inclui informações como a marca (GNC), o nome do produto (Biotin), a categoria (Dietary Supplement), e um código de barras. Números de página são tipicamente encontrados em documentos, livros ou manuais, e não em rótulos de embalagens de produtos.",
-    "latency_seconds": 1.747481107711792
-}

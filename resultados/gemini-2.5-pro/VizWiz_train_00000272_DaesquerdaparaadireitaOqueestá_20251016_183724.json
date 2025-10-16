@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000272.jpg",
-    "question_original_pt": "Da esquerda para a direita. O que está em cada uma dessas embalagens?",
-    "timestamp_sent_utc": "2025-10-16T18:36:37.591180",
-    "response": "Com base na imagem, a embalagem é de um único produto. Analisando as informações da embalagem, temos o seguinte:\n\nTrata-se de uma refeição para micro-ondas da marca **Healthy Choice**, da linha **Mixers**.\n\nO prato é **\"Creamy Tomato Basil Penne\"** (Penne Cremoso com Tomate e Manjericão). A descrição indica que é uma massa com molho de tomate cremoso, ervas e alho.\n\nA embalagem também destaca que a refeição contém:\n*   **280 Calorias**\n*   **1/2 xícara de vegetais**\n*   **28g de grãos integrais**\n\nÀ esquerda da embalagem (na parte de cima da foto, que está de lado), há instruções para um \"Cozedor de Massas para Micro-ondas\" (\"Microwave Pasta Cooker\") com escorredor embutido.",
-    "latency_seconds": 25.107707977294922
-}

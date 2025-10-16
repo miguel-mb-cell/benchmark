@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00001096.jpg",
-    "question_original_pt": "Qual o sabor desse jantar?",
-    "timestamp_sent_utc": "2025-10-16T18:48:11.882853",
-    "response": "Não consigo provar alimentos a partir de uma foto. Além disso, a imagem que você enviou não mostra comida — parece uma camisa social vinho/bordô pendurada.\n\nSe você quer saber o sabor de um jantar, envie uma foto da comida ou me diga os ingredientes e o modo de preparo. Com isso eu posso estimar o sabor (ex.: picante, salgado, doce, cítrico, umami) e dar sugestões de acompanhamento.",
-    "latency_seconds": 8.99772572517395
-}

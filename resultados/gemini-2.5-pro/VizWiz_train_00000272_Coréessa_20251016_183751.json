@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000272.jpg",
-    "question_original_pt": "Cor é essa?",
-    "timestamp_sent_utc": "2025-10-16T18:37:24.408699",
-    "response": "Com base na imagem, as cores predominantes na embalagem são:\n\n*   **Verde** (em tons de verde-limão e verde-escuro)\n*   **Roxo** (na área onde está o nome do prato)\n*   **Branco** (nas letras e no prato)\n\nA comida em si tem cores como **laranja**, **vermelho** e **amarelo**.",
-    "latency_seconds": 9.471556425094604
-}

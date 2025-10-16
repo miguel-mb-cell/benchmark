@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00001232.jpg",
-    "question_original_pt": "Cor é essa?",
-    "timestamp_sent_utc": "2025-10-16T18:24:04.949178",
-    "response": "Com base na imagem, as cores presentes são:\n\n*   **Azul:** É a cor principal da caixa de leite.\n*   **Branco:** Presente na tampa, no texto e na parte superior da embalagem.\n*   **Preto:** Usado na data de validade e no contorno do desenho da vaca.\n\nPortanto, a cor predominante é **azul**.",
-    "latency_seconds": 10.289772272109985
-}

@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00001232.jpg",
-    "question_original_pt": "Que número da página está visível? Obrigado.",
-    "timestamp_sent_utc": "2025-10-16T18:26:29.051057",
-    "response": "A imagem mostra a parte superior de uma caixa de leite, que contém datas de validade e códigos de lote, mas **não há número de página visível**.",
-    "latency_seconds": 4.76349949836731
-}

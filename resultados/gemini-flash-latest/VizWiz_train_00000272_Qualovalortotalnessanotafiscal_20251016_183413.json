@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000272.jpg",
-    "question_original_pt": "Qual o valor total nessa nota fiscal?",
-    "timestamp_sent_utc": "2025-10-16T18:33:42.466287",
-    "response": "A imagem fornecida é a embalagem de um produto alimentar (Healthy Choice Mixers, Creamy Tomato Basil Penne) e não uma nota fiscal ou recibo.\n\nPortanto, **não é possível determinar o valor total** com base nesta imagem, pois não há informações de preço, custo unitário ou valor final de compra visíveis. A imagem mostra apenas o nome do produto e dados nutricionais (280 calorias, 1/2 xícara de vegetais, 28g de grão integral).",
-    "latency_seconds": 4.108917951583862
-}

@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000667.jpg",
-    "question_original_pt": "Qual o sabor desse jantar?",
-    "timestamp_sent_utc": "2025-10-16T18:32:42.971613",
-    "response": "Olá! É importante notar que os itens na imagem **não são comida** e **não devem ser ingeridos**.\n\nA imagem mostra produtos de higiene pessoal de hotel:\n*   **Restoring Conditioner** (Condicionador)\n*   **Revitalizing Shampoo** (Xampu)\n*   **Nourishing Lotion** (Loção corporal)\n\nApesar de não terem um \"sabor\", eles têm uma fragrância. De acordo com o rótulo, o cheiro deles é uma mistura de:\n**Bergamota, gengibre fresco, chá branco, vetiver e noz-moscada.**\n\nPor favor, não coma esses produtos. Eles são para uso externo, no cabelo e na pele.",
-    "latency_seconds": 12.0834379196167
-}

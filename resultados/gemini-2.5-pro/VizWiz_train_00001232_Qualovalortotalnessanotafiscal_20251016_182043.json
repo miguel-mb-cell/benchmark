@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00001232.jpg",
-    "question_original_pt": "Qual o valor total nessa nota fiscal?",
-    "timestamp_sent_utc": "2025-10-16T18:20:03.029211",
-    "response": "A imagem fornecida não é uma nota fiscal. É a foto do topo de uma caixa de leite da marca \"Lucerne\".\n\nPortanto, não é possível encontrar um valor total nela. A imagem mostra a data de validade (\"Sell By\") e informações do produto.\n\nSe você puder enviar a imagem da nota fiscal, poderei ajudá-lo a encontrar o valor.",
-    "latency_seconds": 8.904802560806274
-}

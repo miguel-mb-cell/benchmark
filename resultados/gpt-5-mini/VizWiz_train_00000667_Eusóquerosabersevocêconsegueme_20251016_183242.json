@@ -1,7 +1,0 @@
-{
-    "arquivo_imagem": "VizWiz_train_00000667.jpg",
-    "question_original_pt": "Eu só quero saber se você consegue me falar a data de validade nessa caixa de leite?",
-    "timestamp_sent_utc": "2025-10-16T18:32:10.113424",
-    "response": "Pelo que vejo na foto, isso não é uma caixa de leite — são frascos de amenidades (condicionador/shampoo/loção) e não consigo ver nenhuma data de validade impressa. \n\nSe você quer que eu verifique a data, por favor:\n- tire uma foto mais próxima da área onde costuma vir a data (embaixo, lateral ou na tampa), com boa iluminação;  \n- evite reflexos e foque bem o texto;  \n- se houver um código pequeno ou símbolo \"EXP\" / \"Validade\" / \"MM/AAAA\" ou o ícone \"12M\", faça uma foto nítida dessa parte.\n\nManda a nova foto que eu tento ler.",
-    "latency_seconds": 8.655603647232056
-}
