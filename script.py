@@ -55,14 +55,34 @@ ARQUIVO_LOG = CAMINHO_RESULTADOS / "processed_log.json"
 ARQUIVO_FOTOS_ENVIADAS = CAMINHO_RESULTADOS / "fotos_enviadas.json"
 
 def load_sent_photos():
-    """Carrega as fotos já enviadas no dia atual do arquivo JSON."""
-    if ARQUIVO_FOTOS_ENVIADAS.exists():
+    """Carrega as fotos já enviadas no dia atual do arquivo JSON, criando-o se não existir."""
+    CAMINHO_RESULTADOS.mkdir(parents=True, exist_ok=True)
+    
+    if not ARQUIVO_FOTOS_ENVIADAS.exists():
+        # Cria o arquivo vazio (estrutura inicial)
+        with open(ARQUIVO_FOTOS_ENVIADAS, 'w', encoding='utf-8') as f:
+            json.dump({}, f, ensure_ascii=False, indent=4)
+        return {}
+    
+    try:
         with open(ARQUIVO_FOTOS_ENVIADAS, 'r', encoding='utf-8') as f:
             return json.load(f)
-    return {}
+    except json.JSONDecodeError:
+        # Se o arquivo estiver corrompido, recria do zero
+        print("⚠️  Arquivo 'fotos_enviadas.json' estava corrompido. Recriando.")
+        with open(ARQUIVO_FOTOS_ENVIADAS, 'w', encoding='utf-8') as f:
+            json.dump({}, f, ensure_ascii=False, indent=4)
+        return {}
+
 
 def save_sent_photos(sent_photos):
-    """Salva as fotos enviadas no arquivo JSON."""
+    """Salva a lista de fotos enviadas, garantindo que o diretório e o arquivo existam."""
+    CAMINHO_RESULTADOS.mkdir(parents=True, exist_ok=True)
+    # Garante que o arquivo exista antes de escrever
+    if not ARQUIVO_FOTOS_ENVIADAS.exists():
+        with open(ARQUIVO_FOTOS_ENVIADAS, 'w', encoding='utf-8') as f:
+            json.dump({}, f, ensure_ascii=False, indent=4)
+    # Agora grava o conteúdo normalmente
     with open(ARQUIVO_FOTOS_ENVIADAS, 'w', encoding='utf-8') as f:
         json.dump(sent_photos, f, ensure_ascii=False, indent=4)
 
