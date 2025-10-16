@@ -93,27 +93,36 @@ def save_sent_photos(sent_photos):
         json.dump(serializable_data, f, ensure_ascii=False, indent=4)
 
 def get_today_photos_to_send(all_photos):
+    """Retorna as 5 fotos designadas para o dia atual (as mesmas em todas as execuções do dia)."""
     today = str(date.today())
 
-    # Carrega as fotos enviadas (serão Paths se existirem)
+    # Carrega as fotos já enviadas
     sent_photos = load_sent_photos()
 
-    # Se já temos fotos registradas para hoje, retorna elas
+    # Se já existem fotos designadas para hoje → retorna elas
     if today in sent_photos and isinstance(sent_photos[today], list) and len(sent_photos[today]) > 0:
-        return sent_photos[today]
+        print(f"📷 Usando fotos já designadas para hoje ({today})")
+        return [Path(p) for p in sent_photos[today]]
 
-    # available_photos: fotos em all_photos que NÃO estão na lista de hoje nem nas já enviadas
-    # montamos um set com caminhos (Path) já registrados para evitar duplicação
+    # Caso contrário, selecionar novas fotos para o dia
+    print(f"🆕 Selecionando novas fotos para hoje ({today})")
     already_sent = set()
     for day, photos in sent_photos.items():
-        for p in photos:
-            already_sent.add(Path(p))
+        if day != today:  # Não incluir o dia de hoje na contagem de "já enviadas"
+            for p in photos:
+                already_sent.add(Path(p))
 
-    # Filtra mantendo objetos Path
+    # Filtra as que ainda não foram usadas em nenhum dia anterior
     available_photos = [photo for photo in all_photos if photo not in already_sent]
-    photos_for_today = available_photos[:5]  # seleciona até 5
 
-    # Registra as fotos do dia (mantendo em memória como Path)
+    if len(available_photos) == 0:
+        print("⚠️  Todas as fotos já foram enviadas! Reiniciando o ciclo...")
+        available_photos = all_photos
+
+    # Seleciona até 5 novas fotos (ou menos, se não houver tantas)
+    photos_for_today = available_photos[:5]
+
+    # Salva no histórico (mantendo persistência entre execuções)
     sent_photos[today] = photos_for_today
     save_sent_photos(sent_photos)
 
@@ -147,7 +156,7 @@ def save_result(api_name, arquivo_imagem, pergunta, response_data):
     output_path = result_dir / filename
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(response_data, f, ensure_ascii=False, indent=4)
-    print(f"Resultado salvo para '{api_name}' em: {output_path}")
+    print(f"✅ Resultado salvo para '{api_name}' em: {output_path}")
 
 def call_google_translate(text, target_language='en'):
     """Chama o script translate.js para usar a mesma biblioteca da aplicação."""
@@ -179,7 +188,7 @@ def encode_image_to_base64(image_path):
         return base64.b64encode(arquivo_imagem.read()).decode('utf-8')
 
 def call_gpt4o(image_path, pergunta):
-    print(f"Chamando GPT-4o para a imagem: {image_path.name}")
+    print(f"  - Chamando GPT-4o...")
     base64_image = encode_image_to_base64(image_path)
     start_time = time.time()
     try:
@@ -199,7 +208,7 @@ def call_gpt5_mini(image_path, pergunta):
         response = openai_client.chat.completions.create(
             model="gpt-5-mini", 
             messages=[{"role": "user", "content": [{"type": "text", "text": pergunta}, {"type": "image_url", "image_url": {"url": f"data:image/jpeg;base64,{base64_image}"}}]}],
-            max_completion_tokens=500 # <-- CORREÇÃO: Parâmetro atualizado de 'max_tokens'
+            max_completion_tokens=500
         )
         answer = response.choices[0].message.content
     except Exception as e:
@@ -209,7 +218,7 @@ def call_gpt5_mini(image_path, pergunta):
 
 
 def call_gemini(image_path, pergunta):
-    print(f"Chamando Gemini 2.5 Pro para a imagem: {image_path.name}")
+    print(f"  - Chamando Gemini 2.5 Pro...")
     start_time = time.time()
     try:
         img = Image.open(image_path)
@@ -241,14 +250,18 @@ def call_gemini_flash(image_path, pergunta):
 def call_moondream_with_translation(image_path, pergunta_pt):
     print(f"  - Chamando Moondream (com tradução)...")
     
-    # <-- CORREÇÃO: Cronômetro iniciado ANTES de qualquer operação
     start_time = time.time()
     
     pergunta_en = call_google_translate(pergunta_pt, target_language='en')
     
     if not moondream_model:
-        # ... (código de erro omitido por brevidade)
-        return {}
+        end_time = time.time()
+        return {
+            "pergunta_translated_en": pergunta_en,
+            "response_original_en": "Moondream não inicializado",
+            "response_translated_pt": "Moondream não inicializado",
+            "latency_seconds": end_time - start_time
+        }
 
     try:
         image = Image.open(image_path)
@@ -259,7 +272,6 @@ def call_moondream_with_translation(image_path, pergunta_pt):
     
     answer_pt = call_google_translate(answer_en, target_language='pt')
 
-    # <-- CORREÇÃO: Cronômetro parado APÓS todas as operações
     end_time = time.time()
     latency = end_time - start_time
 
@@ -273,52 +285,78 @@ def call_moondream_with_translation(image_path, pergunta_pt):
 
 def main():
     """Orquestra o benchmark, processando um número limitado de tarefas novas por execução."""
-    print("Iniciando o script de benchmark...")
+    print("=" * 60)
+    print("🚀 Iniciando o script de benchmark...")
+    print("=" * 60)
 
     # Carrega todas as fotos disponíveis
-    all_photos = [f for f in CAMINHO_IMAGENS.glob("*.jpg")]
+    all_photos = sorted([f for f in CAMINHO_IMAGENS.glob("*.jpg")])
+    print(f"📁 Total de fotos disponíveis: {len(all_photos)}")
 
     # Obtém as fotos do dia (sempre as mesmas para os 6 horários)
     photos_to_send_today = get_today_photos_to_send(all_photos)
     
-    print(f"Fotos selecionadas para hoje: {[photo.name for photo in photos_to_send_today]}")
+    print(f"\n📸 Fotos selecionadas para hoje ({date.today()}):")
+    for i, photo in enumerate(photos_to_send_today, 1):
+        print(f"   {i}. {photo.name}")
     
     # Carrega as perguntas
     try:
         with open(ARQUIVO_PERGUNTAS, 'r', encoding='utf-8') as f:
             data = json.load(f)
     except FileNotFoundError:
-        print(f"Arquivo de perguntas não encontrado em: {ARQUIVO_PERGUNTAS}")
+        print(f"❌ Arquivo de perguntas não encontrado em: {ARQUIVO_PERGUNTAS}")
         return
     
-    # Processa cada foto para os horários definidos (6 horários)
+    # Extrai todas as perguntas
+    perguntas = []
+    for item in data:
+        if "pergunta" in item and isinstance(item["pergunta"], list):
+            perguntas.extend(item["pergunta"])
+    
+    print(f"\n❓ Total de perguntas: {len(perguntas)}")
+    print(f"🔄 Total de combinações a processar: {len(photos_to_send_today)} fotos × {len(perguntas)} perguntas = {len(photos_to_send_today) * len(perguntas)} combinações\n")
+    
+    # Contador de progresso
+    total_combinations = len(photos_to_send_today) * len(perguntas)
+    current_combination = 0
+    
+    # Processa cada foto do dia
     for photo_path in photos_to_send_today:
-        for item in data:
-            if "pergunta" not in item:
-                continue
+        print(f"\n{'='*60}")
+        print(f"📷 Processando foto: {photo_path.name}")
+        print(f"{'='*60}")
+        
+        for question in perguntas:
+            current_combination += 1
+            print(f"\n[{current_combination}/{total_combinations}] 💬 Pergunta: '{question}'")
+            sent_timestamp = datetime.now().isoformat()
 
-            pergunta = item["pergunta"]
+            # Chama as APIs
+            gpt4o_result = call_gpt4o(photo_path, question)
+            gpt5mini_result = call_gpt5_mini(photo_path, question)
+            gemini_pro_result = call_gemini(photo_path, question)
+            gemini_flash_result = call_gemini_flash(photo_path, question)
+            moondream_result = call_moondream_with_translation(photo_path, question)
+
+            # Estrutura e salva os dados
+            base_data = {
+                "arquivo_imagem": photo_path.name, 
+                "question_original_pt": question, 
+                "timestamp_sent_utc": sent_timestamp,
+                "date": str(date.today())
+            }
             
-            for question in pergunta:
-                print(f"\nProcessando foto '{photo_path.name}' com a pergunta: '{question}'")
-                sent_timestamp = datetime.now().isoformat()
+            save_result("gpt-4o", photo_path, question, {**base_data, **gpt4o_result})
+            save_result("gpt-5-mini", photo_path, question, {**base_data, **gpt5mini_result})
+            save_result("gemini-2.5-pro", photo_path, question, {**base_data, **gemini_pro_result})
+            save_result("gemini-flash-latest", photo_path, question, {**base_data, **gemini_flash_result})
+            save_result("moondream", photo_path, question, {**base_data, **moondream_result})
 
-                # Chama as APIs
-                gpt4o_result = call_gpt4o(photo_path, question)
-                gpt5mini_result = call_gpt5_mini(photo_path, question)
-                gemini_pro_result = call_gemini(photo_path, question)
-                gemini_flash_result = call_gemini_flash(photo_path, question)
-                moondream_result = call_moondream_with_translation(photo_path, question)
-
-                # Estrutura e salva os dados
-                base_data = {"arquivo_imagem": photo_path.name, "question_original_pt": question, "timestamp_sent_utc": sent_timestamp}
-                save_result("gpt-4o", photo_path, question, {**base_data, **gpt4o_result})
-                save_result("gpt-5-mini", photo_path, question, {**base_data, **gpt5mini_result})
-                save_result("gemini-2.5-pro", photo_path, question, {**base_data, **gemini_pro_result})
-                save_result("gemini-flash-latest", photo_path, question, {**base_data, **gemini_flash_result})
-                save_result("moondream", photo_path, question, {**base_data, **moondream_result})
-
-    print(f"\nProcessamento concluído para as fotos de hoje.")
+    print(f"\n{'='*60}")
+    print(f"✅ Processamento concluído para as {len(photos_to_send_today)} fotos de hoje!")
+    print(f"📊 Total de combinações processadas: {total_combinations}")
+    print(f"{'='*60}\n")
 
     
 if __name__ == "__main__":
