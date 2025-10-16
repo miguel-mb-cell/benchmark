@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000006.jpg",
+    "question_original_pt": "O que tá dentro dessa garrafa?",
+    "timestamp_sent_utc": "2025-10-16T21:13:33.952062",
+    "date": "2025-10-16",
+    "pergunta_translated_en": "What's inside that bottle?",
+    "response_original_en": "The bottle contains Equate Advanced Antiseptic Mouthrinse with Tartar Protection.",
+    "response_translated_pt": "O frasco contém enxaguatório bucal anti-séptico Equate Advanced com proteção tártaro.",
+    "latency_seconds": 3.338585138320923
+}

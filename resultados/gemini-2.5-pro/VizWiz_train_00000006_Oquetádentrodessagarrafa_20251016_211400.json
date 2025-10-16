@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000006.jpg",
+    "question_original_pt": "O que tá dentro dessa garrafa?",
+    "timestamp_sent_utc": "2025-10-16T21:13:33.952062",
+    "date": "2025-10-16",
+    "response": "Com base na imagem, dentro da garrafa há um **enxaguante bucal antisséptico**.\n\nMais especificamente, é um produto da marca **Equate**, com sabor de **Citrus** (frutas cítricas) e que oferece proteção contra o tártaro. O rótulo também menciona que ele é comparável ao Listerine® de sabor Citrus.",
+    "latency_seconds": 10.273524522781372
+}

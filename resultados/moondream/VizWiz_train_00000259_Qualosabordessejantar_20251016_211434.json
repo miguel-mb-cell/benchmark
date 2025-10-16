@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000259.jpg",
+    "question_original_pt": "Qual o sabor desse jantar?",
+    "timestamp_sent_utc": "2025-10-16T21:14:00.895988",
+    "date": "2025-10-16",
+    "pergunta_translated_en": "How does this dinner taste?",
+    "response_original_en": "The dinner appears to have a tomato-based sauce with cheese and herbs on top. The image does not provide enough information to describe the taste in detail.",
+    "response_translated_pt": "O jantar parece ter molho à base de tomate com queijo e ervas por cima. A imagem não fornece informações suficientes para descrever detalhadamente o sabor.",
+    "latency_seconds": 3.6625404357910156
+}

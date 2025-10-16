@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000628.jpg",
+    "question_original_pt": "Que número da página está visível? Obrigado.",
+    "timestamp_sent_utc": "2025-10-16T21:15:07.623536",
+    "date": "2025-10-16",
+    "pergunta_translated_en": "What page number is visible? Thanks.",
+    "response_original_en": "88",
+    "response_translated_pt": "88",
+    "latency_seconds": 1.7142233848571777
+}

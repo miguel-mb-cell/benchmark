@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000272.jpg",
+    "question_original_pt": "é a data de validade?",
+    "timestamp_sent_utc": "2025-10-16T21:14:34.439334",
+    "date": "2025-10-16",
+    "response": "Com base na imagem fornecida, **não é possível ver a data de validade (expiration date)**.\n\nA imagem mostra a parte superior da embalagem (rótulo e informações nutricionais), mas as datas de validade são geralmente impressas em locais menos proeminentes, como:\n\n*   Na parte **inferior** da embalagem.\n*   Carimbadas na **borda da tampa** ou no **corpo do recipiente**.\n*   Na **lateral** do rótulo.",
+    "latency_seconds": 4.856239318847656
+}

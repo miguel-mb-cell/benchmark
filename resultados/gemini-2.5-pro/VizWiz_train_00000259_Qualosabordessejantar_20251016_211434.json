@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000259.jpg",
+    "question_original_pt": "Qual o sabor desse jantar?",
+    "timestamp_sent_utc": "2025-10-16T21:14:00.895988",
+    "date": "2025-10-16",
+    "response": "Com base na embalagem da imagem, este jantar é um prato da marca \"Top Chef\" de **Ravióli de Ricota e Espinafre com Frango**.\n\nO sabor deve ser uma combinação de:\n\n*   **Massa (ravióli):** Sabor suave de massa.\n*   **Recheio:** Cremoso e suave do queijo ricota com o sabor levemente terroso do espinafre.\n*   **Molho:** Um molho de tomate, que geralmente é um pouco ácido e adocicado.\n*   **Proteína:** Pedaços de frango, adicionando um sabor salgado e uma textura mais firme.\n*   **Cobertura:** Queijo ralado (provavelmente parmesão), que adiciona um sabor salgado e umami, e uma folha de manjericão, que dá um toque fresco e aromático.\n\nEm resumo, é um prato italiano clássico com sabores cremosos, salgados e um toque de acidez do tomate.",
+    "latency_seconds": 13.90694284439087
+}

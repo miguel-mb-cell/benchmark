@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000259.jpg",
+    "question_original_pt": "Qual o sabor desse jantar?",
+    "timestamp_sent_utc": "2025-10-16T21:14:00.895988",
+    "date": "2025-10-16",
+    "response": "Parece ser um prato de ravioli recheado com ricota e espinafre, coberto com molho de tomate e queijo parmesão.",
+    "latency_seconds": 2.6208441257476807
+}

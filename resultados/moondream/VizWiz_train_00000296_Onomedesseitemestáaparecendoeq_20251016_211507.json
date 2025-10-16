@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000296.jpg",
+    "question_original_pt": "O nome desse item está aparecendo e qual é?",
+    "timestamp_sent_utc": "2025-10-16T21:14:53.344421",
+    "date": "2025-10-16",
+    "pergunta_translated_en": "The name of this item is showing and what is it?",
+    "response_original_en": "The item is a GNC Biotin dietary supplement bottle.",
+    "response_translated_pt": "O item é um frasco de suplemento dietético GNC Biotin.",
+    "latency_seconds": 2.383253335952759
+}

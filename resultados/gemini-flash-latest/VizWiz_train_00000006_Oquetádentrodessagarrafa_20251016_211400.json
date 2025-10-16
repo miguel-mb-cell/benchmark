@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000006.jpg",
+    "question_original_pt": "O que tá dentro dessa garrafa?",
+    "timestamp_sent_utc": "2025-10-16T21:13:33.952062",
+    "date": "2025-10-16",
+    "response": "Com base na imagem do rótulo, o que está dentro da garrafa é um **Enxaguante Bucal Antisséptico (Mouthrinse)** da marca **Equate**, sabor **Cítrico (Citrus)**, com proteção contra o tártaro.\n\nÉ usado para:\n*   Matar germes que causam mau hálito, placa e gengivite.\n*   Combater o acúmulo de tártaro.",
+    "latency_seconds": 3.717014789581299
+}

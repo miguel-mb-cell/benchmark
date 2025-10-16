@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000259.jpg",
+    "question_original_pt": "Qual o sabor desse jantar?",
+    "timestamp_sent_utc": "2025-10-16T21:14:00.895988",
+    "date": "2025-10-16",
+    "response": "Com base na imagem da embalagem do produto Top Chef, o jantar é um prato de massa recheada.\n\nO sabor é de **Ravioli de Frango, Ricota e Espinafre** (Chicken Tender, Whole Grain Ravioli, Ricotta & Spinach).\n\nOs sabores principais seriam:\n\n1.  **Tomate:** Dominante, proveniente do molho vermelho que cobre a massa.\n2.  **Queijo e Cremoso:** Devido ao recheio de Ricota e espinafre dentro do ravioli, e o queijo ralado por cima (provavelmente parmesão).\n3.  **Salgado (Savory):** Pelo frango e pela base do molho italiano.\n4.  **Ervas:** Tipicamente, pratos assim contêm manjericão e alho, dando um toque aromático.\n\nPortanto, o sabor é **italiano, rico, cremoso e com notas frescas de tomate e espinafre.**",
+    "latency_seconds": 5.6118199825286865
+}
