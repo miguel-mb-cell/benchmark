@@ -5,6 +5,7 @@ import base64
 from datetime import datetime
 from pathlib import Path
 import subprocess
+from datetime import date
 
 import moondream as md
 
@@ -51,6 +52,40 @@ CAMINHO_IMAGENS = CAMINHO_DADOS / "imagens"
 ARQUIVO_PERGUNTAS = CAMINHO_DADOS / "perguntas.json"
 CAMINHO_RESULTADOS = Path("resultados")
 ARQUIVO_LOG = CAMINHO_RESULTADOS / "processed_log.json"
+ARQUIVO_FOTOS_ENVIADAS = CAMINHO_RESULTADOS / "fotos_enviadas.json"
+
+def load_sent_photos():
+    """Carrega as fotos já enviadas no dia atual do arquivo JSON."""
+    if ARQUIVO_FOTOS_ENVIADAS.exists():
+        with open(ARQUIVO_FOTOS_ENVIADAS, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    return {}
+
+def save_sent_photos(sent_photos):
+    """Salva as fotos enviadas no arquivo JSON."""
+    with open(ARQUIVO_FOTOS_ENVIADAS, 'w', encoding='utf-8') as f:
+        json.dump(sent_photos, f, ensure_ascii=False, indent=4)
+
+def get_today_photos_to_send(all_photos):
+    """Obtém as fotos que precisam ser enviadas hoje."""
+    today = str(date.today())  # Exemplo: '2025-10-16'
+    
+    # Carrega as fotos enviadas
+    sent_photos = load_sent_photos()
+    
+    # Se o dia de hoje já estiver no arquivo, pega as fotos do dia anterior
+    if today in sent_photos:
+        return sent_photos[today]
+    
+    # Caso contrário, escolhe as primeiras 5 fotos não enviadas ainda
+    available_photos = [photo for photo in all_photos if photo not in sent_photos.get(today, [])]
+    photos_for_today = available_photos[:5]  # Seleciona até 5 fotos
+    
+    # Registra as fotos que foram enviadas hoje
+    sent_photos[today] = photos_for_today
+    save_sent_photos(sent_photos)
+
+    return photos_for_today
 
 
 def load_processed_log():
@@ -207,78 +242,52 @@ def call_moondream_with_translation(image_path, pergunta_pt):
 def main():
     """Orquestra o benchmark, processando um número limitado de tarefas novas por execução."""
     print("Iniciando o script de benchmark...")
+
+    # Carrega todas as fotos disponíveis
+    all_photos = [f for f in CAMINHO_IMAGENS.glob("*.jpg")]
+
+    # Obtém as fotos do dia (sempre as mesmas para os 6 horários)
+    photos_to_send_today = get_today_photos_to_send(all_photos)
     
-    processed_log = load_processed_log()
-    print(f"Encontradas {len(processed_log)} tarefas já processadas no log.")
+    print(f"Fotos selecionadas para hoje: {[photo.name for photo in photos_to_send_today]}")
     
+    # Carrega as perguntas
     try:
         with open(ARQUIVO_PERGUNTAS, 'r', encoding='utf-8') as f:
             data = json.load(f)
     except FileNotFoundError:
         print(f"Arquivo de perguntas não encontrado em: {ARQUIVO_PERGUNTAS}")
         return
-
-    # NOVO: Monta uma lista de todas as tarefas pendentes
-    tasks_to_process = []
-    for item in data:
-        if "arquivo_imagem" not in item or "pergunta" not in item:
-            continue
-        
-        arquivo_imagem = item["arquivo_imagem"]
-        for question in item["pergunta"]:
-            unique_id = f"{arquivo_imagem}::{question}"
-            if unique_id not in processed_log:
-                tasks_to_process.append({
-                    "unique_id": unique_id,
-                    "arquivo_imagem": arquivo_imagem,
-                    "question": question,
-                    "image_path": CAMINHO_IMAGENS / arquivo_imagem
-                })
-
-    # NOVO: Embaralha a lista de tarefas pendentes para garantir variedade
-    random.shuffle(tasks_to_process)
     
-    # NOVO: Seleciona o número máximo de tarefas para esta execução
-    tasks_for_this_run = tasks_to_process[:MAX_TASKS_PER_RUN]
-    
-    print(f"Encontradas {len(tasks_to_process)} novas tarefas. Processando no máximo {len(tasks_for_this_run)} nesta execução.")
+    # Processa cada foto para os horários definidos (6 horários)
+    for photo_path in photos_to_send_today:
+        for item in data:
+            if "pergunta" not in item:
+                continue
 
-    # ALTERADO: O loop principal agora itera sobre a pequena lista de tarefas selecionadas
-    for task in tasks_for_this_run:
-        # Extrai as informações da tarefa
-        unique_id = task["unique_id"]
-        arquivo_imagem = task["arquivo_imagem"]
-        question = task["question"]
-        image_path = task["image_path"]
+            pergunta = item["pergunta"]
+            
+            for question in pergunta:
+                print(f"\nProcessando foto '{photo_path.name}' com a pergunta: '{question}'")
+                sent_timestamp = datetime.now().isoformat()
 
-        if not image_path.exists():
-            print(f"\nAviso: Imagem '{arquivo_imagem}' não encontrada. Pulando tarefa.")
-            continue
+                # Chama as APIs
+                gpt4o_result = call_gpt4o(photo_path, question)
+                gpt5mini_result = call_gpt5_mini(photo_path, question)
+                gemini_pro_result = call_gemini(photo_path, question)
+                gemini_flash_result = call_gemini_flash(photo_path, question)
+                moondream_result = call_moondream_with_translation(photo_path, question)
 
-        print(f"\nProcessando nova tarefa: '{arquivo_imagem}' com a pergunta: '{question}'")
-        sent_timestamp = datetime.now().isoformat()
+                # Estrutura e salva os dados
+                base_data = {"arquivo_imagem": photo_path.name, "question_original_pt": question, "timestamp_sent_utc": sent_timestamp}
+                save_result("gpt-4o", photo_path, question, {**base_data, **gpt4o_result})
+                save_result("gpt-5-mini", photo_path, question, {**base_data, **gpt5mini_result})
+                save_result("gemini-2.5-pro", photo_path, question, {**base_data, **gemini_pro_result})
+                save_result("gemini-flash-latest", photo_path, question, {**base_data, **gemini_flash_result})
+                save_result("moondream", photo_path, question, {**base_data, **moondream_result})
 
-        # Chama as APIs
-        gpt4o_result = call_gpt4o(image_path, question)
-        gpt5mini_result = call_gpt5_mini(image_path, question)
-        gemini_pro_result = call_gemini(image_path, question)
-        gemini_flash_result = call_gemini_flash(image_path, question)
-        moondream_result = call_moondream_with_translation(image_path, question)
+    print(f"\nProcessamento concluído para as fotos de hoje.")
 
-        # Estrutura e salva os dados
-        base_data = {"arquivo_imagem": arquivo_imagem, "question_original_pt": question, "timestamp_sent_utc": sent_timestamp}
-        save_result("gpt-4o", arquivo_imagem, question, {**base_data, **gpt4o_result})
-        save_result("gpt-5-mini", arquivo_imagem, question, {**base_data, **gpt5mini_result})
-        save_result("gemini-2.5-pro", arquivo_imagem, question, {**base_data, **gemini_pro_result})
-        save_result("gemini-flash-latest", arquivo_imagem, question, {**base_data, **gemini_flash_result})
-        save_result("moondream", arquivo_imagem, question, {**base_data, **moondream_result})
-
-        # Adiciona o ID da tarefa ao log após o sucesso
-        processed_log.add(unique_id)
-        # Salva o log a cada nova tarefa processada para evitar perdas
-        save_processed_log(processed_log)
-
-    print(f"\nProcessamento concluído. {len(tasks_for_this_run)} tarefas foram processadas nesta execução.")
     
 if __name__ == "__main__":
     main()
