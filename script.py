@@ -225,12 +225,9 @@ def main():
             continue
         
         arquivo_imagem = item["arquivo_imagem"]
-        for question_data in item["pergunta"]:
-            question = question_data["pergunta"]
+        for question in item["pergunta"]:
             unique_id = f"{arquivo_imagem}::{question}"
-            
             if unique_id not in processed_log:
-                # Armazena todas as informações necessárias para executar a tarefa
                 tasks_to_process.append({
                     "unique_id": unique_id,
                     "arquivo_imagem": arquivo_imagem,
