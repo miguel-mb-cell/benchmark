@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000259.jpg",
+    "question_original_pt": "Qual o sabor desse jantar?",
+    "timestamp_sent_utc": "2025-10-16T19:30:00.432096",
+    "date": "2025-10-16",
+    "response": "O jantar é um Ravioli de Frango com Espinafre, coberto com molho de tomate.",
+    "latency_seconds": 2.4552643299102783
+}

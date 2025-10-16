@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000006.jpg",
+    "question_original_pt": "O que tá dentro dessa garrafa?",
+    "timestamp_sent_utc": "2025-10-16T19:29:42.502261",
+    "date": "2025-10-16",
+    "response": "A garrafa contém enxaguante bucal antisséptico com sabor de citrus.",
+    "latency_seconds": 3.181774854660034
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000272.jpg",
+    "question_original_pt": "é a data de validade?",
+    "timestamp_sent_utc": "2025-10-16T19:30:22.992232",
+    "date": "2025-10-16",
+    "response": "A imagem não mostra a data de validade. Para encontrá-la, verifique na embalagem, geralmente na parte inferior ou nas laterais.",
+    "latency_seconds": 2.69321870803833
+}

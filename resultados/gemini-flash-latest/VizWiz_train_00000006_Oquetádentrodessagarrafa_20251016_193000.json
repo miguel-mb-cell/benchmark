@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000006.jpg",
+    "question_original_pt": "O que tá dentro dessa garrafa?",
+    "timestamp_sent_utc": "2025-10-16T19:29:42.502261",
+    "date": "2025-10-16",
+    "response": "Com base na imagem do rótulo, o que está dentro da garrafa é um **Enxaguante Bucal Antisséptico (Mouthrinse) com Proteção contra Tártaro**.\n\nAs informações principais são:\n\n*   **Marca:** Equate\n*   **Tipo de Produto:** Advanced Antiseptic Mouthrinse With Tartar Protection (Enxaguante Bucal Antisséptico Avançado com Proteção contra Tártaro)\n*   **Sabor:** Citrus (Cítrico)\n*   **Função:** Mata germes que causam mau hálito, placa e gengivite, e combate o acúmulo de tártaro.",
+    "latency_seconds": 4.301225900650024
+}

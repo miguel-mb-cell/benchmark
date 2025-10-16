@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000259.jpg",
+    "question_original_pt": "Qual o sabor desse jantar?",
+    "timestamp_sent_utc": "2025-10-16T19:30:00.432096",
+    "date": "2025-10-16",
+    "response": "O jantar na embalagem parece ser um prato de massa italiana, especificamente **Ravioli**, da linha \"Top Chef\".\n\nBaseando-se na imagem e nos textos parcialmente visíveis (que indicam \"Ricotta Ravioli\", \"Chicken\" e \"Spinach\"), o sabor principal será:\n\n1.  **Sabor Principal:** **Italiano** (salgado e umami), derivado do queijo e do molho.\n2.  **Molho:** **Tomate** (sabor ácido, doce e saboroso, típico de um molho Marinara/Pomodoro).\n3.  **Recheio:** **Cremoso e saboroso**, com uma mistura de **queijo Ricota** e/ou Mozzarella, **espinafre** (que adiciona um toque terroso) e **frango**.\n4.  **Ervas:** É provável que tenha notas de **manjericão** e outros temperos italianos, adicionando um frescor herbáceo.\n\nEm resumo, o jantar tem um sabor **italiano clássico de ravioli recheado, rico e cremoso, coberto por um molho de tomate vibrante.**",
+    "latency_seconds": 7.116113662719727
+}
