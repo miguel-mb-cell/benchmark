@@ -59,16 +59,16 @@ def load_sent_photos():
     CAMINHO_RESULTADOS.mkdir(parents=True, exist_ok=True)
     
     if not ARQUIVO_FOTOS_ENVIADAS.exists():
-        # Cria o arquivo vazio (estrutura inicial)
         with open(ARQUIVO_FOTOS_ENVIADAS, 'w', encoding='utf-8') as f:
             json.dump({}, f, ensure_ascii=False, indent=4)
         return {}
-    
+
     try:
         with open(ARQUIVO_FOTOS_ENVIADAS, 'r', encoding='utf-8') as f:
-            return json.load(f)
+            data = json.load(f)
+            # Converte strings de volta para Path
+            return {day: [Path(p) for p in photos] for day, photos in data.items()}
     except json.JSONDecodeError:
-        # Se o arquivo estiver corrompido, recria do zero
         print("⚠️  Arquivo 'fotos_enviadas.json' estava corrompido. Recriando.")
         with open(ARQUIVO_FOTOS_ENVIADAS, 'w', encoding='utf-8') as f:
             json.dump({}, f, ensure_ascii=False, indent=4)
@@ -76,32 +76,44 @@ def load_sent_photos():
 
 
 def save_sent_photos(sent_photos):
-    """Salva a lista de fotos enviadas, garantindo que o diretório e o arquivo existam."""
     CAMINHO_RESULTADOS.mkdir(parents=True, exist_ok=True)
-    # Garante que o arquivo exista antes de escrever
+
+    # Cria arquivo vazio se não existir (segurança extra; opcional)
     if not ARQUIVO_FOTOS_ENVIADAS.exists():
         with open(ARQUIVO_FOTOS_ENVIADAS, 'w', encoding='utf-8') as f:
             json.dump({}, f, ensure_ascii=False, indent=4)
-    # Agora grava o conteúdo normalmente
+
+    # Garante que todo valor seja serializável (lista de strings)
+    serializable_data = {}
+    for day, photos in sent_photos.items():
+        # photos pode conter Path ou str; convert para str
+        serializable_data[day] = [str(p) for p in photos]
+
     with open(ARQUIVO_FOTOS_ENVIADAS, 'w', encoding='utf-8') as f:
-        json.dump(sent_photos, f, ensure_ascii=False, indent=4)
+        json.dump(serializable_data, f, ensure_ascii=False, indent=4)
 
 def get_today_photos_to_send(all_photos):
-    """Obtém as fotos que precisam ser enviadas hoje."""
-    today = str(date.today())  # Exemplo: '2025-10-16'
-    
-    # Carrega as fotos enviadas
+    today = str(date.today())
+
+    # Carrega as fotos enviadas (serão Paths se existirem)
     sent_photos = load_sent_photos()
-    
-    # Se o dia de hoje já estiver no arquivo, pega as fotos do dia anterior
-    if today in sent_photos:
+
+    # Se já temos fotos registradas para hoje, retorna elas
+    if today in sent_photos and isinstance(sent_photos[today], list) and len(sent_photos[today]) > 0:
         return sent_photos[today]
-    
-    # Caso contrário, escolhe as primeiras 5 fotos não enviadas ainda
-    available_photos = [photo for photo in all_photos if photo not in sent_photos.get(today, [])]
-    photos_for_today = available_photos[:5]  # Seleciona até 5 fotos
-    
-    # Registra as fotos que foram enviadas hoje
+
+    # available_photos: fotos em all_photos que NÃO estão na lista de hoje nem nas já enviadas
+    # montamos um set com caminhos (Path) já registrados para evitar duplicação
+    already_sent = set()
+    for day, photos in sent_photos.items():
+        for p in photos:
+            already_sent.add(Path(p))
+
+    # Filtra mantendo objetos Path
+    available_photos = [photo for photo in all_photos if photo not in already_sent]
+    photos_for_today = available_photos[:5]  # seleciona até 5
+
+    # Registra as fotos do dia (mantendo em memória como Path)
     sent_photos[today] = photos_for_today
     save_sent_photos(sent_photos)
 
