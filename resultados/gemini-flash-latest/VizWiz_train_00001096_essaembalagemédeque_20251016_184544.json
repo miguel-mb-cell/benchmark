@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001096.jpg",
+    "question_original_pt": "essa embalagem é de que?",
+    "timestamp_sent_utc": "2025-10-16T18:45:26.575392",
+    "response": "A imagem que você enviou **não mostra uma embalagem**, mas sim uma **peça de roupa** pendurada.\n\nPela forma, cores e detalhes (como o colarinho e os botões), trata-se de uma **camisa social (ou camisa de botão)** de manga longa, provavelmente na cor **bordô** ou **vinho**.",
+    "latency_seconds": 4.038138389587402
+}

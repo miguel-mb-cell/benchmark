@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000272.jpg",
+    "question_original_pt": "Da esquerda para a direita. O que está em cada uma dessas embalagens?",
+    "timestamp_sent_utc": "2025-10-16T18:36:37.591180",
+    "response": "Da esquerda para a direita:\n- Ícones/instruções de preparo (prep, cook & strain, mix).\n- Rótulo com o nome do produto/variedade: \"Creamy Tomato Basil Penne\" (marca Healthy Choice).\n- Foto do alimento: penne com molho cremoso de tomate e manjericão.",
+    "latency_seconds": 10.081250429153442
+}

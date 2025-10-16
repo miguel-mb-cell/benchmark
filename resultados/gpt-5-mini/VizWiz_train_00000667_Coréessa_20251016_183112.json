@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000667.jpg",
+    "question_original_pt": "Cor é essa?",
+    "timestamp_sent_utc": "2025-10-16T18:30:39.514293",
+    "response": "Você quer a cor de qual? Vou descrever as três da esquerda para a direita:\n\n- Esquerda: verde‑amarelado pálido (tipo limão claro). — aprox. #EAF0C6  \n- Meio: âmbar/translúcido, tom bege‑amarelado claro. — aprox. #F1D8B2  \n- Direita: branco/creme perolado. — aprox. #F6F6F4\n\nSe quiser, marco qual delas na imagem ou dou um código de cor mais preciso.",
+    "latency_seconds": 9.290967226028442
+}

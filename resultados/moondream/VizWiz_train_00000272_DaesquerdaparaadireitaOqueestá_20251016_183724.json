@@ -1,0 +1,9 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000272.jpg",
+    "question_original_pt": "Da esquerda para a direita. O que está em cada uma dessas embalagens?",
+    "timestamp_sent_utc": "2025-10-16T18:36:37.591180",
+    "pergunta_translated_en": "From left to right. What is in each of these packages?",
+    "response_original_en": "Microwave Pasta Cooker with built-in strainer, Prep, Cook & Strain",
+    "response_translated_pt": "Panela de macarrão para micro-ondas com peneira embutida, Prep, Cook & Strain",
+    "latency_seconds": 3.9090402126312256
+}

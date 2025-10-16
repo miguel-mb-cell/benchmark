@@ -1,0 +1,9 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000667.jpg",
+    "question_original_pt": "Cor é essa?",
+    "timestamp_sent_utc": "2025-10-16T18:30:39.514293",
+    "pergunta_translated_en": "Is this color?",
+    "response_original_en": "Yes, the bottles are white.",
+    "response_translated_pt": "Sim, as garrafas são brancas.",
+    "latency_seconds": 3.7332756519317627
+}

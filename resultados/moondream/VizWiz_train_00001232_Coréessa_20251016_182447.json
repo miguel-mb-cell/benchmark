@@ -1,0 +1,9 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001232.jpg",
+    "question_original_pt": "Cor é essa?",
+    "timestamp_sent_utc": "2025-10-16T18:24:04.949178",
+    "pergunta_translated_en": "Is this color?",
+    "response_original_en": "Yes, the carton is blue.",
+    "response_translated_pt": "Sim, a caixa é azul.",
+    "latency_seconds": 6.036854267120361
+}

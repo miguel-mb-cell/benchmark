@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000272.jpg",
+    "question_original_pt": "O que tá dentro dessa garrafa?",
+    "timestamp_sent_utc": "2025-10-16T18:35:08.980515",
+    "response": "Esta não é uma garrafa. É uma embalagem de comida congelada com o rótulo \"Creamy Tomato Basil Penne\", que indica que contém um prato de penne com molho cremoso de tomate e manjericão.",
+    "latency_seconds": 4.16508412361145
+}

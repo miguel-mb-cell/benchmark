@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001232.jpg",
+    "question_original_pt": "Cor é essa?",
+    "timestamp_sent_utc": "2025-10-16T18:24:04.949178",
+    "response": "A cor predominante na embalagem de leite é **azul**.\n\n(Há também detalhes em branco, preto, e a tampa é branca.)",
+    "latency_seconds": 3.67024827003479
+}

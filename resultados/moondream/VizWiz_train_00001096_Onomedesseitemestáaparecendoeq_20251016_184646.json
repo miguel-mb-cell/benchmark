@@ -1,0 +1,9 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001096.jpg",
+    "question_original_pt": "O nome desse item está aparecendo e qual é?",
+    "timestamp_sent_utc": "2025-10-16T18:46:23.570216",
+    "pergunta_translated_en": "The name of this item is showing and what is it?",
+    "response_original_en": "{\n  \"item_name\": \"shirt\",\n  \"item_type\": \"dress shirt\"\n}",
+    "response_translated_pt": "{\n  \"item_name\": \"camisa\",\n  \"item_type\": \"camisa social\"\n}",
+    "latency_seconds": 2.7611701488494873
+}

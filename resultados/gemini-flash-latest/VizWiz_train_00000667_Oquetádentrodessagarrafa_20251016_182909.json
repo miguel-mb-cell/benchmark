@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000667.jpg",
+    "question_original_pt": "O que tá dentro dessa garrafa?",
+    "timestamp_sent_utc": "2025-10-16T18:28:39.882973",
+    "response": "Dentro dessas \"garrafas\" (que na verdade são tubos de amenidades de hotel da marca **RE⚫NEU™ BOTANICALS**), há três produtos diferentes:\n\n1.  **Restoring Conditioner** (Condicionador Restaurador)\n2.  **Revitalizing Shampoo** (Shampoo Revitalizante)\n3.  **Nourishing Lotion** (Loção Nutritiva/Hidratante)\n\nTodos os três produtos compartilham a mesma fragrância, descrita como uma mistura de bergamota, gengibre, chá branco, vetiver e noz-moscada.",
+    "latency_seconds": 4.940423488616943
+}

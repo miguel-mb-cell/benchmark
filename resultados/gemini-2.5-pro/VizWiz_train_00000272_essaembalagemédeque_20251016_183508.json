@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000272.jpg",
+    "question_original_pt": "essa embalagem é de que?",
+    "timestamp_sent_utc": "2025-10-16T18:34:40.277571",
+    "response": "Com base na imagem, esta é a embalagem de uma refeição de macarrão para micro-ondas da marca **Healthy Choice**.\n\nO produto específico é o **Creamy Tomato Basil Penne** (Penne Cremoso com Tomate e Manjericão).",
+    "latency_seconds": 10.313515663146973
+}

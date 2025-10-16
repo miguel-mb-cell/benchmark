@@ -1,0 +1,9 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001232.jpg",
+    "question_original_pt": "é a data de validade?",
+    "timestamp_sent_utc": "2025-10-16T18:22:25.671109",
+    "pergunta_translated_en": "Is it the expiration date?",
+    "response_original_en": "No, the expiration date is not visible in the image. The carton only shows the sell-by date (10/30/2019) and other product information.",
+    "response_translated_pt": "Não, a data de validade não está visível na imagem. A embalagem mostra apenas a data de validade (30/10/2019) e outras informações do produto.",
+    "latency_seconds": 3.6756975650787354
+}

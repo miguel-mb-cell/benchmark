@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001096.jpg",
+    "question_original_pt": "Da esquerda para a direita. O que está em cada uma dessas embalagens?",
+    "timestamp_sent_utc": "2025-10-16T18:46:46.774270",
+    "response": "A imagem fornecida não mostra \"embalagens\" (packages).\n\nA foto exibe uma única peça de roupa:\n\n*   **Uma camisa social (ou camisa de botões) de manga longa.**\n*   A cor é um tom escuro de **bordô** (vinho ou roxo-avermelhado).",
+    "latency_seconds": 4.707486867904663
+}

@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000272.jpg",
+    "question_original_pt": "Da esquerda para a direita. O que está em cada uma dessas embalagens?",
+    "timestamp_sent_utc": "2025-10-16T18:36:37.591180",
+    "response": "Com base na imagem, a embalagem contém:\n\n**Penne de Tomate, Manjericão e Cremoso (Creamy Tomato Basil Penne)**.\n\nÉ um prato de massa para micro-ondas (MICROWAVE PASTA COOKER) da marca **Healthy Choice Mixers**. A embalagem especifica que é um \"Molho Cremoso de Tomate com Ervas, Alho e Massa\" (Creamy Tomato Sauce with Herbs, Garlic & Pasta).\n\nOutras informações nutricionais visíveis:\n*   280 Calorias\n*   1/2 xícara de vegetais (1/2 Cup of Vegetables)\n*   28g de grão integral (28g Whole Grain)",
+    "latency_seconds": 1.8771963119506836
+}

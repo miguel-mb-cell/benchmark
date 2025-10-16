@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001096.jpg",
+    "question_original_pt": "Qual o valor total nessa nota fiscal?",
+    "timestamp_sent_utc": "2025-10-16T18:44:45.280835",
+    "response": "A imagem fornecida é uma fotografia de uma camisa, e **não de uma nota fiscal ou recibo**.\n\nComo a imagem não contém nenhum texto legível, números ou o layout de um documento fiscal, é **impossível determinar o valor total** da compra.\n\nPara obter o valor, você precisará enviar uma imagem da nota fiscal ou do cupom fiscal que acompanhou o produto.",
+    "latency_seconds": 4.678108215332031
+}

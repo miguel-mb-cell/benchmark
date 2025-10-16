@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000272.jpg",
+    "question_original_pt": "Descreva os gastos",
+    "timestamp_sent_utc": "2025-10-16T18:34:13.004749",
+    "response": "Based on the image provided, here is a description of the product and the details visible on the packaging:\n\nThe product appears to be a microwaveable meal from the **Healthy Choice Mixers** line.\n\n**Product Name/Flavor:**\n*   **Creamy Tomato Basil Penne**\n*   (The accompanying text specifies: Creamy Tomato Sauce with Herbs, Garlic & Pasta)\n\n**Key Nutritional/Ingredient Information Visible:**\n*   **280 Calories**\n*   **1/2 Cup of Vegetables**\n*   **28g Whole Grain**\n\n**Preparation/Cooking Method:**\nThe box highlights that this is a **MICROWAVE PASTA COOKER** with a built-in strainer. A simple three-step process is illustrated:\n1.  **Prep**\n2.  **Cook & Strain**\n3.  **Mix** (presumably mixing the sauce into the cooked pasta)",
+    "latency_seconds": 1.9572219848632812
+}

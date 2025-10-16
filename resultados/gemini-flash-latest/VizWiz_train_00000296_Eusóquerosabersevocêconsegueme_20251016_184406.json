@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000296.jpg",
+    "question_original_pt": "Eu só quero saber se você consegue me falar a data de validade nessa caixa de leite?",
+    "timestamp_sent_utc": "2025-10-16T18:43:44.920746",
+    "response": "Essa é uma ótima pergunta!\n\nPrimeiro, apenas para esclarecer, o produto na foto é um **suplemento dietético de Biotina da GNC**, e não uma caixa de leite.\n\n**No entanto, sobre a data de validade:**\n\nInfelizmente, devido à qualidade embaçada da imagem e ao ângulo da foto, **não é possível ler a data de validade (EXP)** no rótulo ou no frasco.\n\nGeralmente, em suplementos como este, a data de validade está impressa no:\n\n1.  **Fundo do frasco.**\n2.  **Ou carimbada** na parte superior ou inferior do rótulo, próxima ao código de barras ou ao número de lote.\n\nVocê precisará verificar fisicamente o frasco para encontrar essa informação.",
+    "latency_seconds": 5.660861253738403
+}

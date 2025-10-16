@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001232.jpg",
+    "question_original_pt": "Qual o sabor desse jantar?",
+    "timestamp_sent_utc": "2025-10-16T18:25:59.675299",
+    "response": "Com base na imagem, o item não é um jantar, mas sim uma embalagem de **leite desnatado** (fat free milk) da marca Lucerne.\n\nPortanto, o sabor é de **leite**.\n\nA embalagem também destaca que ele **\"Tastes Fresh Longer\"** (Tem sabor fresco por mais tempo).",
+    "latency_seconds": 4.209699869155884
+}

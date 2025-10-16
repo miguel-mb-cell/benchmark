@@ -1,0 +1,9 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000667.jpg",
+    "question_original_pt": "O que tá dentro dessa garrafa?",
+    "timestamp_sent_utc": "2025-10-16T18:28:39.882973",
+    "pergunta_translated_en": "What's inside that bottle?",
+    "response_original_en": "A shampoo.",
+    "response_translated_pt": "Um xampu.",
+    "latency_seconds": 4.0382585525512695
+}

@@ -1,0 +1,9 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001096.jpg",
+    "question_original_pt": "O que tá dentro dessa garrafa?",
+    "timestamp_sent_utc": "2025-10-16T18:45:44.999331",
+    "pergunta_translated_en": "What's inside that bottle?",
+    "response_original_en": "There is no bottle in the image.",
+    "response_translated_pt": "Não há garrafa na imagem.",
+    "latency_seconds": 3.414987802505493
+}

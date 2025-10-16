@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001096.jpg",
+    "question_original_pt": "O que tá dentro dessa garrafa?",
+    "timestamp_sent_utc": "2025-10-16T18:45:44.999331",
+    "response": "Essa foto mostra uma **camisa social** (ou blusa de botões) de cor bordô ou vinho, pendurada.\n\nNão há nenhuma garrafa visível na imagem.\n\nSe a pergunta era o que está *dentro* da camisa, a resposta mais provável é: **ar** ou, se estiver pendurada, um **cabide**!",
+    "latency_seconds": 4.574738264083862
+}

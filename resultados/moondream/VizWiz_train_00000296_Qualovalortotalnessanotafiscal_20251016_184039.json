@@ -1,0 +1,9 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000296.jpg",
+    "question_original_pt": "Qual o valor total nessa nota fiscal?",
+    "timestamp_sent_utc": "2025-10-16T18:40:01.583384",
+    "pergunta_translated_en": "What is the total value on this invoice?",
+    "response_original_en": "The image does not contain an invoice, so the total value cannot be determined.",
+    "response_translated_pt": "A imagem não contém fatura, pelo que não é possível determinar o valor total.",
+    "latency_seconds": 3.444385051727295
+}

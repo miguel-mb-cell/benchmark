@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001096.jpg",
+    "question_original_pt": "O que tá dentro dessa garrafa?",
+    "timestamp_sent_utc": "2025-10-16T18:45:44.999331",
+    "response": "Não vejo nenhuma garrafa na foto. A imagem mostra uma camisa social vinho/bordô pendurada (colarinho, botões à frente). Se você quis mandar a foto de uma garrafa, envie outra imagem ou recorte onde ela aparece — aí eu tento identificar o que tem dentro (ou ler o rótulo).",
+    "latency_seconds": 6.011102199554443
+}

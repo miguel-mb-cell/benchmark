@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000296.jpg",
+    "question_original_pt": "Qual o sabor desse jantar?",
+    "timestamp_sent_utc": "2025-10-16T18:44:06.735530",
+    "response": "A imagem mostra um frasco de **Biotina** (Biotin), que é um **suplemento alimentar (Dietary Supplement)** vendido pela marca GNC, e não um jantar.\n\n**Portanto, o item não tem um \"sabor de jantar\".**\n\nSuplementos de Biotin geralmente vêm em forma de cápsulas ou comprimidos.\n\n*   **Se for cápsula:** O sabor é praticamente inexistente, pois a substância é engolida em uma capa protetora.\n*   **Se for comprimido:** O sabor costuma ser neutro ou levemente químico/amargo, a menos que seja especificamente rotulado como \"gummy\" (goma) ou mastigável com algum sabor (como fruta ou baunilha), o que não parece ser o caso desta embalagem.",
+    "latency_seconds": 4.57869553565979
+}

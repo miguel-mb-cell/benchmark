@@ -1,0 +1,9 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000272.jpg",
+    "question_original_pt": "Qual o sabor desse jantar?",
+    "timestamp_sent_utc": "2025-10-16T18:39:10.099404",
+    "pergunta_translated_en": "How does this dinner taste?",
+    "response_original_en": "This dinner tastes creamy and delicious. The pasta is coated in a rich tomato sauce with herbs and garlic, giving it a savory and flavorful profile. The basil adds a fresh, aromatic touch, enhancing the overall taste experience. The dish looks appetizing and ready to be enjoyed.",
+    "response_translated_pt": "Este jantar tem um sabor cremoso e delicioso. A massa é revestida por um rico molho de tomate com ervas e alho, o que lhe confere um perfil saboroso e saboroso. O manjericão acrescenta um toque fresco e aromático, realçando a experiência gustativa geral. O prato parece apetitoso e pronto para ser degustado.",
+    "latency_seconds": 2.323127508163452
+}

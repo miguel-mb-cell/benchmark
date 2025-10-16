@@ -1,0 +1,9 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001096.jpg",
+    "question_original_pt": "Eu só quero saber se você consegue me falar a data de validade nessa caixa de leite?",
+    "timestamp_sent_utc": "2025-10-16T18:47:49.505430",
+    "pergunta_translated_en": "I just want to know if you can tell me the expiration date on that carton of milk?",
+    "response_original_en": "The image does not contain a carton of milk, so I cannot determine its expiration date.",
+    "response_translated_pt": "A imagem não contém uma caixa de leite, por isso não consigo determinar o prazo de validade.",
+    "latency_seconds": 3.6317906379699707
+}

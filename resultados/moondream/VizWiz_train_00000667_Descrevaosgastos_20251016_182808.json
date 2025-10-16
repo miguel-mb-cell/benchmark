@@ -1,0 +1,9 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000667.jpg",
+    "question_original_pt": "Descreva os gastos",
+    "timestamp_sent_utc": "2025-10-16T18:27:27.892557",
+    "pergunta_translated_en": "Describe the expenses",
+    "response_original_en": "The image does not provide any information about expenses. It shows three bottles of Re-Neu Botanicals products — a restoring conditioner, a revitalizing shampoo, and a nourishing lotion — placed on a wooden surface. There is no visible price tag or cost information in the image.",
+    "response_translated_pt": "A imagem não traz nenhuma informação sobre despesas. Mostra três frascos de produtos Re-Neu Botanicals – um condicionador restaurador, um shampoo revitalizante e uma loção nutritiva – colocados sobre uma superfície de madeira. Não há etiqueta de preço visível ou informações de custo na imagem.",
+    "latency_seconds": 4.216578483581543
+}

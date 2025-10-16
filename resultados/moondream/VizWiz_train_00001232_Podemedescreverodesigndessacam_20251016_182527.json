@@ -1,0 +1,9 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001232.jpg",
+    "question_original_pt": "Pode me descrever o design dessa camisa?",
+    "timestamp_sent_utc": "2025-10-16T18:24:47.037754",
+    "pergunta_translated_en": "Can you describe the design of this shirt to me?",
+    "response_original_en": "The image does not show a shirt. It displays a blue carton of Ucerné fat-free milk with a white cap and a \"Fresh Cap\" label. The milk carton is positioned upright on a refrigerator shelf.",
+    "response_translated_pt": "A imagem não mostra camisa. Exibe uma caixa azul de leite desnatado Ucerné com tampa branca e rótulo “Fresh Cap”. A caixa de leite está posicionada na vertical na prateleira da geladeira.",
+    "latency_seconds": 3.1688241958618164
+}

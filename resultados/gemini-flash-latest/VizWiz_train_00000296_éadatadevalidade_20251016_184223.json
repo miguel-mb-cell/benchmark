@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000296.jpg",
+    "question_original_pt": "é a data de validade?",
+    "timestamp_sent_utc": "2025-10-16T18:41:44.607922",
+    "response": "Com base na imagem fornecida, **a data de validade (EXP) não está visível.**\n\nA data de validade em suplementos geralmente não fica na parte principal do rótulo frontal. Você deve procurar:\n\n1.  **Na parte de baixo (fundo) da garrafa.**\n2.  **Perto da tampa/gargalo.**\n3.  **Ao lado do código de barras**, geralmente marcada como **\"EXP\"** (Expiry Date) ou **\"Best By\"** (Consumir Preferencialmente Antes De).",
+    "latency_seconds": 4.323534727096558
+}

@@ -1,0 +1,9 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000296.jpg",
+    "question_original_pt": "Descreva os gastos",
+    "timestamp_sent_utc": "2025-10-16T18:40:39.562772",
+    "pergunta_translated_en": "Describe the expenses",
+    "response_original_en": "The image does not provide any information about expenses. It shows a GNC Biotin dietary supplement bottle on a wooden surface, but there are no visible costs or financial details in the image.",
+    "response_translated_pt": "A imagem não traz nenhuma informação sobre despesas. Ela mostra um frasco de suplemento dietético GNC Biotin em uma superfície de madeira, mas não há custos visíveis ou detalhes financeiros na imagem.",
+    "latency_seconds": 2.9925429821014404
+}

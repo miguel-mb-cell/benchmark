@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000296.jpg",
+    "question_original_pt": "Qual o valor total nessa nota fiscal?",
+    "timestamp_sent_utc": "2025-10-16T18:40:01.583384",
+    "response": "A imagem fornecida não é uma nota fiscal (ou recibo), mas sim uma foto da embalagem de um produto (Suplemento Dietético GNC Biotin).\n\n**Não há valor total visível para ser informado**, pois a embalagem do produto não contém informações sobre o preço de compra ou o valor total de uma transação.",
+    "latency_seconds": 3.498265266418457
+}

@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000296.jpg",
+    "question_original_pt": "O que tá dentro dessa garrafa?",
+    "timestamp_sent_utc": "2025-10-16T18:41:23.308761",
+    "response": "A garrafa contém **Biotina** (Biotin).\n\nÉ um suplemento dietético da marca **GNC** (General Nutrition Centers).\n\nA biotina é uma vitamina do complexo B (vitamina B7) que, em forma de suplemento, é frequentemente utilizada para promover a saúde do cabelo, da pele e das unhas. O conteúdo da garrafa são, portanto, cápsulas ou comprimidos de biotina.",
+    "latency_seconds": 3.6800801753997803
+}

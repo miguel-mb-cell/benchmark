@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001232.jpg",
+    "question_original_pt": "Qual o valor total nessa nota fiscal?",
+    "timestamp_sent_utc": "2025-10-16T18:20:03.029211",
+    "response": "A imagem fornecida é de uma embalagem de leite (caixa Lucerne) e não contém nenhuma informação de nota fiscal, recibo ou preço.\n\nPortanto, **não é possível determinar o valor total** com base nesta imagem.",
+    "latency_seconds": 3.5865845680236816
+}

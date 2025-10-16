@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000272.jpg",
+    "question_original_pt": "é a data de validade?",
+    "timestamp_sent_utc": "2025-10-16T18:35:36.672095",
+    "response": "Não consigo ver a data de validade na imagem. Geralmente, ela está localizada na parte de trás ou na lateral do produto. Verifique essas áreas para encontrar a data de validade.",
+    "latency_seconds": 13.099257230758667
+}

@@ -1,0 +1,9 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000296.jpg",
+    "question_original_pt": "essa embalagem é de que?",
+    "timestamp_sent_utc": "2025-10-16T18:41:06.408491",
+    "pergunta_translated_en": "What is this packaging from?",
+    "response_original_en": "GNC",
+    "response_translated_pt": "GNC",
+    "latency_seconds": 2.6983983516693115
+}

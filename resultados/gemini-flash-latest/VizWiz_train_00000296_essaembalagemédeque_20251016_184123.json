@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000296.jpg",
+    "question_original_pt": "essa embalagem é de que?",
+    "timestamp_sent_utc": "2025-10-16T18:41:06.408491",
+    "response": "Com base na imagem, essa embalagem é de um suplemento dietético de **Biotina** (Biotin), da marca **GNC** (General Nutrition Centers).",
+    "latency_seconds": 3.297706127166748
+}

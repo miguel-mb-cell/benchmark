@@ -1,0 +1,9 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001232.jpg",
+    "question_original_pt": "O nome desse item está aparecendo e qual é?",
+    "timestamp_sent_utc": "2025-10-16T18:23:07.832341",
+    "pergunta_translated_en": "The name of this item is showing and what is it?",
+    "response_original_en": "The item is a Ucerné fat-free milk carton.",
+    "response_translated_pt": "O item é uma caixa de leite desnatado Ucerné.",
+    "latency_seconds": 3.1014950275421143
+}

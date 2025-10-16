@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001096.jpg",
+    "question_original_pt": "Qual o valor total nessa nota fiscal?",
+    "timestamp_sent_utc": "2025-10-16T18:44:45.280835",
+    "response": "Não consigo encontrar ou ler uma nota fiscal nesta imagem — ela mostra uma camisa e está desfocada. Por favor envie uma foto nítida da própria nota fiscal (capturando todo o documento e especialmente a linha/caixa com o \"Valor Total\"), com boa iluminação e sem reflexos, ou digite aqui os dados que aparecem que eu ajudo a confirmar.",
+    "latency_seconds": 5.925418376922607
+}

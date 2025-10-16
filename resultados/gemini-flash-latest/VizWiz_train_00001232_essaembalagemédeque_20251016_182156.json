@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001232.jpg",
+    "question_original_pt": "essa embalagem é de que?",
+    "timestamp_sent_utc": "2025-10-16T18:21:24.816876",
+    "response": "Esta embalagem é de **leite** (milk).\n\nEspecificamente, é **leite desnatado** (fat free milk) da marca **Lucerne**. O rótulo também indica que possui um \"FRESH CAP™\" para que \"Tastes Fresh Longer\" (Dura Fresco por mais tempo).",
+    "latency_seconds": 4.4066972732543945
+}

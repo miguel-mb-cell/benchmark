@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001232.jpg",
+    "question_original_pt": "essa embalagem é de que?",
+    "timestamp_sent_utc": "2025-10-16T18:21:24.816876",
+    "response": "Com base nos detalhes da imagem, essa é uma embalagem de **leite desnatado (fat free milk)** da marca **Lucerne**.\n\nÉ possível identificar isso por:\n*   A marca **\"Lucerne\"** escrita na embalagem.\n*   A descrição **\"fat free milk\"** (leite desnatado).\n*   O logotipo de uma **vaca** sorrindo.",
+    "latency_seconds": 7.080609321594238
+}

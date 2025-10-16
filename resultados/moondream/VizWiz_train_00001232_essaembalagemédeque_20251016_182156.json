@@ -1,0 +1,9 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001232.jpg",
+    "question_original_pt": "essa embalagem é de que?",
+    "timestamp_sent_utc": "2025-10-16T18:21:24.816876",
+    "pergunta_translated_en": "What is this packaging from?",
+    "response_original_en": "This packaging is from Ucerné, a brand of fat-free milk.",
+    "response_translated_pt": "Essa embalagem é da Ucerné, marca de leite desnatado.",
+    "latency_seconds": 3.075568675994873
+}

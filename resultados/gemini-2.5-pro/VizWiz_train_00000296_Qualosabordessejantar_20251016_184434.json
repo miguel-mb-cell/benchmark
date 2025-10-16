@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000296.jpg",
+    "question_original_pt": "Qual o sabor desse jantar?",
+    "timestamp_sent_utc": "2025-10-16T18:44:06.735530",
+    "response": "Pela imagem, parece que o \"jantar\" é um frasco de suplemento de **Biotina** da marca GNC.\n\nGeralmente, suplementos em cápsulas ou comprimidos não têm um sabor específico, pois são feitos para serem engolidos inteiros com água. Portanto, o sabor seria **neutro** ou, no máximo, um pouco medicinal se você deixasse dissolver na boca (o que não é recomendado).\n\nDefinitivamente, não é um prato com muito sabor! 😉",
+    "latency_seconds": 8.78624153137207
+}

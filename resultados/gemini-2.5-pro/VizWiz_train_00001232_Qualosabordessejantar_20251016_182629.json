@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001232.jpg",
+    "question_original_pt": "Qual o sabor desse jantar?",
+    "timestamp_sent_utc": "2025-10-16T18:25:59.675299",
+    "response": "Com base na imagem, não se trata de um jantar, mas sim de uma caixa de leite.\n\nDe acordo com a embalagem, o sabor é **\"fresco por mais tempo\"** (a frase em inglês na caixa é \"Tastes Fresh Longer\").\n\nO produto é um leite desnatado (\"fat free milk\") da marca Lucerne.",
+    "latency_seconds": 9.765580415725708
+}

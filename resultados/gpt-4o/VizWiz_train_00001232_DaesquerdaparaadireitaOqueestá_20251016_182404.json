@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001232.jpg",
+    "question_original_pt": "Da esquerda para a direita. O que está em cada uma dessas embalagens?",
+    "timestamp_sent_utc": "2025-10-16T18:23:32.666266",
+    "response": "A imagem mostra uma caixa de leite \"lucerne\" com tampa branca. O texto visível diz \"Tastes Fresh Longer\" e \"fat free milk\". Não posso identificar o que está nas outras embalagens.",
+    "latency_seconds": 5.953796625137329
+}

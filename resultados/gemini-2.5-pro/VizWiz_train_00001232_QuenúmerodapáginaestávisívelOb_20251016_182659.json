@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001232.jpg",
+    "question_original_pt": "Que número da página está visível? Obrigado.",
+    "timestamp_sent_utc": "2025-10-16T18:26:29.051057",
+    "response": "Olá!\n\nNão há um número de página visível nesta imagem. Os números na parte superior da caixa de leite são parte da data de validade (\"SELL BY\") e de um código de produção.\n\nO código completo é: **13:30 04/09 PT1 F3 01**.",
+    "latency_seconds": 13.119340896606445
+}

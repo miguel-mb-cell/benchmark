@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001232.jpg",
+    "question_original_pt": "Pode me descrever o design dessa camisa?",
+    "timestamp_sent_utc": "2025-10-16T18:24:47.037754",
+    "response": "Olá! A imagem que você enviou não é de uma camisa, mas sim da parte superior de uma **caixa de leite**.\n\nAqui está a descrição do design da embalagem:\n\n*   **Cores:** O design é predominantemente **azul royal** com detalhes em **branco**. Essa combinação de cores é muito comum em produtos lácteos, pois transmite uma sensação de frescor, limpeza e confiança.\n*   **Tampa:** Possui uma **tampa de rosca redonda e branca** de plástico, que é identificada como \"FRESH CAP™\". Uma seta curva preta indica a direção para abrir.\n*   **Tipografia e Textos:** As fontes são simples e modernas (sans-serif), em cor branca, o que cria um bom contraste com o fundo azul. Na imagem, podemos ler:\n    *   **\"Tastes Fresh Longer\"** (Sabor fresco por mais tempo).\n    *   **\"Lucerne\"**, que é o nome da marca.\n    *   **\"fat free milk\"** (leite desnatado).\n*   **Logotipo:** Acima do nome da marca \"Lucerne\", há um pequeno e simpático logotipo de uma **cabeça de vaca em estilo cartoon**, com contorno preto.\n*   **Informações Adicionais:** Na parte superior branca da caixa, está impressa a data de validade com a indicação **\"SELL BY\"** (Vender até).\n\nEm resumo, é um design clássico, limpo e funcional, projetado para ser facilmente reconhecível e para comunicar a frescura e a qualidade do produto.",
+    "latency_seconds": 16.460216522216797
+}

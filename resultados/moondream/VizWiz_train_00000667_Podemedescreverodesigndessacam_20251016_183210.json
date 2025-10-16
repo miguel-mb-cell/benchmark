@@ -1,0 +1,9 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000667.jpg",
+    "question_original_pt": "Pode me descrever o design dessa camisa?",
+    "timestamp_sent_utc": "2025-10-16T18:31:12.056253",
+    "pergunta_translated_en": "Can you describe the design of this shirt to me?",
+    "response_original_en": "The image does not show a shirt; it displays three bottles of Re-Neu Botanicals products on a wooden surface: a restoring conditioner, a revitalizing shampoo, and a nourishing lotion. Each bottle has a label with product name and description.",
+    "response_translated_pt": "A imagem não mostra camisa; exibe três frascos de produtos Re-Neu Botanicals sobre uma superfície de madeira: um condicionador restaurador, um shampoo revitalizante e uma loção nutritiva. Cada frasco possui um rótulo com nome e descrição do produto.",
+    "latency_seconds": 4.091928005218506
+}

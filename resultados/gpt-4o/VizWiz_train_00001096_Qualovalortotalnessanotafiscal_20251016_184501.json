@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001096.jpg",
+    "question_original_pt": "Qual o valor total nessa nota fiscal?",
+    "timestamp_sent_utc": "2025-10-16T18:44:45.280835",
+    "response": "Parece que você enviou uma imagem de uma camisa. Eu precisaria de uma imagem da nota fiscal para verificar o valor total. Se você puder compartilhar a imagem correta, poderei tentar ajudar.",
+    "latency_seconds": 3.2514848709106445
+}

@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000296.jpg",
+    "question_original_pt": "Eu só quero saber se você consegue me falar a data de validade nessa caixa de leite?",
+    "timestamp_sent_utc": "2025-10-16T18:43:44.920746",
+    "response": "Desculpe, mas não consigo identificar a data de validade na imagem fornecida. Parece ser um frasco de suplemento, e não uma caixa de leite. Se precisar de assistência adicional, talvez você possa verificar o rótulo diretamente.",
+    "latency_seconds": 4.278731346130371
+}

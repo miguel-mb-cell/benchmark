@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000667.jpg",
+    "question_original_pt": "O que tá dentro dessa garrafa?",
+    "timestamp_sent_utc": "2025-10-16T18:28:39.882973",
+    "response": "Com base nas etiquetas das garrafas na imagem, os conteúdos são, da esquerda para a direita:\n\n1.  **Restoring Conditioner** (Condicionador Restaurador)\n2.  **Revitalizing Shampoo** (Xampu Revitalizante)\n3.  **Nourishing Lotion** (Loção Nutritiva)\n\nTodos os produtos são da marca \"RE-NEU BOTANICALS\" e têm a mesma fragrância descrita como uma mistura de bergamota, gengibre, almíscar, chá branco, vetiver e noz-moscada.",
+    "latency_seconds": 9.61210560798645
+}

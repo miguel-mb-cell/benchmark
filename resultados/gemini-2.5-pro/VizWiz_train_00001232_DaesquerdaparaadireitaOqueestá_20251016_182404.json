@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001232.jpg",
+    "question_original_pt": "Da esquerda para a direita. O que está em cada uma dessas embalagens?",
+    "timestamp_sent_utc": "2025-10-16T18:23:32.666266",
+    "response": "Com base na imagem, da esquerda para a direita, temos:\n\n1.  **À esquerda (em primeiro plano):** Uma caixa de leite desnatado (\"fat free milk\") da marca **Lucerne**.\n2.  **À direita (ao fundo):** Outra embalagem, que parece ser um galão de plástico, também da marca **Lucerne**, provavelmente contendo leite ou outro produto lácteo.",
+    "latency_seconds": 5.584240674972534
+}

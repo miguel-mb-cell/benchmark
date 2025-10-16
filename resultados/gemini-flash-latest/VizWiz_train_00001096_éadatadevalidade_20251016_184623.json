@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001096.jpg",
+    "question_original_pt": "é a data de validade?",
+    "timestamp_sent_utc": "2025-10-16T18:46:02.822815",
+    "response": "A imagem mostra uma **camisa de vestuário**.\n\n**Roupas, como esta camisa, não têm data de validade** (data de validade/expiração).\n\nSe houver números ou datas na etiqueta (tag) da camisa (que está muito borrada na foto), eles geralmente indicam:\n\n1. **Tamanho** (Size)\n2. **Instruções de lavagem e cuidados** (Care instructions)\n3. **Composição do tecido** (Fabric composition)\n4. **Código de lote ou estilo** (Lot or style code)\n5. **Data de fabricação** (Manufacturing date)",
+    "latency_seconds": 5.314323902130127
+}

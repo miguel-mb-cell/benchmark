@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001096.jpg",
+    "question_original_pt": "Que número da página está visível? Obrigado.",
+    "timestamp_sent_utc": "2025-10-16T18:48:32.314488",
+    "response": "Não vejo nenhum número de página na imagem. Ela mostra uma camisa e está um pouco desfocada. Se quiser, envie uma foto clara da página (em foco e bem iluminada) que eu vejo o número.",
+    "latency_seconds": 7.348319053649902
+}

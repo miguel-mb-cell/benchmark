@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000272.jpg",
+    "question_original_pt": "Descreva os gastos",
+    "timestamp_sent_utc": "2025-10-16T18:34:13.004749",
+    "response": "Com base na imagem, aqui está uma descrição do produto:\n\nA imagem mostra a embalagem de uma refeição pronta para micro-ondas da marca **Healthy Choice**, da linha **Mixers**.\n\nO prato é **\"Creamy Tomato Basil Penne\"** (Penne Cremoso com Tomate e Manjericão).\n\n**Principais características destacadas na embalagem:**\n*   **Sabor:** Molho de tomate cremoso com ervas, alho e massa.\n*   **Informações Nutricionais:** Contém 280 calorias, 1/2 xícara de vegetais e 28g de grãos integrais.\n*   **Praticidade:** A embalagem funciona como um \"Microwave Pasta Cooker\", um recipiente para cozinhar a massa no micro-ondas que possui um escorredor embutido. As etapas de preparo mostradas são: Preparar (Prep), Cozinhar e Escorrer (Cook & Strain) e Misturar (Mix).\n\nAo lado das informações, há uma foto do prato finalizado, com a massa penne coberta pelo molho cremoso de tomate.",
+    "latency_seconds": 8.2179434299469
+}

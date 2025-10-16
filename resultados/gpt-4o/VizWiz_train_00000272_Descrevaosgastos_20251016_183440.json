@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000272.jpg",
+    "question_original_pt": "Descreva os gastos",
+    "timestamp_sent_utc": "2025-10-16T18:34:13.004749",
+    "response": "A imagem mostra a embalagem de uma refeição pronta chamada \"Creamy Tomato Basil Penne\" da marca Healthy Choice. As informações nutricionais destacadas são:\n\n- **280 calorias** por porção.\n- **1/2 xícara de vegetais**.\n- **28g de grãos integrais**.\n\nA embalagem também menciona que é um molho cremoso de tomate com ervas, alho e parmesão.",
+    "latency_seconds": 5.298197507858276
+}

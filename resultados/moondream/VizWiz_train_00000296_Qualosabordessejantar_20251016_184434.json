@@ -1,0 +1,9 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000296.jpg",
+    "question_original_pt": "Qual o sabor desse jantar?",
+    "timestamp_sent_utc": "2025-10-16T18:44:06.735530",
+    "pergunta_translated_en": "How does this dinner taste?",
+    "response_original_en": "The image does not depict a dinner, so it is not possible to describe its taste.",
+    "response_translated_pt": "A imagem não representa um jantar, pelo que não é possível descrever o seu sabor.",
+    "latency_seconds": 3.1698787212371826
+}

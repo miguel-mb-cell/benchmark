@@ -1,0 +1,9 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001232.jpg",
+    "question_original_pt": "O que tá dentro dessa garrafa?",
+    "timestamp_sent_utc": "2025-10-16T18:21:56.708151",
+    "pergunta_translated_en": "What's inside that bottle?",
+    "response_original_en": "Fat-free milk",
+    "response_translated_pt": "Leite sem gordura",
+    "latency_seconds": 4.516172647476196
+}

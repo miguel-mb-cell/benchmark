@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000272.jpg",
+    "question_original_pt": "Que número da página está visível? Obrigado.",
+    "timestamp_sent_utc": "2025-10-16T18:39:39.267869",
+    "response": "Não vejo nenhum número de página na imagem. Os únicos números visíveis são \"280\" (calorias) e \"28g\" (whole grain). Quer que eu gire ou recorte a foto para procurar melhor, ou envie outra imagem?",
+    "latency_seconds": 7.709147691726685
+}

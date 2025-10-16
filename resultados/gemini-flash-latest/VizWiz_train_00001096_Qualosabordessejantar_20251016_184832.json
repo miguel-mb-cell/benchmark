@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001096.jpg",
+    "question_original_pt": "Qual o sabor desse jantar?",
+    "timestamp_sent_utc": "2025-10-16T18:48:11.882853",
+    "response": "A imagem que você enviou mostra uma **camisa social** de cor **vinho** ou **bordô** (um tom de vermelho escuro), e não um prato de comida ou um jantar.\n\nPortanto, não há como determinar o sabor do jantar com base nesta foto.\n\nSe você puder enviar uma imagem da sua refeição ou descrevê-la, eu poderei ajudá-lo a imaginar o sabor!",
+    "latency_seconds": 4.4082396030426025
+}

@@ -1,0 +1,9 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001096.jpg",
+    "question_original_pt": "Qual o sabor desse jantar?",
+    "timestamp_sent_utc": "2025-10-16T18:48:11.882853",
+    "pergunta_translated_en": "How does this dinner taste?",
+    "response_original_en": "The image does not provide any information about the taste of a dinner. It shows a dark red shirt on a hanger against a plain background, but there are no details about food or its flavor.The image does not provide any information about the taste of a dinner.",
+    "response_translated_pt": "A imagem não traz nenhuma informação sobre o sabor do jantar. Mostra uma camisa vermelha escura em um cabide sobre fundo liso, mas não há detalhes sobre a comida ou seu sabor. A imagem não traz nenhuma informação sobre o sabor de um jantar.",
+    "latency_seconds": 3.0311388969421387
+}

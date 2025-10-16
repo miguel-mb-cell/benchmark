@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001096.jpg",
+    "question_original_pt": "Eu só quero saber se você consegue me falar a data de validade nessa caixa de leite?",
+    "timestamp_sent_utc": "2025-10-16T18:47:49.505430",
+    "response": "Olá! Agradeço a sua pergunta.\n\nNo entanto, a imagem que você me enviou não é de uma caixa de leite. É uma foto de uma **camisa social bordô**, e a imagem está muito desfocada (fora de foco).\n\nPortanto, não consigo ler nenhuma informação, nem mesmo uma data de validade, que é algo que camisas geralmente não têm.\n\nSe você tiver a foto da caixa de leite, por favor, envie a imagem correta e nítida para que eu possa tentar te ajudar a encontrar a data!",
+    "latency_seconds": 4.7337164878845215
+}

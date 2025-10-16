@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000272.jpg",
+    "question_original_pt": "Qual o sabor desse jantar?",
+    "timestamp_sent_utc": "2025-10-16T18:39:10.099404",
+    "response": "O sabor deste jantar é **Penne de Tomate Cremoso com Manjericão** (Creamy Tomato Basil Penne).\n\nA descrição na embalagem indica:\n*   **Penne de Tomate Cremoso com Manjericão**\n*   (O molho é) Molho Cremoso de Tomate com Ervas, Alho e Massa.",
+    "latency_seconds": 3.0862557888031006
+}

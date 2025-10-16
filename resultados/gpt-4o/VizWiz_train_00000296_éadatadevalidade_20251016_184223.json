@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000296.jpg",
+    "question_original_pt": "é a data de validade?",
+    "timestamp_sent_utc": "2025-10-16T18:41:44.607922",
+    "response": "Não consigo identificar a data de validade na imagem. Verifique o rótulo, geralmente na parte inferior ou lateral do frasco, onde essas informações costumam estar impressas.",
+    "latency_seconds": 10.269348382949829
+}

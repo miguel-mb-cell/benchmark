@@ -1,0 +1,9 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000272.jpg",
+    "question_original_pt": "O nome desse item está aparecendo e qual é?",
+    "timestamp_sent_utc": "2025-10-16T18:36:13.605944",
+    "pergunta_translated_en": "The name of this item is showing and what is it?",
+    "response_original_en": "{\n  \"item_name\": \"Creamy Tomato Basil Penne\",\n  \"product_type\": \"Pasta\",\n  \"main_ingredient\": \"Tomato\",\n  \"flavor\": \"Creamy Tomato\",\n  \"vegetable_source\": \"Herbs, Garlic & Pasta\",\n  \"manufacturer\": \"Healthy Choice Mixers\"\n}",
+    "response_translated_pt": "{\n  \"item_name\": \"Penne cremoso de tomate e manjericão\",\n  \"product_type\": \"Massa\",\n  \"main_ingredient\": \"Tomate\",\n  \"sabor\": \"Tomate Cremoso\",\n  \"vegetable_source\": \"Ervas, Alho e Macarrão\",\n  \"manufacturer\": \"Misturadores de escolha saudável\"\n}",
+    "latency_seconds": 3.3789782524108887
+}

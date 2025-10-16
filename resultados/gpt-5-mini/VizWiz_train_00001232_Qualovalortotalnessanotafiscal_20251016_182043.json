@@ -1,0 +1,7 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001232.jpg",
+    "question_original_pt": "Qual o valor total nessa nota fiscal?",
+    "timestamp_sent_utc": "2025-10-16T18:20:03.029211",
+    "response": "Não há uma nota fiscal visível nessa imagem — vejo a tampa de uma caixinha de leite com as frases \"Tastes Fresh Longer\" e \"SELL BY\". Não há nenhum valor ou total indicado.\n\nSe quiser, envie uma foto da nota fiscal (com a parte do total legível) ou faça um recorte/crop da área onde aparece o valor — eu posso ler/extrair para você. Algumas dicas: foto nítida, sem reflexos, e com o total totalmente visível.",
+    "latency_seconds": 8.986294984817505
+}

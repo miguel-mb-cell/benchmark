@@ -1,0 +1,9 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001096.jpg",
+    "question_original_pt": "essa embalagem é de que?",
+    "timestamp_sent_utc": "2025-10-16T18:45:26.575392",
+    "pergunta_translated_en": "What is this packaging from?",
+    "response_original_en": "The image does not show any packaging; it features a dark red long-sleeved button-up shirt hanging against a plain off-white wall.",
+    "response_translated_pt": "A imagem não mostra nenhuma embalagem; ele apresenta uma camisa vermelha escura de mangas compridas pendurada em uma parede branca e lisa.",
+    "latency_seconds": 4.1403210163116455
+}
