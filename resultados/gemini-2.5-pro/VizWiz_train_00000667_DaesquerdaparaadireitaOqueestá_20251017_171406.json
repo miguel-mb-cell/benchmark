@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000667.jpg",
+    "question_original_pt": "Da esquerda para a direita. O que está em cada uma dessas embalagens?",
+    "timestamp_sent_utc": "2025-10-17T17:13:39.695268",
+    "date": "2025-10-17",
+    "response": "Com base na imagem, da esquerda para a direita, as embalagens contêm:\n\n1.  **Condicionador restaurador** (restoring conditioner)\n2.  **Shampoo revitalizante** (revitalizing shampoo)\n3.  **Loção nutritiva** (nourishing lotion)",
+    "latency_seconds": 9.388619899749756
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001096.jpg",
+    "question_original_pt": "Cor é essa?",
+    "timestamp_sent_utc": "2025-10-17T17:14:06.441131",
+    "date": "2025-10-17",
+    "response": "A cor da camisa é um tom profundo de vermelho escuro. É mais precisamente chamada de:\n\n*   **Bordô** (Burgundy)\n*   **Vinho** (Wine Red)\n\nEm alguns contextos, dependendo da saturação e das tonalidades (que parecem ter um leve toque púrpura na foto), também poderia ser classificada como **Grená** (Maroon).",
+    "latency_seconds": 4.758991718292236
+}

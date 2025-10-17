@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001096.jpg",
+    "question_original_pt": "Cor é essa?",
+    "timestamp_sent_utc": "2025-10-17T17:14:06.441131",
+    "date": "2025-10-17",
+    "pergunta_translated_en": "Is this color?",
+    "response_original_en": "Yes, the shirt is red.",
+    "response_translated_pt": "Sim, a camisa é vermelha.",
+    "latency_seconds": 1.7721471786499023
+}

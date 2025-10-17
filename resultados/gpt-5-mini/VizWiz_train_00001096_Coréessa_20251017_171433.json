@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001096.jpg",
+    "question_original_pt": "Cor é essa?",
+    "timestamp_sent_utc": "2025-10-17T17:14:06.441131",
+    "date": "2025-10-17",
+    "response": "Parece um tom de vermelho escuro — tipo bordô / vinho (burgundy/maroon). A iluminação/flash da foto pode alterar a cor; em luz natural ele pode parecer um pouco mais avermelhado ou mais marrom. Quer que eu extraia um tom hex aproximado da imagem?",
+    "latency_seconds": 5.042019605636597
+}

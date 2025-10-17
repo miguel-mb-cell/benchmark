@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001096.jpg",
+    "question_original_pt": "Cor é essa?",
+    "timestamp_sent_utc": "2025-10-17T17:14:06.441131",
+    "date": "2025-10-17",
+    "response": "Com base na imagem, a cor da camisa é **bordô** ou **vinho**.\n\nÉ um tom de vermelho escuro, que pode ter nuances de roxo ou marrom dependendo da iluminação da foto.",
+    "latency_seconds": 11.784838676452637
+}
