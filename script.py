@@ -290,7 +290,9 @@ def main():
     print("=" * 60)
 
     # Carrega todas as fotos disponíveis
-    all_photos = sorted([f for f in CAMINHO_IMAGENS.glob("*.jpg")])
+    all_photos_jpg = list(CAMINHO_IMAGENS.glob("*.jpg"))
+    all_photos_jpeg = list(CAMINHO_IMAGENS.glob("*.jpeg"))
+    all_photos = sorted(all_photos_jpg + all_photos_jpeg)
     print(f"📁 Total de fotos disponíveis: {len(all_photos)}")
 
     # Obtém as fotos do dia (sempre as mesmas para os 6 horários)
