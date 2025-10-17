@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001232.jpg",
+    "question_original_pt": "Eu só quero saber se você consegue me falar a data de validade nessa caixa de leite?",
+    "timestamp_sent_utc": "2025-10-17T21:14:33.511269",
+    "date": "2025-10-17",
+    "response": "Com certeza. A data de validade que você está procurando é a data limite para venda (\"SELL BY\").\n\nA data impressa na parte superior da caixa de leite, imediatamente acima da indicação **SELL BY** (Venda até), é:\n\n## **06/09**\n\nIsso geralmente significa o dia 9 de Junho. (O ano não está claramente indicado neste código, mas para laticínios, a validade é geralmente muito próxima da data de venda.)",
+    "latency_seconds": 6.11759352684021
+}

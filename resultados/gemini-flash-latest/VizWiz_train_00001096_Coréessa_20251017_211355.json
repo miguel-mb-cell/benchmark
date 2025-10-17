@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001096.jpg",
+    "question_original_pt": "Cor é essa?",
+    "timestamp_sent_utc": "2025-10-17T21:13:28.408432",
+    "date": "2025-10-17",
+    "response": "Esta cor é um tom de **vermelho escuro** e profundo.\n\nOs nomes mais prováveis para essa tonalidade, dada a saturação e a escuridão, são:\n\n1.  **Bordô** (Maroon)\n2.  **Borgonha** (Burgundy)\n3.  **Vermelho Vinho** (Wine Red)\n\nEm inglês, seria classicamente descrito como *Burgundy* ou *Maroon*.",
+    "latency_seconds": 4.823500633239746
+}
