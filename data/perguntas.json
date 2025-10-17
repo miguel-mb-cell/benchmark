@@ -13,6 +13,24 @@
     ]
   },
   {
+    "arquivo_imagem": "acidente_carro.jpeg",
+    "pergunta": [
+      "Qual parte do carro sofreu o maior dano no acidente?"
+    ]
+  },
+  {
+    "arquivo_imagem": "aneis.jpeg",
+    "pergunta": [
+      "Quantas cores diferentes de anéis aparecem na imagem?"
+    ]
+  },
+  {
+    "arquivo_imagem": "faixaviva.jpeg",
+    "pergunta": [
+      "O que diferencia essa faixa de pedestres das tradicionais?"
+    ]
+  },
+  {
     "arquivo_imagem": "VizWiz_train_00000006.jpg",
     "pergunta": [
       "O que tá dentro dessa garrafa?"
@@ -61,9 +79,33 @@
     ]
   },
   {
-    "arquivo_imagem": "VizWiz_train_00000628.jpg",
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
     "pergunta": [
-      "Que número da página está visível? Obrigado."
+      "O que é isso?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_test_00000096.jpg",
+    "pergunta": [
+      "O que é isso?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000132.jpg",
+    "pergunta": [
+      "O que diz esta camisa?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000219.jpg",
+    "pergunta": [
+      "Qual é o contexto da declaração de missão?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000241.jpg",
+    "pergunta": [
+      "Quantos andares tem o edifício à frente?"
     ]
   }
 ]
