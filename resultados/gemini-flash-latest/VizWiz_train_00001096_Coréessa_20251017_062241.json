@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001096.jpg",
+    "question_original_pt": "Cor é essa?",
+    "timestamp_sent_utc": "2025-10-17T06:22:23.180866",
+    "date": "2025-10-17",
+    "response": "A cor da camisa é um tom profundo de vermelho escuro.\n\nAs melhores descrições são:\n\n*   **Bordô** (Burgundy)\n*   **Vinho** (Wine)\n*   **Marsala**\n*   **Ameixa Escura** (Dark Plum - se tiver um toque mais roxo)",
+    "latency_seconds": 5.616908311843872
+}

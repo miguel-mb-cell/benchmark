@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000667.jpg",
+    "question_original_pt": "Da esquerda para a direita. O que está em cada uma dessas embalagens?",
+    "timestamp_sent_utc": "2025-10-17T06:21:58.967956",
+    "date": "2025-10-17",
+    "pergunta_translated_en": "From left to right. What is in each of these packages?",
+    "response_original_en": "restoring conditioner, revitalizing shampoo, nourishing lotion",
+    "response_translated_pt": "condicionador restaurador, shampoo revitalizante, loção nutritiva",
+    "latency_seconds": 3.201399564743042
+}

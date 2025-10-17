@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001174.jpg",
+    "question_original_pt": "Pode me descrever o design dessa camisa?",
+    "timestamp_sent_utc": "2025-10-17T06:22:41.851188",
+    "date": "2025-10-17",
+    "response": "Claro. A camisa é de cor clara (off-white/creme) e tem modelagem básica com gola redonda e mangas curtas. No centro da frente há um grande motivo com várias borboletas — cerca de 10 a 12 ao todo — dispostas em uma composição vertical, como se estivessem voando para cima.\n\nAs borboletas são coloridas e estilizadas, com cores vivas como azul, rosa, laranja e verde. Muitos desenhos têm sombreamento e gradientes que lembram aquarela, contornos finos e detalhes nas asas (manchas e nervuras). O conjunto dá um ar delicado, leve e bem feminino. A camiseta também parece levemente amassada na foto, sugerindo tecido de algodão ou malha macia.",
+    "latency_seconds": 9.173778295516968
+}
