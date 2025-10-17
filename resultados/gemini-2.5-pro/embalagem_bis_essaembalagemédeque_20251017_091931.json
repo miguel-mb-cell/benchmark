@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "embalagem_bis.jpeg",
+    "question_original_pt": "essa embalagem é de que?",
+    "timestamp_sent_utc": "2025-10-17T09:19:04.005182",
+    "date": "2025-10-17",
+    "response": "Com base na imagem, essa é a embalagem do chocolate **Bis Oreo**.\n\nÉ um produto da marca **Lacta**, que consiste em um wafer crocante recheado e coberto com chocolate branco e pedaços do biscoito Oreo.",
+    "latency_seconds": 10.83951473236084
+}

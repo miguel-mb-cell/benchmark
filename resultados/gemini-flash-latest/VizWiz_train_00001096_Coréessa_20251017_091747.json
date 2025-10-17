@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001096.jpg",
+    "question_original_pt": "Cor é essa?",
+    "timestamp_sent_utc": "2025-10-17T09:17:20.055991",
+    "date": "2025-10-17",
+    "response": "A cor é um tom profundo de **Vinho** (Wine) ou **Borgonha** (Burgundy).\n\nTambém pode ser descrita como **Bordô** ou, dependendo da luz, um **Vermelho Escuro/Marrom-Avermelhado**.",
+    "latency_seconds": 4.221843242645264
+}
