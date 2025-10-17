@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001174.jpg",
+    "question_original_pt": "Pode me descrever o design dessa camisa?",
+    "timestamp_sent_utc": "2025-10-17T02:23:07.861710",
+    "date": "2025-10-17",
+    "pergunta_translated_en": "Can you describe the design of this shirt to me?",
+    "response_original_en": "The shirt features a design of colorful butterflies scattered across its surface. The butterflies vary in size and color, creating a visually appealing pattern. The shirt is white and appears to be made of a soft material, possibly cotton. The design is centered on the shirt and stands out against the plain background.",
+    "response_translated_pt": "A camisa apresenta um desenho de borboletas coloridas espalhadas por sua superfície. As borboletas variam em tamanho e cor, criando um padrão visualmente atraente. A camisa é branca e parece ser feita de um material macio, possivelmente algodão. O desenho é centrado na camisa e se destaca no fundo liso.",
+    "latency_seconds": 3.171464443206787
+}

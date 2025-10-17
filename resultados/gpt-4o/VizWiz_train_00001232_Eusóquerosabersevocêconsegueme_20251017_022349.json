@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001232.jpg",
+    "question_original_pt": "Eu só quero saber se você consegue me falar a data de validade nessa caixa de leite?",
+    "timestamp_sent_utc": "2025-10-17T02:23:31.552965",
+    "date": "2025-10-17",
+    "response": "A data de validade na caixa de leite está indicada como \"10-30\". Isso normalmente significa que o produto deve ser consumido até o dia 30 de outubro.",
+    "latency_seconds": 2.6481454372406006
+}

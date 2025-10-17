@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001096.jpg",
+    "question_original_pt": "Cor é essa?",
+    "timestamp_sent_utc": "2025-10-17T02:22:34.443091",
+    "date": "2025-10-17",
+    "response": "A cor da camisa é um tom profundo de **Borgonha** (Burgundy) ou **Vinho** (Wine).\n\nTambém pode ser chamada de **Bordô**. É um vermelho escuro e rico, com nuances levemente roxas.",
+    "latency_seconds": 5.059652805328369
+}
