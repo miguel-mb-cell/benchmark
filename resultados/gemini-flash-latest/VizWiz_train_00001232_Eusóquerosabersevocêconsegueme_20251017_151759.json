@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001232.jpg",
+    "question_original_pt": "Eu só quero saber se você consegue me falar a data de validade nessa caixa de leite?",
+    "timestamp_sent_utc": "2025-10-17T15:17:26.020887",
+    "date": "2025-10-17",
+    "response": "Com base na imagem, a data de validade que na verdade é a **Data Limite de Venda** (\"SELL BY\") que a loja deve seguir está claramente impressa na parte superior da caixa de leite.\n\nA data indicada é: **06/09** (Nove de Junho).\n\nO código completo que aparece é: `13:30 06/09 FTI F3 08`\n*   **06/09:** Data Limite de Venda (Mês 6, Dia 9)\n*   **13:30:** Hora de envase (1:30 PM)",
+    "latency_seconds": 5.202911138534546
+}

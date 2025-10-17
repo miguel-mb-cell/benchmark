@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001096.jpg",
+    "question_original_pt": "Cor é essa?",
+    "timestamp_sent_utc": "2025-10-17T15:15:57.443680",
+    "date": "2025-10-17",
+    "response": "A cor desta camisa é um tom de **Borgonha** (Burgundy) ou **Vinho** (Wine).\n\nÉ um vermelho escuro e profundo, com subtons que tendem ao púrpura.",
+    "latency_seconds": 4.207495212554932
+}
