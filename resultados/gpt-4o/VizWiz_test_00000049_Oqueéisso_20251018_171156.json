@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-18T17:11:23.226931",
+    "date": "2025-10-18",
+    "response": "Isso é um bilhete do sistema de transporte público do San Francisco Bay Area Rapid Transit District (BART). Serve para uso no sistema de trens da área da Baía de São Francisco. O bilhete possui instruções sobre uso, validade e informações de contato para troca ou reembolso.",
+    "latency_seconds": 3.722722291946411
+}
