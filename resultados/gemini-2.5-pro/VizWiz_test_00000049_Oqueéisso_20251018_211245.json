@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-18T21:12:12.369053",
+    "date": "2025-10-18",
+    "response": "Com base na imagem, isto é um **bilhete de transporte público**.\n\nMais especificamente, é a parte de trás de um bilhete para o **BART (Bay Area Rapid Transit)**, o sistema de metrô que serve a Área da Baía de São Francisco, na Califórnia, EUA.\n\nO texto no bilhete inclui:\n*   Instruções sobre como usar o bilhete (cada passageiro precisa de um, deve ser usado para entrada e saída).\n*   Informações sobre como adicionar valor ao bilhete.\n*   Um espaço para escrever o nome e o endereço do proprietário. A instrução diz que, se o bilhete for perdido e devolvido ao BART, ele será enviado pelo correio para o endereço fornecido.",
+    "latency_seconds": 11.582892179489136
+}
