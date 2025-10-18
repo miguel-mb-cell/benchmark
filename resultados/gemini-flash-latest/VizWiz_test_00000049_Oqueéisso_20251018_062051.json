@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-18T06:20:16.531444",
+    "date": "2025-10-18",
+    "response": "Isso é a **parte de trás (verso) de um bilhete de transporte ou cartão de tarifa** (ticket card) utilizado no sistema **BART** (San Francisco Bay Area Rapid Transit District).\n\nBART é o sistema de trânsito rápido que atende a região da Baía de São Francisco, na Califórnia, Estados Unidos.\n\n### Detalhes do que está visível no cartão:\n\nA imagem mostra o cartão azul em cima de uma superfície marrom e texturizada (provavelmente um carpete). O texto está em inglês e descreve as regras e informações de contato:\n\n1.  **Regras de Uso:**\n    *   Cada passageiro deve ter um bilhete válido.\n    *   O mesmo bilhete deve ser usado para entrada e saída.\n    *   O valor do bilhete, se for inferior a $8,00, pode ser aumentado inserindo-o em qualquer máquina de venda de bilhetes.\n2.  **Informações de Contato:**\n    *   Fornece números de telefone para informações sobre troca e reembolso de bilhetes.\n3.  **Identificação em Caso de Perda:**\n    *   Há um espaço para o passageiro preencher seu nome e endereço, com a instrução: \"Assine abaixo, se for perdido e devolvido ao BART, o bilhete será enviado a você.\"\n4.  **Identificação do Emissor:**\n    *   Na parte inferior, está o nome completo do sistema: **SAN FRANCISCO BAY AREA RAPID TRANSIT DISTRICT** (Distrito de Trânsito Rápido da Área da Baía de São Francisco).",
+    "latency_seconds": 5.549883604049683
+}

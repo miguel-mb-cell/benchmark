@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000096.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-18T06:20:51.230727",
+    "date": "2025-10-18",
+    "response": "Com base na imagem, **isso é um Caderno Estenográfico Executivo (Executive Steno Notebook)**.\n\nÉ um produto da marca **SKILCRAFT**, que é frequentemente associada a produtos fornecidos a agências governamentais dos EUA e é fabricada por indústrias que empregam pessoas cegas (indicado pela frase: \"Created with pride by Americans who are Blind\").\n\n### Detalhes do Caderno:\n\n*   **Tipo:** Caderno Estenográfico (Steno Notebook).\n*   **Marca:** SKILCRAFT.\n*   **Tamanho:** 6\" x 9\" polegadas.\n*   **Folhas:** 80 folhas.\n*   **Pauta (Regra):** Gregg Ruled (O papel com pauta Gregg é especificamente projetado para taquigrafia, com uma linha central vertical e margens horizontais específicas).\n*   **Anotação Pessoal:** Há uma anotação manuscrita na capa que diz \"Apple Notes\".",
+    "latency_seconds": 4.726583242416382
+}
