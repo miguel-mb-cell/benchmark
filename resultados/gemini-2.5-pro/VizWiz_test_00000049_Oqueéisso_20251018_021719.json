@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-18T02:16:47.415721",
+    "date": "2025-10-18",
+    "response": "Com base na imagem, isso é a parte de trás de um **bilhete de papel do BART**.\n\n**BART** é a sigla para **Bay Area Rapid Transit**, o sistema de transporte público rápido (semelhante a um metrô ou trem) que atende a Baía de São Francisco, na Califórnia, EUA.\n\nO cartão azul na foto mostra:\n*   **Instruções de uso**, como a necessidade de um bilhete válido para cada passageiro e como adicionar mais valor ao bilhete.\n*   **Um espaço para escrever o nome e o endereço**. Isso era para o caso de o bilhete ser perdido; se alguém o encontrasse e o devolvesse ao BART, ele seria enviado pelo correio para o dono.\n\nVale notar que esses bilhetes de papel foram descontinuados em 2023 e o sistema agora utiliza principalmente o cartão recarregável chamado \"Clipper Card\".",
+    "latency_seconds": 11.65039873123169
+}

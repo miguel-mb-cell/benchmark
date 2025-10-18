@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-18T02:16:47.415721",
+    "date": "2025-10-18",
+    "response": "O objeto na imagem é um **bilhete de tarifa** (ou cartão de valor armazenado) para o sistema de transporte público **BART (Bay Area Rapid Transit)**, que serve a área da Baía de São Francisco, na Califórnia, EUA.\n\nO BART (San Francisco Bay Area Rapid Transit District) utiliza cartões como este para que os passageiros entrem e saiam das estações, com o valor da tarifa sendo deduzido do crédito restante no cartão.\n\n**As informações visíveis no cartão incluem:**\n\n*   **Identificação:** **SAN FRANCISCO BAY AREA RAPID TRANSIT DISTRICT** (Distrito de Trânsito Rápido da Área da Baía de São Francisco).\n*   **Regras de Uso:**\n    *   Cada passageiro deve ter um bilhete válido.\n    *   O mesmo bilhete deve ser usado para entrada e saída.\n    *   O valor deste bilhete, se for inferior a $8,00, pode ser aumentado inserindo-o em qualquer máquina de venda de bilhetes (*Ticket Vendor*).\n*   **Instruções de Devolução (em caso de perda):** \"Assine abaixo, se perdido e devolvido ao BART, o bilhete será enviado a você pelo correio.\"\n*   **Espaços para Preenchimento:** Nome (*NAME*), Endereço (*ADDRESS*), Cidade (*CITY*) e Código Postal (*ZIP CODE*).",
+    "latency_seconds": 6.2248852252960205
+}

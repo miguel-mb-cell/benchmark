@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-18T02:16:47.415721",
+    "date": "2025-10-18",
+    "response": "Parece ser um bilhete de transporte do sistema BART (Bay Area Rapid Transit), que serve a área da baía de São Francisco. Esse tipo de bilhete é utilizado por passageiros para acessar o transporte público na região.",
+    "latency_seconds": 4.646410942077637
+}
