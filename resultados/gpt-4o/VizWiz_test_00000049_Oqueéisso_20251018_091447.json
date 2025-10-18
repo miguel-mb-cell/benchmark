@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-18T09:14:12.614503",
+    "date": "2025-10-18",
+    "response": "Isso é um bilhete do sistema de transporte público BART (Bay Area Rapid Transit) que atende a Bay Area, na região de São Francisco, Califórnia. Ele possui instruções sobre o uso do bilhete, como a validade, reutilização e informações para contato.",
+    "latency_seconds": 3.417104482650757
+}

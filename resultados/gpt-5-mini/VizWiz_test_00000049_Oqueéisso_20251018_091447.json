@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-18T09:14:12.614503",
+    "date": "2025-10-18",
+    "response": "Parece o verso de um bilhete do BART — o sistema de transporte rápido da área da baía de São Francisco (San Francisco Bay Area Rapid Transit). Mostra instruções de uso, um campo para você assinar/colocar endereço caso o bilhete seja perdido e informações sobre recarga em máquinas de venda.",
+    "latency_seconds": 12.496060132980347
+}

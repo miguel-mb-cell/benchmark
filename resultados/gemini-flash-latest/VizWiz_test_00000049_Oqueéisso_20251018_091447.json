@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-18T09:14:12.614503",
+    "date": "2025-10-18",
+    "response": "Com base na imagem, o objeto azul é um **bilhete ou cartão de tarifa** (ticket card) do sistema de transporte público dos Estados Unidos.\n\nEspecificamente, é um bilhete do **BART (Bay Area Rapid Transit)**, o sistema de metrô e trânsito rápido que serve a região da Baía de São Francisco, na Califórnia (EUA).\n\nA parte visível do cartão contém:\n\n1.  **Regras de Uso:** Instruções sobre a necessidade de um bilhete válido para cada passageiro, o uso do mesmo bilhete para entrada e saída, e como aumentar o valor do bilhete em um \"Ticket Vendor\" se o saldo for inferior a $8.00.\n2.  **Informações de Contato:** Números de telefone para informações sobre troca e reembolso de bilhetes.\n3.  **Instruções de Devolução:** Um aviso pedindo para o usuário assinar abaixo, indicando que, se o bilhete for perdido e devolvido ao BART, ele será enviado de volta ao dono por correio.\n4.  **Campos de Identificação:** Espaços em branco para o usuário preencher o **NOME**, **ENDEREÇO**, **CIDADE** e **CEP (ZIP CODE)**.\n5.  **Identificação da Agência:** O nome completo da operadora: **SAN FRANCISCO BAY AREA RAPID TRANSIT DISTRICT**.",
+    "latency_seconds": 5.436574459075928
+}
