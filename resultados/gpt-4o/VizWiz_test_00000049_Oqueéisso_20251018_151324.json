@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-18T15:12:49.795618",
+    "date": "2025-10-18",
+    "response": "Esta é uma passagem de transporte do sistema BART (Bay Area Rapid Transit) da região da Baía de São Francisco. O cartão contém informações sobre o uso do bilhete, como a necessidade de cada passageiro ter um bilhete válido e que o mesmo bilhete deve ser usado para entrada e saída. O cartão também fornece informações de contato para troca e reembolso de bilhetes.",
+    "latency_seconds": 3.9712345600128174
+}

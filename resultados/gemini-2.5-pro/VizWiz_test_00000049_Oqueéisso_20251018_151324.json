@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-18T15:12:49.795618",
+    "date": "2025-10-18",
+    "response": "Com base na imagem, isto é o verso de um **bilhete para o sistema de transporte público da Baía de São Francisco**, conhecido como **BART** (Bay Area Rapid Transit District).\n\nAs informações no bilhete são instruções para os passageiros, incluindo:\n\n*   Cada passageiro deve ter um bilhete válido.\n*   O mesmo bilhete deve ser usado para entrar e sair do sistema.\n*   O valor do bilhete pode ser aumentado em uma máquina de vendas, se necessário.\n*   Há um espaço para escrever o nome e o endereço do proprietário, para que o bilhete possa ser devolvido pelo correio caso seja perdido e encontrado.\n\nEsses bilhetes de papel com tarja magnética foram o padrão do BART por muitos anos, mas foram em grande parte substituídos pelo sistema de cartão recarregável Clipper Card.",
+    "latency_seconds": 13.558851957321167
+}
