@@ -19,5 +19,11 @@
         "data/imagens/VizWiz_test_00000132.jpg",
         "data/imagens/VizWiz_test_00000219.jpg",
         "data/imagens/VizWiz_test_00000241.jpg"
+    ],
+    "2025-10-19": [
+        "data/imagens/acidente_carro.jpeg",
+        "data/imagens/aneis.jpeg",
+        "data/imagens/faixaviva.jpeg",
+        "data/imagens/nota_fiscal.jpeg"
     ]
 }

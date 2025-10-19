@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "nota_fiscal.jpeg",
+    "question_original_pt": "Descreva os gastos",
+    "timestamp_sent_utc": "2025-10-19T02:46:37.947360",
+    "date": "2025-10-19",
+    "response": "O recibo é de uma farmácia Drogasil em Brasília, DF. Os produtos comprados e seus valores são:\n\n1. **Aerodin Spray 200 Doses 10x**:\n   - Preço Original: R$ 55,01\n   - Desconto: R$ 15,92\n   - Preço com Desconto: R$ 39,06\n\n2. **Xantinon 30's 1,00**:\n   - Preço Original: R$ 16,97\n   - Desconto: R$ 1,72\n   - Preço com Desconto: R$ 15,27\n\n**Resumo dos Gastos**:\n- Quantidade Total de Itens: 2\n- Valor Total dos Descontos: R$ 17,65\n- Valor Total da Compra: R$ 54,33\n\n**Pagamento**:\n- Forma de Pagamento: Dinheiro\n- Valor Pago: R$ 100,00\n- Troco: R$ 45,00\n\n**Tributos Aproximados**:\n- Federal: R$ 7,31\n- Estadual: R$ 9,24",
+    "latency_seconds": 5.333305358886719
+}

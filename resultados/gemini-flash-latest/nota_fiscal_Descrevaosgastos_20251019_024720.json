@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "nota_fiscal.jpeg",
+    "question_original_pt": "Descreva os gastos",
+    "timestamp_sent_utc": "2025-10-19T02:46:37.947360",
+    "date": "2025-10-19",
+    "response": "Com base no cupom fiscal da Drograsil, os gastos detalhados são os seguintes:\n\n### Itens Adquiridos\n\n| QTD | CÓDIGO | DESCRIÇÃO | Preço Original (R$) | Desconto (R$) | Valor Líquido (R$) |\n|:---:|:------:|:----------------------------------|:-------------------:|:-------------:|:------------------:|\n| 1 | 000089110 | AERODINI SPRAY 200 DOS | 55,01 | 15,95 | 39,06 |\n| 1 | 000012967 | XANTINON 30'S | 16,97 | 1,70 | 15,27 |\n| **Total** | | | **71,98** | **17,65** | **54,33** |\n\n### Resumo Financeiro da Compra\n\n| Descrição | Valor (R$) |\n|:------------------------|:-----------:|\n| **Quantidade Total de Itens** | 2 |\n| **Valor Total Desconto (R$)** | 17,65 |\n| **Valor Total da Compra (R$)** | 54,33 |\n| Forma de Pagamento | Dinheiro |\n| Valor Pago (R$) | 100,00 |\n| Troco Doado (R$) | 0,67 |\n| **Troco Recebido (R$)** | 45,00 |\n\n*(Nota: O valor total pago foi R$ 100,00, e o total da compra foi R$ 54,33. O troco total seria R$ 45,67. R$ 0,67 foi doado, resultando em um troco entregue de R$ 45,00).*\n\n### Informações Fiscais e Tributárias (IBPT)\n\n* **Tribuição Aproximada Federal:** R$ 7,31\n* **Tribuição Aproximada Estadual:** R$ 9,24",
+    "latency_seconds": 3.884660243988037
+}

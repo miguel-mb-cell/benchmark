@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "nota_fiscal.jpeg",
+    "question_original_pt": "Descreva os gastos",
+    "timestamp_sent_utc": "2025-10-19T02:46:37.947360",
+    "date": "2025-10-19",
+    "response": "Com base na nota fiscal da **Drogasil**, a compra foi realizada em 13/10/2025 às 17:38, na filial do Guará II, em Brasília - DF.\n\nAqui está o detalhamento dos gastos:\n\n**Itens Comprados:**\n\n1.  **AERODINI SPRAY 200 DOS**\n    *   Preço original: R$ 55,01\n    *   Desconto: R$ 15,95\n    *   **Valor final: R$ 39,06**\n\n2.  **XANTINON 30'S**\n    *   Preço original: R$ 16,97\n    *   Desconto: R$ 1,70\n    *   **Valor final: R$ 15,27**\n\n---\n\n**Resumo da Compra:**\n\n*   **Valor total da compra:** **R$ 54,33**\n*   **Total de descontos:** R$ 17,65\n\n---\n\n**Detalhes do Pagamento:**\n\n*   **Forma de pagamento:** Dinheiro\n*   **Valor pago:** R$ 100,00\n*   **Troco doado:** R$ 0,67\n*   **Troco recebido:** **R$ 45,00**",
+    "latency_seconds": 19.30777931213379
+}

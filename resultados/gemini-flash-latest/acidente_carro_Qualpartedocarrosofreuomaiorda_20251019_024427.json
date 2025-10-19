@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "acidente_carro.jpeg",
+    "question_original_pt": "Qual parte do carro sofreu o maior dano no acidente?",
+    "timestamp_sent_utc": "2025-10-19T02:44:01.214549",
+    "date": "2025-10-19",
+    "response": "Com base na imagem, a parte do carro que sofreu o **maior dano** no acidente foi a **frente** (dianteira) do veículo.\n\nO dano é extenso e inclui:\n\n1.  **Para-choque e Grade:** Completamente destruídos e/ou arrancados.\n2.  **Capô:** Amassado e levantado, indicando a força do impacto na estrutura.\n3.  **Compartimento do Motor:** A estrutura interna e os componentes mecânicos (como o radiador) foram severamente atingidos e colapsados.\n4.  **Vazamento:** Há uma mancha grande de líquido (provavelmente refrigerante ou óleo) no chão sob a área do motor, confirmando danos internos graves.",
+    "latency_seconds": 4.722698926925659
+}
