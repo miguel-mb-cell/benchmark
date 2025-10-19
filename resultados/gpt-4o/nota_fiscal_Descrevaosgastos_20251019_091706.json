@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "nota_fiscal.jpeg",
+    "question_original_pt": "Descreva os gastos",
+    "timestamp_sent_utc": "2025-10-19T09:16:21.011187",
+    "date": "2025-10-19",
+    "response": "Este é um recibo de uma compra na Drogasil com os seguintes detalhes:\n\n1. **Produtos adquiridos:**\n   - Aerodini Spray: 1 unidade\n     - Preço original: R$ 55,01\n     - Preço com desconto: R$ 39,06\n     - Desconto: R$ 15,95\n   - Xantinon 30's: 1 unidade\n     - Preço original: R$ 16,97\n     - Preço com desconto: R$ 15,27\n     - Desconto: R$ 1,70\n\n2. **Resumo dos gastos:**\n   - Total de desconto: R$ 17,65\n   - Valor total da compra: R$ 54,33\n\n3. **Pagamento:**\n   - Forma de pagamento: Dinheiro\n   - Valor pago: R$ 100,00\n   - Troco recebido: R$ 45,00\n\n4. **Tributos:**\n   - Aproximadamente R$ 7,31 de tributos federais e R$ 9,24 de tributos estaduais.\n\n5. **Detalhes adicionais:**\n   - Emissão da NFC-e: 13/10/2025\n   - Série: 003\n\nO recibo contém também informações como CNPJ, endereço e telefone da loja.",
+    "latency_seconds": 8.5382080078125
+}

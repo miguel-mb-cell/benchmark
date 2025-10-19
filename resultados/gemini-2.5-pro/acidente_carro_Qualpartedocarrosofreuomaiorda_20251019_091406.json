@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "acidente_carro.jpeg",
+    "question_original_pt": "Qual parte do carro sofreu o maior dano no acidente?",
+    "timestamp_sent_utc": "2025-10-19T09:13:40.549595",
+    "date": "2025-10-19",
+    "response": "Com base na imagem, a parte do carro que sofreu o maior dano foi claramente a **dianteira**.\n\nÉ possível observar que:\n*   O **capô** está amassado e levantado.\n*   O **para-choque dianteiro** está destruído.\n*   A **grade frontal** e os **faróis** parecem ter sido arrancados ou quebrados.\n*   O **compartimento do motor** está exposto e visivelmente danificado.\n\nA colisão foi, sem dúvida, na parte frontal do veículo.",
+    "latency_seconds": 10.137524843215942
+}

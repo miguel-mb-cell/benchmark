@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "faixaviva.jpeg",
+    "question_original_pt": "O que diferencia essa faixa de pedestres das tradicionais?",
+    "timestamp_sent_utc": "2025-10-19T09:15:19.499047",
+    "date": "2025-10-19",
+    "pergunta_translated_en": "What differentiates this pedestrian crossing from traditional ones?",
+    "response_original_en": "The pedestrian crossing in the image is painted red with white stripes and has the word \"FAIXA VIVA\" painted on it, making it distinct from traditional pedestrian crossings which typically have white stripes and no additional text or markings. This unique design likely serves to draw attention and convey a specific message or cultural reference.",
+    "response_translated_pt": "A passagem pedonal da imagem é pintada de vermelho com riscas brancas e tem a palavra “FAIXA VIVA” pintada, o que a distingue das tradicionais passadeiras pedonais que normalmente apresentam riscas brancas e não possuem texto ou marcação adicional. Este design exclusivo provavelmente serve para chamar a atenção e transmitir uma mensagem específica ou referência cultural.",
+    "latency_seconds": 3.365342855453491
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "faixaviva.jpeg",
+    "question_original_pt": "O que diferencia essa faixa de pedestres das tradicionais?",
+    "timestamp_sent_utc": "2025-10-19T09:15:19.499047",
+    "date": "2025-10-19",
+    "response": "Essa faixa tem duas diferenças óbvias em relação à faixa zebradas tradicionais:\n\n- Cor de fundo vermelha entre as barras brancas (em vez de apenas o asfalto escuro), o que aumenta muito o contraste e a visibilidade da travessia.\n- Texto pintado (“FAIXA VIVA”) indicando que é uma medida de conscientização/segurança (campanha local).\n\nPor que muda o efeito? A cor e a mensagem chamam mais atenção dos motoristas, incentivam a redução de velocidade e aumentam a probabilidade de dar preferência ao pedestre — é uma intervenção para melhorar a segurança viária.",
+    "latency_seconds": 8.483401536941528
+}
