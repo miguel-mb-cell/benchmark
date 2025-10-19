@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "nota_fiscal.jpeg",
+    "question_original_pt": "Descreva os gastos",
+    "timestamp_sent_utc": "2025-10-19T06:24:26.983303",
+    "date": "2025-10-19",
+    "response": "Com base na imagem do cupom fiscal da DrogaSIL, os gastos detalhados são os seguintes:\n\n---\n\n### **1. Informações Básicas da Compra**\n\n*   **Estabelecimento:** Raia Drogasil S/A (DrogaSIL)\n*   **Local:** QE 15, S/N - Guará II - Brasília - DF\n*   **Data de Emissão:** 13/10/2025 (17:38:03)\n*   **Documento:** DANFE NFC-e (Documento Auxiliar da Nota Fiscal de Consumidor Eletrônica)\n\n### **2. Produtos Adquiridos e Detalhes de Preço**\n\nA compra consistiu em dois itens, ambos com desconto aplicado:\n\n| Item | Descrição do Produto | Quantidade (QTD) | Valor Unitário (R$) | Valor Total Original (R$) | Desconto (R$) | Valor Líquido (R$) |\n| :---: | :--- | :---: | :---: | :---: | :---: | :---: |\n| 01 | AERODINI SPRAY 200 DOS | 1 | 55,01 | 55,01 | -15,95 | **39,06** |\n| 02 | XANTINON 30'S | 1 | 16,97 | 16,97 | -1,70 | **15,27** |\n\n### **3. Resumo Financeiro da Transação**\n\n| Descrição | Valor (R$) |\n| :--- | :---: |\n| Quantidade Total de Itens | 2 |\n| **Valor Total Desconto** | **17,65** |\n| **VALOR TOTAL (Líquido da Compra)** | **54,33** |\n| Forma de Pagamento | DINHEIRO |\n| Valor Total Pago | 100,00 |\n| Troco Doado | 0,67 |\n| Troco Recebido | 45,00 |\n\n***\n\n### **4. Tributação Aproximada**\n\nO documento informa o valor aproximado dos tributos (Fonte: IBPT) incluído no preço final:\n\n*   **Trib. Aprox. Federal:** R$ 7,31\n*   **Trib. Aprox. Estadual:** R$ 9,24",
+    "latency_seconds": 7.52129340171814
+}

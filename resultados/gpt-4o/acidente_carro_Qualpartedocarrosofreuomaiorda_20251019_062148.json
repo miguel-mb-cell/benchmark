@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "acidente_carro.jpeg",
+    "question_original_pt": "Qual parte do carro sofreu o maior dano no acidente?",
+    "timestamp_sent_utc": "2025-10-19T06:21:24.807180",
+    "date": "2025-10-19",
+    "response": "Parece que a maior parte do dano no carro ocorreu na parte frontal, incluindo o capô e o para-choque.",
+    "latency_seconds": 2.4778006076812744
+}

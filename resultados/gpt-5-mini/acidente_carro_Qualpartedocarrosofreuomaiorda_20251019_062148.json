@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "acidente_carro.jpeg",
+    "question_original_pt": "Qual parte do carro sofreu o maior dano no acidente?",
+    "timestamp_sent_utc": "2025-10-19T06:21:24.807180",
+    "date": "2025-10-19",
+    "response": "A parte dianteira esquerda do carro — especialmente o capô, para-choque/grade e a área do motor/lanterna dianteira esquerda — sofreu o maior dano.",
+    "latency_seconds": 4.7928032875061035
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "acidente_carro.jpeg",
+    "question_original_pt": "Qual parte do carro sofreu o maior dano no acidente?",
+    "timestamp_sent_utc": "2025-10-19T06:21:24.807180",
+    "date": "2025-10-19",
+    "response": "Com base na imagem, a parte do carro que sofreu o maior dano foi a **dianteira (frente)** do veículo.\n\nO dano é extenso e inclui:\n\n1.  **Capô:** Amassado e levantado.\n2.  **Para-choque e Grade:** Totalmente destruídos e desmantelados.\n3.  **Estrutura Interna:** A frente do carro foi esmagada, expondo o compartimento do motor e possivelmente danificando severamente o motor, radiador e outros componentes mecânicos (evidenciado também pelo líquido escuro derramado no chão).\n4.  **Para-lama:** O para-lama dianteiro do lado do passageiro está visivelmente deformado.\n\nAs laterais, a cabine de passageiros e a traseira do carro parecem estar relativamente intactas.",
+    "latency_seconds": 4.322941064834595
+}

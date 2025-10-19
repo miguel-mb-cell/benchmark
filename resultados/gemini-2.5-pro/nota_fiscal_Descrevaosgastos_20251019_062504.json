@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "nota_fiscal.jpeg",
+    "question_original_pt": "Descreva os gastos",
+    "timestamp_sent_utc": "2025-10-19T06:24:26.983303",
+    "date": "2025-10-19",
+    "response": "Com base no cupom fiscal apresentado, os gastos foram os seguintes:\n\n**Estabelecimento:** Drogasil\n**Local:** Guará II, Brasília - DF\n**Data e Hora:** 13/10/2025 às 17:38:03\n\n**Itens Comprados:**\n\n1.  **AERODINI SPRAY 200 DOS**\n    *   Valor original: R$ 55,01\n    *   Desconto: R$ 15,95\n    *   **Valor líquido: R$ 39,06**\n\n2.  **XANTINON 30'S**\n    *   Valor original: R$ 16,97\n    *   Desconto: R$ 1,70\n    *   **Valor líquido: R$ 15,27**\n\n---\n\n**Resumo da Compra:**\n\n*   **Total de Itens:** 2\n*   **Valor Total de Desconto:** R$ 17,65\n*   **Valor Total da Compra:** **R$ 54,33**\n\n**Pagamento:**\n\n*   **Forma de Pagamento:** Dinheiro\n*   **Valor Pago:** R$ 100,00\n*   **Troco Doado:** R$ 0,67\n*   **Troco Recebido:** **R$ 45,00**",
+    "latency_seconds": 12.082732915878296
+}
