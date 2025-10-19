@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "nota_fiscal.jpeg",
+    "question_original_pt": "Descreva os gastos",
+    "timestamp_sent_utc": "2025-10-19T15:15:52.411879",
+    "date": "2025-10-19",
+    "response": "Com base no cupom fiscal eletrônico (NFC-e) da Drograsil, a descrição dos gastos é a seguinte:\n\n---\n\n### Descrição dos Gastos (Drograsil)\n\nO cupom fiscal é da loja **Raia Drogasil S/A**, localizada no Guará II, Brasília - DF. A emissão do cupom ocorreu em **13/10/2025** às 17:38:03.\n\n#### 1. Itens Adquiridos (Total: 2 Itens)\n\nForam comprados dois medicamentos/produtos, ambos com desconto aplicado sobre o valor unitário:\n\n| Cód. | Descrição do Produto | Quantidade | Valor Original Unitário (R$) | Desconto (R$) | Valor Líquido (R$) |\n| :--- | :--- | :--- | :--- | :--- | :--- |\n| 01 | **AERODINI SPRAY 200 DOS** | 1 Unidade | 55,01 | 15,95 | **39,06** |\n| 02 | **XANTINON 30'S** | 1 Unidade | 16,97 | 1,70 | **15,27** |\n\n#### 2. Resumo Financeiro da Compra\n\n| Descrição | Valor (R$) |\n| :--- | :--- |\n| **Valor Total Desconto** | 17,65 |\n| **Valor Total da Compra (Líquido)** | **54,33** |\n\n#### 3. Detalhes de Pagamento\n\nO pagamento foi realizado utilizando a forma de pagamento **Dinheiro**.\n\n| Descrição | Valor (R$) |\n| :--- | :--- |\n| Valor Pago (Cédulas entregues) | 100,00 |\n| Troco Total Devido (100,00 - 54,33) | 45,67 |\n| **Troco Doado** | 0,67 |\n| **Troco Recebido** | 45,00 |\n\n#### 4. Carga Tributária Aproximada\n\nO documento informa uma tributação aproximada (Fonte: IBPT) sobre o valor total dos itens:\n\n*   **Tributo Federal Aproximado:** R$ 7,31\n*   **Tributo Estadual Aproximado:** R$ 9,24",
+    "latency_seconds": 7.605645656585693
+}

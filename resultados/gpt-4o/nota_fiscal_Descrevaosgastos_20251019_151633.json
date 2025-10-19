@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "nota_fiscal.jpeg",
+    "question_original_pt": "Descreva os gastos",
+    "timestamp_sent_utc": "2025-10-19T15:15:52.411879",
+    "date": "2025-10-19",
+    "response": "O recibo é de uma compra na Drogasil e inclui os seguintes itens:\n\n1. **Aerodin Spray 200 DUOS 10 UN**:\n   - Preço original: R$ 55,01\n   - Preço com desconto: R$ 39,06\n\n2. **Xantinon 30's 1.0 OUS**:\n   - Preço original: R$ 16,97\n   - Preço com desconto: R$ 15,27\n\n**Resumo dos Gastos**:\n- Total de itens: 2\n- Total de desconto: R$ 17,65\n- Valor total: R$ 54,33\n\n**Pagamento**:\n- Forma de pagamento: Dinheiro\n- Valor pago: R$ 100,00\n- Troco: R$ 45,00\n\nImpostos aproximados: R$ 7,31 (Federal) e R$ 9,24 (Estadual).",
+    "latency_seconds": 6.51950740814209
+}
