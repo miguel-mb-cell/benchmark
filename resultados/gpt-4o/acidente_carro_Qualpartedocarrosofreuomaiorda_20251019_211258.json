@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "acidente_carro.jpeg",
+    "question_original_pt": "Qual parte do carro sofreu o maior dano no acidente?",
+    "timestamp_sent_utc": "2025-10-19T21:12:29.168652",
+    "date": "2025-10-19",
+    "response": "A parte dianteira do carro sofreu o maior dano no acidente. O capô está amassado e levantado, indicando um impacto significativo na frente do veículo.",
+    "latency_seconds": 6.930911064147949
+}

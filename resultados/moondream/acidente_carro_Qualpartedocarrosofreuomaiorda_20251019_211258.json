@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "acidente_carro.jpeg",
+    "question_original_pt": "Qual parte do carro sofreu o maior dano no acidente?",
+    "timestamp_sent_utc": "2025-10-19T21:12:29.168652",
+    "date": "2025-10-19",
+    "pergunta_translated_en": "Which part of the car suffered the most damage in the accident?",
+    "response_original_en": "The front of the car suffered the most damage, with the hood crumpled and damaged.",
+    "response_translated_pt": "A frente do carro foi a que mais sofreu danos, com o capô amassado e danificado.",
+    "latency_seconds": 2.3987655639648438
+}

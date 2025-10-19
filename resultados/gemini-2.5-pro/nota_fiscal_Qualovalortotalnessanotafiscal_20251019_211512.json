@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "nota_fiscal.jpeg",
+    "question_original_pt": "Qual o valor total nessa nota fiscal?",
+    "timestamp_sent_utc": "2025-10-19T21:14:47.972038",
+    "date": "2025-10-19",
+    "response": "De acordo com a nota fiscal, o valor total da compra é **R$ 54,33**.\n\nEste valor está indicado na linha \"**VALOR TOTAL R$**\".",
+    "latency_seconds": 10.533110857009888
+}

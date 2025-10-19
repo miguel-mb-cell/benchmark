@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "nota_fiscal.jpeg",
+    "question_original_pt": "Descreva os gastos",
+    "timestamp_sent_utc": "2025-10-19T21:15:12.308554",
+    "date": "2025-10-19",
+    "response": "Este é um recibo de venda (NFC-e) emitido pela **DrogaSIL** (Raia Drogasil S/A), referente a uma compra de medicamentos e produtos de farmácia realizada em 13/10/2025, às 17:38:03, na loja localizada no Guará II, Brasília - DF.\n\nO gasto total da compra, após descontos, foi de **R$ 54,33**.\n\nAbaixo está o detalhamento dos gastos:\n\n---\n\n### Detalhamento dos Itens Comprados (QTD: 2)\n\n| Item | Descrição do Produto | Valor Unitário Original (R$) | Desconto (R$) | Valor Líquido (R$) |\n| :--- | :--- | :--- | :--- | :--- |\n| 1 | **AERODINI SPRAY 200 DOS** (1 unidade) | 55,01 | -15,95 | 39,06 |\n| 2 | **XANTINON 30'S** (1 unidade) | 16,97 | -1,70 | 15,27 |\n| **SUBTOTAL** | | 71,98 | **-17,65** | **54,33** |\n\n---\n\n### Resumo Financeiro da Transação\n\n| Categoria | Valor (R$) |\n| :--- | :--- |\n| Quantidade Total de Itens | 2 |\n| **Valor Total Desconto** | **17,65** |\n| **Valor Total da Compra** (Líquido) | **54,33** |\n| Forma de Pagamento | Dinheiro |\n| Valor Pago (Entregue pelo Cliente) | 100,00 |\n| Troco Doado | 0,67 |\n| Troco Devolvido | 45,00 |\n\n#### Tributação Aproximada (Fonte: IBPT)\n\nO valor aproximado dos tributos incluídos no preço total é de **R$ 16,55**, sendo:\n*   Federal: R$ 7,31\n*   Estadual: R$ 9,24",
+    "latency_seconds": 7.420576333999634
+}

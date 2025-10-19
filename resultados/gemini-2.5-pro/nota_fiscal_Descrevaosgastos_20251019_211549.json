@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "nota_fiscal.jpeg",
+    "question_original_pt": "Descreva os gastos",
+    "timestamp_sent_utc": "2025-10-19T21:15:12.308554",
+    "date": "2025-10-19",
+    "response": "Claro! Com base no recibo fiscal da Drogasil, aqui está a descrição dos gastos:\n\nA compra foi realizada na **Drogasil** em Brasília - DF (Guará II), no dia **13/10/2025** às **17:38:03** (nota: o ano pode ser um erro de impressão, sendo mais provável 2023).\n\nForam comprados dois itens:\n\n1.  **AERODINI SPRAY 200 DOS** (1 unidade)\n    *   Preço original: R$ 55,01\n    *   Desconto: - R$ 15,95\n    *   **Valor pago pelo item: R$ 39,06**\n\n2.  **XANTINON 30'S** (1 unidade)\n    *   Preço original: R$ 16,97\n    *   Desconto: - R$ 1,70\n    *   **Valor pago pelo item: R$ 15,27**\n\n**Resumo Financeiro:**\n*   **Valor Total da Compra:** **R$ 54,33**\n*   **Valor Total de Descontos:** R$ 17,65\n*   **Forma de Pagamento:** Dinheiro\n*   **Valor Entregue:** R$ 100,00\n*   **Troco Doado:** R$ 0,67\n*   **Troco Recebido:** **R$ 45,00**",
+    "latency_seconds": 14.035372018814087
+}

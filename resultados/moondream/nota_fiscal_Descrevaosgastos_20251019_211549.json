@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "nota_fiscal.jpeg",
+    "question_original_pt": "Descreva os gastos",
+    "timestamp_sent_utc": "2025-10-19T21:15:12.308554",
+    "date": "2025-10-19",
+    "pergunta_translated_en": "Describe the expenses",
+    "response_original_en": "The receipt shows two expenses:\n1. A total of $17.65\n2. A total of $100.00\n\nThe receipt is from Drogasil and includes items such as AERODINI SPRAY 200 DOS (1.00 Unx 55.01 F), XANTINON 30'S 1.00 Unx 16.97, and TRCO ROS (45.00).",
+    "response_translated_pt": "O recibo mostra duas despesas:\n1. Um total de $ 17,65\n2. Um total de $ 100,00\n\nO recibo é da Drogasil e inclui itens como AERODINI SPRAY 200 DOS (1,00 Unx 55,01 F), XANTINON 30'S 1,00 Unx 16,97 e TRCO ROS (45,00).",
+    "latency_seconds": 2.4459645748138428
+}

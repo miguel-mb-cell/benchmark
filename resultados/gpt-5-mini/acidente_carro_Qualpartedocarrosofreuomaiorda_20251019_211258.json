@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "acidente_carro.jpeg",
+    "question_original_pt": "Qual parte do carro sofreu o maior dano no acidente?",
+    "timestamp_sent_utc": "2025-10-19T21:12:29.168652",
+    "date": "2025-10-19",
+    "response": "A parte frontal, principalmente o lado dianteiro esquerdo — parachoque, capô, para-lama e o compartimento do motor — foi a que sofreu o maior dano (há amassamento forte e capô levantado).",
+    "latency_seconds": 4.966790676116943
+}
