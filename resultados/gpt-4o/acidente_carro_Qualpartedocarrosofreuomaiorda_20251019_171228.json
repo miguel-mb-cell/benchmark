@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "acidente_carro.jpeg",
+    "question_original_pt": "Qual parte do carro sofreu o maior dano no acidente?",
+    "timestamp_sent_utc": "2025-10-19T17:12:04.232571",
+    "date": "2025-10-19",
+    "response": "O maior dano no acidente ocorreu na parte frontal do carro.",
+    "latency_seconds": 2.206979513168335
+}

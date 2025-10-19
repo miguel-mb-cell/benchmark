@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "acidente_carro.jpeg",
+    "question_original_pt": "Qual parte do carro sofreu o maior dano no acidente?",
+    "timestamp_sent_utc": "2025-10-19T17:12:04.232571",
+    "date": "2025-10-19",
+    "response": "Com base na imagem, a parte do carro que sofreu o maior dano foi a **frente** (ou nariz) do veículo.\n\nO dano é caracterizado por:\n\n1.  **Colisão Frontal Massiva:** Toda a seção frontal está esmagada.\n2.  **Capô Aberto e Danificado:** O capô está dobrado e levantado.\n3.  **Para-choque Destruído:** O para-choque foi arrancado e a grade frontal está quebrada.\n4.  **Exposição do Compartimento do Motor:** Componentes internos do motor e da estrutura de absorção de impacto (como o radiador) estão visivelmente amassados e expostos.\n5.  **Vazamento de Fluidos:** Há uma grande poça de líquido avermelhado/marrom (provavelmente fluidos do motor ou refrigeração) no chão, indicando sérios danos mecânicos internos.",
+    "latency_seconds": 5.014389276504517
+}

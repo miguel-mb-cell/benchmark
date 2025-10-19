@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "nota_fiscal.jpeg",
+    "question_original_pt": "Descreva os gastos",
+    "timestamp_sent_utc": "2025-10-19T17:14:39.034088",
+    "date": "2025-10-19",
+    "response": "Com certeza! Aqui está a descrição detalhada dos gastos com base no cupom fiscal da Drogasil:\n\nEste é um cupom fiscal de uma compra realizada na farmácia **Drogasil** em Guará II, Brasília - DF, no dia **13 de outubro de 2023, às 17:38**.\n\n**Itens Comprados:**\n\n1.  **AERODINI SPRAY 200 DOS**\n    *   Preço original: R$ 55,01\n    *   Desconto aplicado: R$ 15,95\n    *   **Valor pago pelo item: R$ 39,06**\n\n2.  **XANTINON 30'S**\n    *   Preço original: R$ 16,97\n    *   Desconto aplicado: R$ 1,70\n    *   **Valor pago pelo item: R$ 15,27**\n\n**Resumo da Compra:**\n\n*   **Valor total dos produtos (sem desconto):** R$ 71,98\n*   **Valor total de descontos:** R$ 17,65\n*   **VALOR TOTAL A PAGAR: R$ 54,33**\n\n**Informações de Pagamento:**\n\n*   **Forma de pagamento:** Dinheiro\n*   **Valor entregue:** R$ 100,00\n*   **Troco recebido:** R$ 45,00\n*   **Troco doado:** R$ 0,67",
+    "latency_seconds": 19.387746810913086
+}

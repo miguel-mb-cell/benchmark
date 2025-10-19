@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "nota_fiscal.jpeg",
+    "question_original_pt": "Descreva os gastos",
+    "timestamp_sent_utc": "2025-10-19T17:14:39.034088",
+    "date": "2025-10-19",
+    "response": "Este é um comprovante de venda (NFC-e) da farmácia **Drogasil**. A descrição detalhada dos gastos está abaixo:\n\n---\n\n## Resumo da Compra\n\n*   **Estabelecimento:** Raia Drogasil S/A\n*   **Localização:** QE 15, S/N - Guará II, Brasília - DF\n*   **Data de Emissão:** 13/10/2025 (17:38:03)\n*   **Total de Itens:** 2\n\n## Itens Adquiridos\n\n| Item | Código | Descrição | Quantidade (QTD) | Preço Unitário Original (R$) | Desconto (R$) | Valor Líquido (R$) |\n| :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n| 1 | 000089110 | AERODINI SPRAY 200 DOS | 1 UNX | 55,01 | 15,95 | 39,06 |\n| 2 | 000012957 | XANTINON 30'S | 1 UNX | 16,97 | 1,70 | 15,27 |\n\n## Totais e Pagamento\n\n| Descrição | Valor (R$) |\n| :--- | :--- |\n| Valor Total Desconto | 17,65 |\n| **VALOR TOTAL DA COMPRA (Líquido)** | **54,33** |\n| Forma de Pagamento | Dinheiro |\n| Valor Total Pago | 100,00 |\n| Troco Doado (arredondamento/doação) | 0,67 |\n| **Troco Recebido** | **45,00** |\n\n## Tributos\n\nO valor aproximado de tributos incluídos no preço final dos produtos é de **R$ 16,55**, sendo:\n\n*   Federal: R$ 7,31\n*   Estadual: R$ 9,24\n*   Fonte: IBPT",
+    "latency_seconds": 7.195075035095215
+}

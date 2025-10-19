@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "nota_fiscal.jpeg",
+    "question_original_pt": "Descreva os gastos",
+    "timestamp_sent_utc": "2025-10-19T17:14:39.034088",
+    "date": "2025-10-19",
+    "response": "O recibo é de uma compra na Drogasil, localizada em Brasília. Foram adquiridos dois produtos:\n\n1. **Aerodini Spray 200 Doses 10 unid**  \n   - Preço original: R$ 55,01  \n   - Desconto: R$ 15,02 (Preço final: R$ 39,06)\n\n2. **Xantinon 30's 1,00 unid**  \n   - Preço original: R$ 16,97  \n   - Desconto: R$ 1,70 (Preço final: R$ 15,27)\n\n**Resumo dos valores:**\n\n- Total de itens: 2\n- Valor total de descontos: R$ 17,65\n- Valor total da compra: R$ 54,33\n- Pagamento em dinheiro: R$ 100,00\n- Troco: R$ 45,00\n\n**Tributação aproximada:**\n- Federal: R$ 7,31\n- Estadual: R$ 9,24",
+    "latency_seconds": 5.745342969894409
+}
