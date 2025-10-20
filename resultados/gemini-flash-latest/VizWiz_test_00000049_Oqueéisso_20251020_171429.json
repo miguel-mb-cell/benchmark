@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-20T17:13:49.241069",
+    "date": "2025-10-20",
+    "response": "Isso é a **parte de trás (verso) de um bilhete de transporte público** do sistema **BART (Bay Area Rapid Transit)**, que serve a área da baía de São Francisco, na Califórnia, EUA.\n\nO verso azul contém as regras de uso do bilhete e instruções em caso de perda:\n\n1.  Cada passageiro deve ter um bilhete válido.\n2.  O mesmo bilhete deve ser usado para entrada e saída.\n3.  O valor do bilhete, se for inferior a $8,00, pode ser aumentado inserindo-o em qualquer Máquina Vendedora de Bilhetes (Ticket Vendor).\n4.  Informações para troca e reembolso de bilhetes.\n5.  Abaixo, há um espaço para preenchimento de **Nome, Endereço, Cidade e CEP**. A instrução indica que, se o bilhete for assinado e devolvido ao BART após ser perdido, ele será enviado de volta ao proprietário pelo correio.",
+    "latency_seconds": 7.4261555671691895
+}

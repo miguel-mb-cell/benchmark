@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-20T17:13:49.241069",
+    "date": "2025-10-20",
+    "response": "Esta é a parte de trás de um bilhete de transporte do sistema BART (Bay Area Rapid Transit) de São Francisco. O texto inclui informações sobre uso e reembolso do bilhete, e um espaço para adicionar nome e endereço para devolução em caso de perda.",
+    "latency_seconds": 5.815770387649536
+}
