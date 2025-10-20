@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-20T15:15:54.087013",
+    "date": "2025-10-20",
+    "response": "Isso é um bilhete do sistema de transporte público BART (Bay Area Rapid Transit), que serve a região da Baía de São Francisco, na Califórnia. Cada passageiro precisa de um bilhete válido para viajar, e o mesmo bilhete deve ser usado para entrada e saída. Na parte de trás há informações para recuperação do bilhete caso ele seja perdido, bem como contatos para troca e reembolso.",
+    "latency_seconds": 5.364069700241089
+}
