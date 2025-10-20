@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-20T21:14:26.532315",
+    "date": "2025-10-20",
+    "response": "Isto é um bilhete do sistema de transporte rápido da Área da Baía de São Francisco, conhecido como BART (Bay Area Rapid Transit). É utilizado para entrada e saída nas estações de transporte público. O cartão também fornece informações de contato para troca de bilhetes ou reembolso e tem um espaço para preenchimento de informações pessoais, caso o bilhete seja perdido e depois encontrado.",
+    "latency_seconds": 6.251042366027832
+}

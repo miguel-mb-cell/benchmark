@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-20T21:14:26.532315",
+    "date": "2025-10-20",
+    "response": "Com base na imagem, isto é uma **passagem (ou bilhete) para o sistema de transporte público da Baía de São Francisco**, conhecido como **BART** (Bay Area Rapid Transit District).\n\nEspecificamente:\n\n*   É um bilhete de papel que era usado para entrar e sair das estações de trem do BART, na Califórnia, EUA.\n*   O cartão tem instruções de uso, como a necessidade de usar o mesmo bilhete para entrada e saída.\n*   Há um espaço para escrever o nome e o endereço, para que, se o bilhete for perdido e encontrado, possa ser devolvido pelo correio.\n\nHoje em dia, esses bilhetes de papel foram em grande parte substituídos pelo cartão eletrônico recarregável chamado \"Clipper Card\", mas os bilhetes de papel ainda podem ser encontrados.",
+    "latency_seconds": 20.916086435317993
+}
