@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-20T06:23:35.768288",
+    "date": "2025-10-20",
+    "response": "Com base na imagem, isto é a parte de trás de um bilhete do **BART (Bay Area Rapid Transit)**.\n\nO BART é o sistema de transporte rápido (metrô/trem) que serve a Área da Baía de São Francisco, na Califórnia, EUA.\n\nNo bilhete, podemos ver as seguintes informações em inglês:\n*   Instruções sobre como usar o bilhete (cada passageiro precisa de um, deve ser usado para entrada e saída, etc.).\n*   Um espaço para preencher com nome e endereço, para que, se o bilhete for perdido e encontrado, possa ser devolvido pelo correio.\n*   O nome da agência: **SAN FRANCISCO BAY AREA RAPID TRANSIT DISTRICT**.\n\nPortanto, é um bilhete de transporte público para o sistema de trens da região de São Francisco.",
+    "latency_seconds": 12.922370672225952
+}

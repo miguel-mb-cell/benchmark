@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-20T06:23:35.768288",
+    "date": "2025-10-20",
+    "pergunta_translated_en": "What is that?",
+    "response_original_en": "A transit ticket for the San Francisco Bay Area Rapid Transit District.",
+    "response_translated_pt": "Uma passagem de trânsito para o Distrito de Trânsito Rápido da Área da Baía de São Francisco.",
+    "latency_seconds": 3.774894952774048
+}
