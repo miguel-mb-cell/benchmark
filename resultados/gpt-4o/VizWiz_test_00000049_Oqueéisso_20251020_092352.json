@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-20T09:23:18.650582",
+    "date": "2025-10-20",
+    "response": "Parece ser um cartão de trânsito do sistema de transporte público do Distrito de Trânsito Rápido da Área da Baía de São Francisco (BART). Ele contém instruções sobre o uso do tíquete para entrada e saída e informações de contato para troca ou reembolso de bilhetes.",
+    "latency_seconds": 4.128972768783569
+}
