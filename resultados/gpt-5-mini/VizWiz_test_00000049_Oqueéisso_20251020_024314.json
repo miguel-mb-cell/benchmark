@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-20T02:42:41.442956",
+    "date": "2025-10-20",
+    "response": "Parece o verso de um bilhete/cartão do BART — o sistema de transporte público San Francisco Bay Area Rapid Transit. Tem instruções de uso, números de contato e um campo para escrever nome/endereço caso o bilhete seja perdido. Quer que eu traduza o texto que aparece na imagem?",
+    "latency_seconds": 5.765724420547485
+}

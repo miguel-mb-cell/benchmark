@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-20T02:42:41.442956",
+    "date": "2025-10-20",
+    "response": "Isso é um bilhete do sistema de transporte público do San Francisco Bay Area Rapid Transit District (BART). Ele possui instruções para os passageiros sobre como usá-lo corretamente, incluindo informações sobre valor e contato para troca ou reembolso.",
+    "latency_seconds": 5.008281707763672
+}

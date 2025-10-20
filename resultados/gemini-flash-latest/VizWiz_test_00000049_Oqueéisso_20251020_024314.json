@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-20T02:42:41.442956",
+    "date": "2025-10-20",
+    "response": "Trata-se de um **cartão de tarifa ou bilhete de transporte (transit ticket)** emitido pelo **BART (Bay Area Rapid Transit District)**.\n\nBART é o sistema de metrô/trem rápido que serve a região da Baía de São Francisco, nos Estados Unidos.\n\nA parte visível do bilhete contém as regras de uso e campos para preenchimento, indicando que, se perdido e devolvido, ele pode ser enviado de volta ao proprietário:\n\n### Informações na Parte Visível (Tradução):\n\n*   Cada passageiro deve ter um bilhete válido.\n*   O mesmo bilhete deve ser usado para entrada e saída.\n*   O valor deste bilhete, se for inferior a $8,00, pode ser aumentado inserindo-o em qualquer Máquina Vendedora de Bilhetes.\n*   Para informações sobre troca e reembolso de bilhetes, ligue para (510) 464-6466 ou (510) 839-2220 (TDD).\n*   Assine abaixo, se perdido e devolvido ao BART, o bilhete será enviado pelo correio para você.\n\n**Emitido por:** SAN FRANCISCO BAY AREA RAPID TRANSIT DISTRICT (Distrito de Trânsito Rápido da Área da Baía de São Francisco).",
+    "latency_seconds": 5.333949327468872
+}
