@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-21T15:16:18.694484",
+    "date": "2025-10-21",
+    "response": "É um bilhete/cartão do sistema BART (San Francisco Bay Area Rapid Transit). A foto mostra a parte de trás com instruções de uso (regras, telefones) e um espaço para colocar nome/endereço caso o bilhete seja perdido. Quer saber como funciona ou onde usar?",
+    "latency_seconds": 5.612985134124756
+}

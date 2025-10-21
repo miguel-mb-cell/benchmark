@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-21T15:16:18.694484",
+    "date": "2025-10-21",
+    "response": "Com base na imagem, isto é a parte de trás de um **bilhete do BART (Bay Area Rapid Transit)**.\n\nO BART é o sistema de transporte público rápido que serve a Área da Baía de São Francisco (San Francisco Bay Area), na Califórnia, EUA.\n\nAs informações no bilhete incluem:\n*   **Instruções para os passageiros**, como a necessidade de cada passageiro ter um bilhete válido e de usar o mesmo bilhete para entrar e sair das estações.\n*   A possibilidade de **aumentar o valor do bilhete** em uma máquina de venda (Ticket Vendor).\n*   **Números de telefone** para informações sobre troca e reembolso.\n*   Um espaço para preencher com **nome e endereço**. A instrução diz que, se o bilhete for perdido e devolvido ao BART, ele será enviado pelo correio para o endereço fornecido.",
+    "latency_seconds": 19.383931398391724
+}

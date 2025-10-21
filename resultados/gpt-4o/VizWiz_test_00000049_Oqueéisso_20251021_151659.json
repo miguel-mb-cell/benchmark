@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-21T15:16:18.694484",
+    "date": "2025-10-21",
+    "response": "Esse é um cartão do sistema de transporte público BART (Bay Area Rapid Transit) da região da Baía de São Francisco. Esses cartões são usados pelos passageiros para acessar o sistema de trens, e contêm informações sobre a necessidade de um ticket válido para entrada e saída, além de instruções sobre como aumentar o saldo do cartão e detalhes de contato para trocas ou reembolsos de tickets.",
+    "latency_seconds": 5.970016241073608
+}
