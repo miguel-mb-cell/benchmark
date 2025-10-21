@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-21T06:23:02.535024",
+    "date": "2025-10-21",
+    "response": "Com base na imagem, isso é a parte de trás de um **bilhete de papel do BART**.\n\n**BART** é a sigla para **Bay Area Rapid Transit**, o sistema de transporte público rápido (semelhante a um metrô) que atende a Área da Baía de São Francisco, na Califórnia, EUA.\n\nNo bilhete, podemos ver:\n*   O nome da autoridade de trânsito: **SAN FRANCISCO BAY AREA RAPID TRANSIT DISTRICT**.\n*   Instruções para os passageiros, como a necessidade de ter um bilhete válido e usá-lo tanto para a entrada quanto para a saída.\n*   Informações sobre como adicionar valor ao bilhete.\n*   Um espaço para preencher nome e endereço, para que, se o bilhete for perdido e devolvido ao BART, ele possa ser enviado de volta ao proprietário pelo correio.\n\nEsses bilhetes de papel com tarja magnética foram o meio de pagamento tradicional do BART por muitos anos, antes da popularização do sistema de cartão recarregável Clipper.",
+    "latency_seconds": 15.52790355682373
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-21T06:23:02.535024",
+    "date": "2025-10-21",
+    "response": "Isso é um **bilhete ou cartão de tarifa do sistema de transporte rápido BART** (Bay Area Rapid Transit), que serve a área da Baía de São Francisco, Califórnia, EUA.\n\nO cartão é azul e contém instruções e informações para o usuário.\n\n### Informações visíveis no bilhete:\n\nO texto (em inglês) no cartão detalha as regras de uso do bilhete e procedimentos em caso de perda:\n\n1.  Cada passageiro deve ter um bilhete válido.\n2.  O mesmo bilhete deve ser usado para entrada e saída.\n3.  O valor deste bilhete, se for inferior a $8,00, pode ser aumentado inserindo-o em qualquer Máquina Vendedora de Bilhetes (Ticket Vendor).\n4.  Para informações sobre troca e reembolso de bilhetes, ligue para (510) 464-6466 ou (510) 839-2220 (TDD).\n\nAbaixo das instruções, há um espaço para preenchimento:\n\n> **\"Sign below, if lost and returned to BART, ticket will be mailed to you.\"**\n> (Assine abaixo. Se perdido e devolvido ao BART, o bilhete será enviado pelo correio para você.)\n\n*   NAME (Nome)\n*   ADDRESS (Endereço)\n*   CITY (Cidade)\n*   ZIP CODE (CEP)\n\nNa parte inferior, está o nome completo da autoridade de transporte: **SAN FRANCISCO BAY AREA RAPID TRANSIT DISTRICT.**",
+    "latency_seconds": 6.102605581283569
+}
