@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-21T17:15:07.526300",
+    "date": "2025-10-21",
+    "response": "O objeto na imagem é um **bilhete de transporte público** (conhecido como \"ticket\" ou \"passagem\") do **BART (Bay Area Rapid Transit)**, o sistema de trem rápido que serve a área da Baía de São Francisco, Califórnia, EUA.\n\nA parte visível do cartão é o verso, que contém as regras de uso e informações de contato.\n\n### Detalhes visíveis no bilhete:\n\n1.  **Emissor:** SAN FRANCISCO BAY AREA RAPID TRANSIT DISTRICT.\n2.  **Regras Principais:**\n    *   \"Each passenger must have a valid ticket.\" (Cada passageiro deve ter um bilhete válido.)\n    *   \"The same ticket must be used for entry and exit.\" (O mesmo bilhete deve ser usado para entrada e saída.)\n    *   \"The value of this ticket, if less than $8.00, may be increased by inserting into any Ticket Vendor.\" (O valor deste bilhete, se inferior a $8,00, pode ser aumentado inserindo-o em qualquer Máquina de Venda de Bilhetes.)\n3.  **Informações de Devolução:** Há um espaço para o passageiro preencher seus dados (\"Sign below, if lost and returned to BART, ticket will be mailed to you.\") — (Assine abaixo; se perdido e devolvido ao BART, o bilhete será enviado pelo correio para você.)",
+    "latency_seconds": 5.283618688583374
+}

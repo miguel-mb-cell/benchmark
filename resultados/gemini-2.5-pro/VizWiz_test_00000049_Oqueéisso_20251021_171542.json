@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-21T17:15:07.526300",
+    "date": "2025-10-21",
+    "response": "Com base na imagem, isso é um bilhete para o sistema de transporte público da Área da Baía de São Francisco, nos Estados Unidos.\n\nMais especificamente, é um bilhete do **BART (Bay Area Rapid Transit)**.\n\nO cartão azul contém:\n*   Instruções de uso para os passageiros.\n*   Campos para preencher nome e endereço, para que o bilhete possa ser devolvido pelo correio caso seja perdido e encontrado.",
+    "latency_seconds": 8.651176929473877
+}

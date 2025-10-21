@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-21T17:15:07.526300",
+    "date": "2025-10-21",
+    "response": "É um bilhete/cartão do BART — o sistema de transporte (trem/metrô) da região da Baía de São Francisco. A parte mostrada tem instruções e um espaço para nome/endereço (para que, se perdido e devolvido, o bilhete seja enviado ao dono). É o tipo de cartão/ingresso que se insere nas máquinas de entrada/saída e cujo valor pode ser aumentado em um Ticket Vendor.",
+    "latency_seconds": 10.590753078460693
+}
