@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-21T09:17:09.422267",
+    "date": "2025-10-21",
+    "response": "É um bilhete do BART — o sistema de transporte rápido da área da Baía de São Francisco. Na imagem aparece o verso com instruções, espaço para nome/endereço (para devolução) e números de contato.",
+    "latency_seconds": 11.084493637084961
+}
