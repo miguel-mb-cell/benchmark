@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000096.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-21T02:26:30.563922",
+    "date": "2025-10-21",
+    "response": "Com base na imagem, isto é um **bloco de notas para estenografia** (conhecido em inglês como \"Steno Notebook\").\n\nAqui estão os detalhes visíveis na capa:\n\n*   **Marca:** SKILCRAFT\n*   **Tipo:** Executive Steno Notebook\n*   **Tamanho:** 6\" x 9\" (aproximadamente 15 x 23 cm)\n*   **Quantidade de folhas:** 80\n*   **Tipo de pauta:** Gregg Ruled (um tipo de pauta com uma linha vertical no meio da página, comum para taquigrafia/estenografia)\n*   **Anotação manuscrita:** Alguém escreveu \"Apple Notes\" (Anotações da Apple) no topo.\n*   **Informação adicional:** Na parte inferior, há a frase \"Created with pride by Americans who are Blind\" (Criado com orgulho por americanos que são cegos), indicando que foi fabricado por pessoas com deficiência visual.",
+    "latency_seconds": 10.593311548233032
+}

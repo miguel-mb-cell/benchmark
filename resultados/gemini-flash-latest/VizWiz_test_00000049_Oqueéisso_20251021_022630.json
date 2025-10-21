@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-21T02:25:34.555522",
+    "date": "2025-10-21",
+    "response": "Esta é a parte de trás (ou verso) de um **bilhete de transporte público (fare card)**, especificamente do sistema **BART (Bay Area Rapid Transit)**, que serve a região da Baía de São Francisco, Califórnia, nos Estados Unidos.\n\nA parte visível do bilhete contém as regras de uso e informações de contato:\n\n### Informações Principais\n\n*   **Entidade Emissora:** SAN FRANCISCO BAY AREA RAPID TRANSIT DISTRICT (BART).\n*   **Regras de Uso:**\n    *   Cada passageiro deve ter um bilhete válido.\n    *   O mesmo bilhete deve ser usado para entrada e saída.\n    *   O valor do bilhete, se for inferior a $8.00, pode ser aumentado (recarregado) inserindo-o em qualquer Máquina Vendedora de Bilhetes (Ticket Vendor).\n*   **Instruções para Perda:**\n    *   Há um espaço para preencher o **Nome** (Name), **Endereço** (Address), **Cidade** (City) e **CEP** (ZIP Code).\n    *   A instrução é: \"Assine abaixo, se for perdido e devolvido ao BART, o bilhete será enviado a você pelo correio.\"\n*   **Informações de Contato:**\n    *   Telefones para informações sobre troca e reembolso de bilhetes: (510) 464-6466 ou (510) 839-2220 (TDD).",
+    "latency_seconds": 5.440406084060669
+}

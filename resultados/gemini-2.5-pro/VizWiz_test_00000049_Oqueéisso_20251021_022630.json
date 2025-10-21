@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-21T02:25:34.555522",
+    "date": "2025-10-21",
+    "response": "Com base na imagem, isto é a parte de trás de uma **passagem do BART (Bay Area Rapid Transit)**.\n\nO BART é o sistema de transporte público rápido (metrô/trem) que serve a Área da Baía de São Francisco (San Francisco Bay Area), na Califórnia, EUA.\n\nO texto na passagem fornece instruções para o passageiro e inclui uma área para escrever o nome e endereço. Isso é para que, caso a passagem seja perdida e encontrada, ela possa ser enviada de volta ao proprietário pelo correio.",
+    "latency_seconds": 12.201979637145996
+}

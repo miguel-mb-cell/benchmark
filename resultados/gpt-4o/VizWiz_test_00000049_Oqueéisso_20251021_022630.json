@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-21T02:25:34.555522",
+    "date": "2025-10-21",
+    "response": "Esta é uma passagem do sistema de transporte público do BART (Bay Area Rapid Transit), que opera na área da Baía de São Francisco, Califórnia. O cartão contém instruções sobre como validar o bilhete e informações de contato para troca e reembolso.",
+    "latency_seconds": 25.286537885665894
+}
