@@ -1,50 +1,43 @@
 {
     "2025-10-16": [
-        "data/imagens/VizWiz_train_00000006.jpg",
-        "data/imagens/VizWiz_train_00000259.jpg",
-        "data/imagens/VizWiz_train_00000272.jpg",
-        "data/imagens/VizWiz_train_00000296.jpg",
-        "data/imagens/VizWiz_train_00000628.jpg"
+        "data\\imagens\\VizWiz_train_00000006.jpg",
+        "data\\imagens\\VizWiz_train_00000259.jpg",
+        "data\\imagens\\VizWiz_train_00000272.jpg",
+        "data\\imagens\\VizWiz_train_00000296.jpg",
+        "data\\imagens\\VizWiz_train_00000628.jpg"
     ],
     "2025-10-17": [
-        "data/imagens/VizWiz_train_00000667.jpg",
-        "data/imagens/VizWiz_train_00001096.jpg",
-        "data/imagens/VizWiz_train_00001174.jpg",
-        "data/imagens/VizWiz_train_00001232.jpg",
-        "data/imagens/embalagem_bis.jpeg"
+        "data\\imagens\\VizWiz_train_00000667.jpg",
+        "data\\imagens\\VizWiz_train_00001096.jpg",
+        "data\\imagens\\VizWiz_train_00001174.jpg",
+        "data\\imagens\\VizWiz_train_00001232.jpg",
+        "data\\imagens\\embalagem_bis.jpeg"
     ],
     "2025-10-18": [
-        "data/imagens/VizWiz_test_00000049.jpg",
-        "data/imagens/VizWiz_test_00000096.jpg",
-        "data/imagens/VizWiz_test_00000132.jpg",
-        "data/imagens/VizWiz_test_00000219.jpg",
-        "data/imagens/VizWiz_test_00000241.jpg"
+        "data\\imagens\\VizWiz_test_00000049.jpg",
+        "data\\imagens\\VizWiz_test_00000096.jpg",
+        "data\\imagens\\VizWiz_test_00000132.jpg",
+        "data\\imagens\\VizWiz_test_00000219.jpg",
+        "data\\imagens\\VizWiz_test_00000241.jpg"
     ],
     "2025-10-19": [
-        "data/imagens/acidente_carro.jpeg",
-        "data/imagens/aneis.jpeg",
-        "data/imagens/faixaviva.jpeg",
-        "data/imagens/nota_fiscal.jpeg"
+        "data\\imagens\\acidente_carro.jpeg",
+        "data\\imagens\\aneis.jpeg",
+        "data\\imagens\\faixaviva.jpeg",
+        "data\\imagens\\nota_fiscal.jpeg"
     ],
     "2025-10-20": [
-        "data/imagens/VizWiz_test_00000049.jpg",
-        "data/imagens/VizWiz_test_00000096.jpg",
-        "data/imagens/VizWiz_test_00000132.jpg",
-        "data/imagens/VizWiz_test_00000219.jpg",
-        "data/imagens/VizWiz_test_00000241.jpg"
+        "data\\imagens\\VizWiz_test_00000049.jpg",
+        "data\\imagens\\VizWiz_test_00000096.jpg",
+        "data\\imagens\\VizWiz_test_00000132.jpg",
+        "data\\imagens\\VizWiz_test_00000219.jpg",
+        "data\\imagens\\VizWiz_test_00000241.jpg"
     ],
     "2025-10-21": [
-        "data/imagens/VizWiz_test_00000049.jpg",
-        "data/imagens/VizWiz_test_00000096.jpg",
-        "data/imagens/VizWiz_test_00000132.jpg",
-        "data/imagens/VizWiz_test_00000219.jpg",
-        "data/imagens/VizWiz_test_00000241.jpg"
-    ],
-    "2025-10-22": [
-        "data/imagens/VizWiz_test_00000049.jpg",
-        "data/imagens/VizWiz_test_00000096.jpg",
-        "data/imagens/VizWiz_test_00000132.jpg",
-        "data/imagens/VizWiz_test_00000219.jpg",
-        "data/imagens/VizWiz_test_00000241.jpg"
+        "data\\imagens\\VizWiz_test_00000049.jpg",
+        "data\\imagens\\VizWiz_test_00000096.jpg",
+        "data\\imagens\\VizWiz_test_00000132.jpg",
+        "data\\imagens\\VizWiz_test_00000219.jpg",
+        "data\\imagens\\VizWiz_test_00000241.jpg"
     ]
 }

@@ -107,5 +107,35 @@
     "pergunta": [
       "Quantos andares tem o edifício à frente?"
     ]
+  },
+  {
+    "arquivo_imagem": "direcao_placas_hospital.jpeg",
+    "pergunta": [
+      "Para onde está apontando a saída?"
+    ]
+  },
+  {
+    "arquivo_imagem": "faixa_pedestre.jpg",
+    "pergunta": [
+      "Tem uma faixa onde quero atravessar?"
+    ]
+  },
+  {
+    "arquivo_imagem": "placa_SQS113.jpeg",
+    "pergunta": [
+      "O que diz a placa?"
+    ]
+  },
+  {
+    "arquivo_imagem": "receita_medica.jpg",
+    "pergunta": [
+      "O que o médico escreveu?"
+    ]
+  },
+  {
+    "arquivo_imagem": "calendario.jpeg",
+    "pergunta": [
+      "Quais os feriados que tem esse mês?"
+    ]
   }
 ]

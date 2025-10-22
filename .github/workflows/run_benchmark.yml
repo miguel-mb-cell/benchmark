@@ -1,40 +1,40 @@
 name: Envia fotos para APIs
-
 on:
   workflow_dispatch:
   schedule:
     - cron: '0 1,6,9,15,17,21 * * *' # 22h, 3h, 6h, 12h, 14h, 18h cobrindo manhã, tarde, noite
-
 jobs:
   run-benchmark:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
+        with:
+          fetch-depth: 0  # Busca todo o histórico para evitar conflitos
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
       # --- Bloco de configuração do Node.js ---
       - name: Configura Node.js 20
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-
+      
       - name: Instala dependências do Node.js
         run: npm install
       # --- Fim do bloco Node.js ---
-
+      
       # --- Bloco de configuração do Python ---
       - name: Configura Python 3.10
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-
+      
       - name: Instala dependências do Python
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
       # --- Fim do bloco Python ---
-
+      
       - name: Roda script python
         env:
           # Passa os segredos do GitHub para o script como variáveis de ambiente
@@ -42,16 +42,47 @@ jobs:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
           MOONDREAM_API_KEY: ${{ secrets.MOONDREAM_API_KEY }}
         run: python script.py
-
-      - name: Commit e push dos resultados
+      
+      - name: Configura Git
         run: |
           git config --global user.name 'GitHub Actions Bot'
           git config --global user.email 'github-actions-bot@github.com'
-          git add resultados/
+      
+      - name: Commit e push dos resultados com retry
+        run: |
           # Verifica se há mudanças para commitar
+          git add resultados/
+          
           if ! git diff --staged --quiet; then
             git commit -m "📊 Adiciona novos resultados de benchmark"
-            git push
+            
+            # Tenta fazer push com retry em caso de conflito
+            max_attempts=5
+            attempt=1
+            
+            while [ $attempt -le $max_attempts ]; do
+              echo "🔄 Tentativa $attempt de $max_attempts..."
+              
+              # Pull com rebase antes do push para sincronizar
+              git pull --rebase origin main || {
+                echo "⚠️  Pull falhou, tentando resolver..."
+                git rebase --abort 2>/dev/null || true
+                git pull --rebase origin main
+              }
+              
+              # Tenta fazer push
+              if git push origin main; then
+                echo "✅ Push realizado com sucesso!"
+                exit 0
+              else
+                echo "⚠️  Push falhou, aguardando 10 segundos antes de tentar novamente..."
+                sleep 10
+                attempt=$((attempt + 1))
+              fi
+            done
+            
+            echo "❌ Falha ao fazer push após $max_attempts tentativas"
+            exit 1
           else
-            echo "Nenhum resultado novo para commitar."
+            echo "ℹ️  Nenhum resultado novo para commitar."
           fi

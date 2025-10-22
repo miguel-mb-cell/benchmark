@@ -1,14 +1,20 @@
 const translate = require('@iamtraction/google-translate');
 
-// Pega o texto do primeiro argumento da linha de comando
 const textToTranslate = process.argv[2];
-const targetLang = process.argv[3] || 'en'; // Padrão 'en' se não for especificado
+const targetLang = process.argv[3] || 'en';
+const sourceLang = process.argv[4] || 'auto'; // <-- NOVO ARGUMENTO
 
 if (!textToTranslate) {
   process.exit(1); // Sai se não houver texto
 }
 
-translate(textToTranslate, { to: targetLang })
+// Objeto de opções dinâmico
+const options = {
+  to: targetLang,
+  from: sourceLang // <-- USA O NOVO ARGUMENTO (padrão 'auto' se não for passado)
+};
+
+translate(textToTranslate, options)
   .then(res => {
     console.log(res.text); // Imprime o resultado para o Python capturar
   })
