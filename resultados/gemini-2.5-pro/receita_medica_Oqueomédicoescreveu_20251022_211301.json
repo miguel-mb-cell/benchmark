@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "receita_medica.jpg",
+    "question_original_pt": "O que o médico escreveu?",
+    "timestamp_sent_utc": "2025-10-22T21:12:08.788012",
+    "date": "2025-10-22",
+    "response": "Olá! Com base na imagem, a receita médica diz o seguinte:\n\n---\n\n**Paciente:** Luenrique Figueiredo (o primeiro nome pode ter uma grafia ligeiramente diferente, mas é o que parece).\n\n**Uso Interno**\n\n**1) Dramin 100mg - VO - tomar 01 comp. de 8/8 hrs p/ aliviar os enjoos.**\n\n**2) Buscopan composto gotas - VO - tomar 35 gts de 8/8 hrs em caso de dor ou febre.**\n\n---\n\n### Explicação (\"Tradução\"):\n\nAqui está o que cada item significa em linguagem mais simples:\n\n**1. Dramin 100 mg (comprimido):**\n*   **O quê:** Um medicamento para náuseas, tontura e vômitos.\n*   **Como tomar:** Tomar 1 (um) comprimido por via oral (pela boca).\n*   **Quando:** A cada 8 horas.\n*   **Para quê:** Para aliviar os enjoos.\n\n**2. Buscopan Composto (gotas):**\n*   **O quê:** Um medicamento para cólicas, dores e febre.\n*   **Como tomar:** Tomar 35 (trinta e cinco) gotas por via oral (pela boca).\n*   **Quando:** A cada 8 horas.\n*   **Para quê:** Somente se tiver dor ou febre.\n\n**Resumo das instruções:**\n*   Tomar o **Dramin** a cada 8 horas para controlar o enjoo.\n*   Tomar o **Buscopan Composto** a cada 8 horas, mas apenas se sentir dor ou estiver com febre.\n\n> **Aviso Importante:** Esta é uma transcrição da receita. Para qualquer dúvida sobre a medicação, dosagem ou seu estado de saúde, é fundamental consultar um médico ou farmacêutico.",
+    "latency_seconds": 18.146789073944092
+}

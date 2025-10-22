@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "receita_medica.jpg",
+    "question_original_pt": "O que o médico escreveu?",
+    "timestamp_sent_utc": "2025-10-22T21:12:08.788012",
+    "date": "2025-10-22",
+    "pergunta_translated_en": "What did the doctor write?",
+    "response_original_en": "The doctor wrote: “Hospital Regional Manoel de Sousa Santos,” “Av. Dr. Ralmundo Santos, 546 - Centro (89)-1192,” “64.900-000 BOM JESUS - PI,” “CNPJ: 06.564/0001-.”",
+    "response_translated_pt": "O médico escreveu: “Hospital Regional Manoel de Sousa Santos”, “Av. Dr. Ralmundo Santos, 546 - Centro (89)-1192”, “64.900-000 BOM JESUS ​​- PI”, “CNPJ: 06.564/0001-”.",
+    "latency_seconds": 3.27927565574646
+}

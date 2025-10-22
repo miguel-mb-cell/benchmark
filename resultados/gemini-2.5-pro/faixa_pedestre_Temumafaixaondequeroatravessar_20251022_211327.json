@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "faixa_pedestre.jpg",
+    "question_original_pt": "Tem uma faixa onde quero atravessar?",
+    "timestamp_sent_utc": "2025-10-22T21:13:01.824727",
+    "date": "2025-10-22",
+    "response": "Sim, a imagem mostra uma **faixa de pedestres** claramente sinalizada com listras brancas para você atravessar a rua.\n\nAlém disso, na calçada há uma rampa de acessibilidade com piso tátil (as lajotas amarelas com relevo), que serve para orientar pessoas com deficiência visual e facilitar o acesso para cadeirantes.",
+    "latency_seconds": 9.270369529724121
+}

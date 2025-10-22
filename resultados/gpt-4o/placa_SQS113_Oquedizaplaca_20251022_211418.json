@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "placa_SQS113.jpeg",
+    "question_original_pt": "O que diz a placa?",
+    "timestamp_sent_utc": "2025-10-22T21:13:27.438978",
+    "date": "2025-10-22",
+    "response": "A placa está informando sobre a \"SQS 113\", que é uma Superquadra Sul em Brasília. Ela inclui um mapa das quadras adjacentes, destacando locais importantes como um \"Centro de Ensino Fundamental\" e um \"Jardim de Infância\". A parte inferior parece mostrar um mapa maior da área de Brasília com destaque para planos urbanos.\n\nAlém disso, há ícones para \"Movido [Algo]\", \"Chácaras [Algo]\" e \"Pousadas Superquadras\", mas sem informações detalhadas.",
+    "latency_seconds": 6.110541820526123
+}

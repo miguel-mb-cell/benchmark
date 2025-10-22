@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "faixa_pedestre.jpg",
+    "question_original_pt": "Tem uma faixa onde quero atravessar?",
+    "timestamp_sent_utc": "2025-10-22T21:13:01.824727",
+    "date": "2025-10-22",
+    "response": "Sim — há uma faixa de pedestres (zebra) bem visível à sua frente. Também há piso tátil amarelo no meio-fio para auxiliar pessoas com deficiência visual.\n\nDicas rápidas antes de atravessar:\n- Verifique se há semáforo e só atravesse no verde ou quando o trânsito estiver parado.\n- Olhe para os dois lados e faça contato visual com motoristas quando possível.\n- Atravesse em linha reta e sem correr.\n- Mesmo na faixa, não presuma que os carros vão parar — espere confirmação.",
+    "latency_seconds": 5.800099611282349
+}

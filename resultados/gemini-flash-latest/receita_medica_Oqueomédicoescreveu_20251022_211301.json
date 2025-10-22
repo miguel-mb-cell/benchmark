@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "receita_medica.jpg",
+    "question_original_pt": "O que o médico escreveu?",
+    "timestamp_sent_utc": "2025-10-22T21:12:08.788012",
+    "date": "2025-10-22",
+    "response": "A receita médica apresenta as seguintes informações, com uma caligrafia notavelmente legível:\n\n---\n\n### Cabeçalho\n*   **HOSPITAL REGIONAL MANOEL DE SOUSA SANTOS**\n*   Endereço: Av. Dr. Raimundo Santos, 546 - Centro\n*   Cidade: BOM JESUS - PI\n\n### Dados do Paciente e Uso\n*   **Paciente:** Henrique Figueiredo (ou Siqueira)\n*   **Uso:** Uso Interno\n\n### Prescrições Médicas\n\n**1. Dramin**\n*   **Medicamento:** Dramin 100mg\n*   **Via:** VO (Via Oral)\n*   **Posologia:** Tomar 01 comp. de 8/8 hrs p/ aliviar os enjoos.\n    *(Instrução: Tomar 1 comprimido de Dramin 100mg a cada 8 horas, via oral, para aliviar as náuseas.)*\n\n**2. Buscopam Composto**\n*   **Medicamento:** Buscopam Composto gotas\n*   **Via:** VO (Via Oral)\n*   **Posologia:** Tomar 35 gts de 8/8 hrs em caso de dor ou febre.\n    *(Instrução: Tomar 35 gotas de Buscopam Composto a cada 8 horas, via oral, em caso de dor ou febre.)*\n\n---",
+    "latency_seconds": 5.106709003448486
+}
