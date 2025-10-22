@@ -39,5 +39,12 @@
         "data\\imagens\\VizWiz_test_00000132.jpg",
         "data\\imagens\\VizWiz_test_00000219.jpg",
         "data\\imagens\\VizWiz_test_00000241.jpg"
+    ],
+    "2025-10-22": [
+        "data/imagens/receita_medica.jpg",
+        "data/imagens/VizWiz_test_00000241.jpg",
+        "data/imagens/faixa_pedestre.jpg",
+        "data/imagens/placa_SQS113.jpeg",
+        "data/imagens/VizWiz_train_00000628.jpg"
     ]
 }

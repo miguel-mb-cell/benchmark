@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "receita_medica.jpg",
+    "question_original_pt": "O que o médico escreveu?",
+    "timestamp_sent_utc": "2025-10-22T17:14:50.888249",
+    "date": "2025-10-22",
+    "response": "A escrita do médico está bastante legível. Aqui está a transcrição completa do que está escrito na receita:\n\n---\n\n### HOSPITAL REGIONAL MANOEL DE SOUSA SANTOS\nAv. Dr. Raimundo Santos, 546 - Centro - (89) [número omitido] - 1192\n64.900-000 BOM JESUS - PI\nCNPJ: 06. [número omitido].564/0001-[número omitido]\n\n**Paciente:** Lussorique Trigueiredo\n\n**Uso Interno**\n\n**1) Dramin 100mg - VO - tomar 01 comp.**\nde 8/8 hrs p/ aliviar os enjôos.\n\n**2) Buscopam composto gotas - VO - tomar**\n**35 gts de 8/8 hrs em caso de dor ou febre.**\n\n---\n\n### Resumo das Prescrições:\n\n1.  **Medicamento:** Dramin 100mg\n    *   **Via:** VO (Via Oral)\n    *   **Posologia:** Tomar 1 comprimido a cada 8 horas.\n    *   **Indicação:** Para aliviar os enjoos.\n2.  **Medicamento:** Buscopam Composto (gotas)\n    *   **Via:** VO (Via Oral)\n    *   **Posologia:** Tomar 35 gotas a cada 8 horas.\n    *   **Indicação:** Em caso de dor ou febre.",
+    "latency_seconds": 5.933884382247925
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "faixa_pedestre.jpg",
+    "question_original_pt": "Tem uma faixa onde quero atravessar?",
+    "timestamp_sent_utc": "2025-10-22T17:15:54.024965",
+    "date": "2025-10-22",
+    "response": "Sim — há uma faixa de pedestres (zebra) bem visível à sua frente, com rebaixamento da calçada e piso tátil amarelo para acessibilidade. Não é possível confirmar com certeza se há semáforo funcionando a partir desta imagem, então tome cuidado:\n\n- Aguarde o sinal de pedestres, se houver.  \n- Olhe para os dois lados e certifique‑se de que os carros estejam parados.  \n- Cuidado com veículos fazendo conversões; faça contato visual com os motoristas quando possível.  \n- Atravesse em ritmo constante pela faixa.",
+    "latency_seconds": 9.113590955734253
+}

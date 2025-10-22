@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "faixa_pedestre.jpg",
+    "question_original_pt": "Tem uma faixa onde quero atravessar?",
+    "timestamp_sent_utc": "2025-10-22T17:15:54.024965",
+    "date": "2025-10-22",
+    "response": "Sim, a imagem mostra claramente uma **faixa de pedestres** (as listras brancas pintadas na rua) para você atravessar com segurança.\n\nA calçada também possui uma rampa de acesso e piso tátil (os ladrilhos amarelos) para facilitar a travessia.",
+    "latency_seconds": 10.002673149108887
+}

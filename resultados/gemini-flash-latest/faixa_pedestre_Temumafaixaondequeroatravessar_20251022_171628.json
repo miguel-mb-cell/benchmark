@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "faixa_pedestre.jpg",
+    "question_original_pt": "Tem uma faixa onde quero atravessar?",
+    "timestamp_sent_utc": "2025-10-22T17:15:54.024965",
+    "date": "2025-10-22",
+    "response": "Sim, **há uma faixa de pedestres (passadeira)** exatamente onde a imagem está focada.\n\nAs listras brancas pintadas no asfalto (conhecidas como faixa de pedestres) indicam o local seguro e legal para atravessar a rua.\n\nAlém disso, a calçada tem **piso tátil amarelo** (com bolinhas, indicando atenção/parada) e uma rampa suave para garantir a acessibilidade para cadeirantes ou pessoas com mobilidade reduzida, confirmando que este é um ponto de travessia oficial.",
+    "latency_seconds": 1.2558960914611816
+}

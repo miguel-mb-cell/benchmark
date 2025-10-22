@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "placa_SQS113.jpeg",
+    "question_original_pt": "O que diz a placa?",
+    "timestamp_sent_utc": "2025-10-22T17:16:28.836871",
+    "date": "2025-10-22",
+    "response": "A placa é um mapa informativo e diz o seguinte:\n\n**Título Principal:**\n\n* **SQS 113 Superquadra Sul**\n* (South Superblock)\n\n**Conteúdo do Mapa (Detalhando a SQS 113):**\n\nO mapa mostra a disposição das edificações na Superquadra, identificadas por letras, além de algumas vias e pontos de interesse:\n\n* **Centro de Ensino Fundamental** (Elementary and Middle School)\n* **Quadra de Esportes** (Sports Court)\n* As letras (A, B, C, D, E, F, G, H, J, K) representam os blocos residenciais.\n* **Jornaleiro** (Newsstand)\n* **Estação 112 Sul**\n* **Via W3 Sul / SQS 313** (Vias de acesso)\n* **Comércio Local Sul / CLS 113** (South Local Commerce)\n* **Entrequadra Sul Eixão Sul/EQS 112/113**\n* **\"Você está aqui\"** (You are here) - Indicando a posição do observador.\n\n**Ícones de Transporte e Acesso:**\n\nNa parte inferior do mapa da superquadra, há ícones indicando:\n\n* **Metrô** (Metro)\n* **Ônibus** (Bus Stop)\n* **Passagem Subterrânea** (Underground Passage)\n\n**Conteúdo Secundário (Mapa de Brasília):**\n\nNa parte inferior da placa, há um mapa mais amplo da cidade de Brasília (Plano Piloto), mostrando:\n\n* **Lago Paranoá**\n* Eixos (Eixo Rodoviário, Eixo Monumental)\n* Diversas áreas e setores, como Asa Sul, Asa Norte, Setor Militar Urbano, etc.",
+    "latency_seconds": 2.8186185359954834
+}

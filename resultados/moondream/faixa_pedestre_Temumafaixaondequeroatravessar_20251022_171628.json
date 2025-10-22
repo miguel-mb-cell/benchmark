@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "faixa_pedestre.jpg",
+    "question_original_pt": "Tem uma faixa onde quero atravessar?",
+    "timestamp_sent_utc": "2025-10-22T17:15:54.024965",
+    "date": "2025-10-22",
+    "pergunta_translated_en": "Is there a lane I want to cross?",
+    "response_original_en": "Yes, there is a lane I want to cross.",
+    "response_translated_pt": "Sim, há uma pista que quero atravessar.",
+    "latency_seconds": 5.316837787628174
+}

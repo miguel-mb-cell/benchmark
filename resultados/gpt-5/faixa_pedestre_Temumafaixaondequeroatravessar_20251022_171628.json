@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "faixa_pedestre.jpg",
+    "question_original_pt": "Tem uma faixa onde quero atravessar?",
+    "timestamp_sent_utc": "2025-10-22T17:15:54.024965",
+    "date": "2025-10-22",
+    "response": "Sim. Há uma faixa de pedestres bem à sua frente (zebrada), com rebaixamento e piso tátil. Aguarde os veículos pararem antes de atravessar.",
+    "latency_seconds": 7.662323236465454
+}
