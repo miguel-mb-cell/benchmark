@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-22T02:28:29.709555",
+    "date": "2025-10-22",
+    "response": "Este é um **bilhete de trânsito (ou cartão de tarifa)** pertencente ao sistema **BART (San Francisco Bay Area Rapid Transit District)**.\n\nO BART é o sistema de transporte ferroviário rápido que atende a região da Baía de São Francisco, na Califórnia, EUA.\n\nA parte do bilhete que está visível na imagem contém regras e instruções para o passageiro, incluindo:\n\n1.  **Regras de Uso:** O bilhete deve ser válido e usado tanto na entrada quanto na saída.\n2.  **Recarga:** Se o valor for inferior a $8,00, ele pode ser recarregado em qualquer máquina de venda de bilhetes.\n3.  **Contato:** Números de telefone para informações sobre troca e reembolso de bilhetes.\n4.  **Informações Pessoais:** Espaços para preencher **Nome, Endereço, Cidade e CEP** com a instrução: \"Assine abaixo, se perdido e devolvido ao BART, o bilhete será enviado a você pelo correio.\"",
+    "latency_seconds": 4.6938323974609375
+}

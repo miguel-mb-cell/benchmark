@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000096.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-22T02:29:11.280342",
+    "date": "2025-10-22",
+    "response": "Com base na imagem, isso é um **caderno de estenografia (steno notebook)**.\n\nAqui estão os detalhes principais visíveis na capa:\n\n1.  **Nome do Produto:** EXECUTIVE STENO NOTEBOOK (Caderno de Estenografia Executivo).\n2.  **Marca:** SKILCRAFT.\n3.  **Especificações:**\n    *   Tamanho: 6\" x 9\".\n    *   Quantidade: 80 Sheets (80 folhas).\n    *   Pauta: Gregg Ruled (um tipo de pauta específica frequentemente usada para taquigrafia ou anotações rápidas).\n4.  **Anotação Manual:** Alguém escreveu à mão \"Apple Notes\" no topo da capa.\n5.  **Fabricação e Ética:** É um produto SKILCRAFT, conhecido por ser fabricado sob o programa AbilityOne nos EUA, empregando pessoas com deficiência. A capa menciona: \"Created with pride by Americans who are Blind\" (Criado com orgulho por Americanos que são Cegos) e que o produto contém materiais reciclados.",
+    "latency_seconds": 5.853440284729004
+}

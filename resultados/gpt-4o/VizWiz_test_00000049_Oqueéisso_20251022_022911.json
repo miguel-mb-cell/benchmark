@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-22T02:28:29.709555",
+    "date": "2025-10-22",
+    "response": "Parece ser um bilhete do sistema de transporte público BART (Bay Area Rapid Transit) da região da Baía de São Francisco. O texto instrui sobre o uso do bilhete, incluindo que cada passageiro deve ter um bilhete válido, que o mesmo bilhete deve ser usado para entrada e saída, e como aumentar o valor do bilhete se necessário. Há também informações de contato para troca e reembolso de bilhetes.",
+    "latency_seconds": 6.13431453704834
+}
