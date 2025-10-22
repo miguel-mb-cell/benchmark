@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-22T06:23:52.223621",
+    "date": "2025-10-22",
+    "response": "Isso é um bilhete do sistema de trânsito rápido da área da baía de São Francisco (BART), nos Estados Unidos. Ele contém instruções sobre seu uso, como a necessidade de cada passageiro ter um bilhete válido, e informações sobre o que fazer caso o bilhete seja perdido e encontrado. Também há campos para nome e endereço do portador.",
+    "latency_seconds": 7.865302801132202
+}
