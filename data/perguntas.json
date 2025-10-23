@@ -133,9 +133,213 @@
     ]
   },
   {
-    "arquivo_imagem": "calendario.jpeg",
+    "arquivo_imagem": "VizWiz_train_00000033.jpg",
     "pergunta": [
-      "Quais os feriados que tem esse mês?"
+      "Isso é uma garrafe de medicação e eu só gostaria de saber se tem uma etiqueta e informações de dosagem visíveis. Obrigado."
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000044.jpg",
+    "pergunta": [
+      "O que é isso, por favor?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000061.jpg",
+    "pergunta": [
+      "Que tipo de chips são esses?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000124.jpg",
+    "pergunta": [
+      "O que tem nessa garrafa?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000152.jpg",
+    "pergunta": [
+      "O que tem nessa garrafa?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000179.jpg",
+    "pergunta": [
+      "O que é a imagem no captcha?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000234.jpg",
+    "pergunta": [
+      "O que diz na lista?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000265.jpg",
+    "pergunta": [
+      "Qual é a data de validade?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000289.jpg",
+    "pergunta": [
+      "Qual o perfume?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000309.jpg",
+    "pergunta": [
+      "O que é esse lanche?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000312.jpg",
+    "pergunta": [
+      "O que é isso?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000313.jpg",
+    "pergunta": [
+      "O que está na minha frente e da parede?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000333.jpg",
+    "pergunta": [
+      "De que cor é esse sweater?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000335.jpg",
+    "pergunta": [
+      "De que cor são essas três gravatas?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000351.jpg",
+    "pergunta": [
+      "Qual é a data nesse leite?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000370.jpg",
+    "pergunta": [
+      "Leia essas instruções para mim"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000408.jpg",
+    "pergunta": [
+      "Que tipo de leite é esse por favor"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000420.jpg",
+    "pergunta": [
+      "O que é essa refeição?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000428.jpg",
+    "pergunta": [
+      "Que tipo de vitaminas são essas, por favor?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000443.jpg",
+    "pergunta": [
+      "Qual é a cor desses óculos?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000446.jpg",
+    "pergunta": [
+      "O que é?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000474.jpg",
+    "pergunta": [
+      "Qual é a data de validade nesse creme?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000507.jpg",
+    "pergunta": [
+      "O que isso diz?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000509.jpg",
+    "pergunta": [
+      "De que cor é essa calça?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000510.jpg",
+    "pergunta": [
+      "De que cor é a minha jaqueta?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000518.jpg",
+    "pergunta": [
+      "Que sabor é esse?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000551.jpg",
+    "pergunta": [
+      "De que cor são as nuvens e com o que elas se parecem no céu?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000572.jpg",
+    "pergunta": [
+      "Essa cor é azul? Se sim, que cor de azul se você puder descrever ela."
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000634.jpg",
+    "pergunta": [
+      "Você consegue ver ou me dar o código de autorização para essa conta que eu tenho que criar?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000733.jpg",
+    "pergunta": [
+      "O que é isso?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00000987.jpg",
+    "pergunta": [
+      "Olá, eu acabei de colocar uma capinha nova no meu Iphone, eu quero ter certeza que minha câmera não está obstruída"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00001041.jpg",
+    "pergunta": [
+      "Por favor descreva as cores nesse par de meias"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00001094.jpg",
+    "pergunta": [
+      "Que tipo de árvore é essa?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00001097.jpg",
+    "pergunta": [
+      "De que cor são esses jeans?"
+    ]
+  },
+  {
+    "arquivo_imagem": "VizWiz_train_00001198.jpg",
+    "pergunta": [
+      "Tem uma TV em cima dessa cômoda?"
     ]
   }
 ]
