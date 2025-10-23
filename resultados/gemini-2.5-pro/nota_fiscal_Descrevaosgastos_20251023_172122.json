@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "nota_fiscal.jpeg",
+    "question_original_pt": "Descreva os gastos",
+    "timestamp_sent_utc": "2025-10-23T17:19:15.842554",
+    "date": "2025-10-23",
+    "response": "Claro, aqui está a descrição detalhada dos gastos com base no recibo da Drogasil:\n\nA compra foi realizada na farmácia **Drogasil** em Brasília - DF, no dia **13/10/2025**, às **17:38:03**.\n\nForam comprados dois itens:\n\n**1. AERODINI SPRAY 200 DOS**\n*   Valor original: R$ 55,01\n*   Desconto: R$ 15,95\n*   **Valor final: R$ 39,06**\n\n**2. XANTINON 30'S**\n*   Valor original: R$ 16,97\n*   Desconto: R$ 1,70\n*   **Valor final: R$ 15,27**\n\n---\n\n### **Resumo Financeiro:**\n\n*   **Valor Total da Compra:** R$ 54,33\n*   **Desconto Total:** R$ 17,65\n*   **Forma de Pagamento:** Dinheiro\n*   **Valor Pago:** R$ 100,00\n*   **Troco Doado:** R$ 0,67\n*   **Troco Recebido:** R$ 45,00",
+    "latency_seconds": 21.106298208236694
+}

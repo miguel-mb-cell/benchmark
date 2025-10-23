@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001174.jpg",
+    "question_original_pt": "Pode me descrever o design dessa camisa?",
+    "timestamp_sent_utc": "2025-10-23T17:21:22.016923",
+    "date": "2025-10-23",
+    "response": "Sim. A camiseta é branca de gola redonda e tem um grande desenho central com várias borboletas coloridas. As borboletas estão em tamanhos diferentes (aproximadamente 10–12 no total) e em tons vivos — principalmente azuis, rosas, laranja e verdes — com contornos e sombreados que lembram aquarela/ilustração. Elas estão dispostas em uma composição vertical/diagonal, como se estivessem voando para cima, e há uma pequena assinatura ou marcação do artista próxima à base do desenho. A peça aparenta estar um pouco amassada na foto e está sobre um sofá escuro. É um visual delicado, feminino e casual, ideal para looks leves e informais.",
+    "latency_seconds": 10.466080665588379
+}

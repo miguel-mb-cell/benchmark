@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "aneis.jpeg",
+    "question_original_pt": "Quantas cores diferentes de anéis aparecem na imagem?",
+    "timestamp_sent_utc": "2025-10-23T17:13:46.931917",
+    "date": "2025-10-23",
+    "pergunta_translated_en": "How many different colors of rings appear in the image?",
+    "response_original_en": "There are four different colors of rings in the image: gold, silver, dark gray, and black.",
+    "response_translated_pt": "Existem quatro cores diferentes de anéis na imagem: dourado, prateado, cinza escuro e preto.",
+    "latency_seconds": 63.63763761520386
+}

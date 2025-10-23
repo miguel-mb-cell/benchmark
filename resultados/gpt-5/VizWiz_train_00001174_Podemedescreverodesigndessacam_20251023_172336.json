@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001174.jpg",
+    "question_original_pt": "Pode me descrever o design dessa camisa?",
+    "timestamp_sent_utc": "2025-10-23T17:21:22.016923",
+    "date": "2025-10-23",
+    "response": "É uma camiseta branca de manga curta, gola careca, com uma estampa central de borboletas.  \n- As borboletas aparecem em vários tamanhos, espalhadas em um arranjo meio em “cascata”.  \n- A maior, no centro, é rosa com detalhes azuis/roxos.  \n- As demais misturam tons de azul, laranja, verde, turquesa e rosa, com contornos escuros.  \n- O estilo do desenho lembra aquarela/ilustração manual, com leve aspecto vintage/desbotado.",
+    "latency_seconds": 10.545596837997437
+}

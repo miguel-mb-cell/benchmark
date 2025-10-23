@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "nota_fiscal.jpeg",
+    "question_original_pt": "Descreva os gastos",
+    "timestamp_sent_utc": "2025-10-23T17:19:15.842554",
+    "date": "2025-10-23",
+    "response": "Este é um recibo de compras de uma farmácia Droga Raia, com sede em Brasília, DF. A seguir estão os detalhes dos gastos:\n\n1. **Aerodini Spray 200 Doses 10MCG**\n   - Preço unitário: R$ 55,01\n   - Preço com desconto: R$ 39,06\n\n2. **Xantinon 30's 1,0G**\n   - Preço unitário: R$ 16,97\n   - Preço com desconto: R$ 15,27\n\n**Totais:**\n- Total de itens: não especificado, mas são 2 produtos.\n- Total de desconto: R$ 17,65\n- Total da compra: R$ 54,33\n\n**Pagamento:**\n- Forma de pagamento: Dinheiro\n- Valor pago: R$ 100,00\n- Troco: R$ 45,00\n\n**Informações Fiscais:**\n- Tributos aproximados: R$ 7,31 (Federal) e R$ 9,24 (Estadual) \n\nO recibo foi emitido em 13/10/2023.",
+    "latency_seconds": 10.719772100448608
+}
