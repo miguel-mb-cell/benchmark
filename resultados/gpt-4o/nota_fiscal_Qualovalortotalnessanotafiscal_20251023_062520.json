@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "nota_fiscal.jpeg",
+    "question_original_pt": "Qual o valor total nessa nota fiscal?",
+    "timestamp_sent_utc": "2025-10-23T06:24:39.103642",
+    "date": "2025-10-23",
+    "response": "O valor total na nota fiscal é de R$ 54,94.",
+    "latency_seconds": 2.440037250518799
+}

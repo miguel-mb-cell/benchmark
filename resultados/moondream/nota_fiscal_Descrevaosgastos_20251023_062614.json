@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "nota_fiscal.jpeg",
+    "question_original_pt": "Descreva os gastos",
+    "timestamp_sent_utc": "2025-10-23T06:25:20.933230",
+    "date": "2025-10-23",
+    "pergunta_translated_en": "Describe the expenses",
+    "response_original_en": "The receipt shows two expenses:\n1. Total: 17.65\n2. Total after discount: 17.65\n\nThe receipt is from Drogasil and includes details like item codes, quantities, and prices.",
+    "response_translated_pt": "O recibo mostra duas despesas:\n1. Total: 17,65\n2. Total após desconto: 17,65\n\nO recibo é da Drogasil e inclui detalhes como códigos de itens, quantidades e preços.",
+    "latency_seconds": 4.579768419265747
+}

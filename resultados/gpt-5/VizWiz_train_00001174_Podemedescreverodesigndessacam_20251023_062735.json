@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001174.jpg",
+    "question_original_pt": "Pode me descrever o design dessa camisa?",
+    "timestamp_sent_utc": "2025-10-23T06:26:14.002344",
+    "date": "2025-10-23",
+    "response": "É uma camiseta de manga curta, cor branca/creme, com gola careca. Na parte da frente há uma estampa grande de várias borboletas em diferentes tamanhos, distribuídas como se estivessem voando. As borboletas são coloridas e têm um estilo de ilustração/aquarela, com contornos finos. As cores predominantes são azul, rosa, laranja e verde‑água; a maior, no centro, é rosa com detalhes azulados. A composição ocupa a região central e desce um pouco pelo torso, dando um visual leve e romântico.",
+    "latency_seconds": 15.412696361541748
+}
