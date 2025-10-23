@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "nota_fiscal.jpeg",
+    "question_original_pt": "Descreva os gastos",
+    "timestamp_sent_utc": "2025-10-23T09:19:21.694988",
+    "date": "2025-10-23",
+    "response": "O recibo é de uma compra na Droga Raia Drogasil em Brasília - DF. Aqui estão os detalhes dos gastos:\n\n1. **Aerodini Spray 200 dos**: \n   - Preço unitário original: R$ 55,01\n   - Preço com desconto: R$ 39,06\n\n2. **Xantinon 30's 1.0**:\n   - Preço unitário original: R$ 16,97\n   - Preço com desconto: R$ 15,27\n\n**Resumo**:\n- Quantidade total de itens: 2\n- Valor total de desconto: R$ 17,65\n- Valor total líquido: R$ 54,33\n- Forma de pagamento: Dinheiro\n- Valor pago: R$ 100,00\n- Troco: R$ 45,00\n\n**Tributos**:\n- Aproximadamente R$ 7,31 de tributos federais e R$ 9,24 estaduais\n\nO recibo também inclui algumas informações adicionais sobre contato do PROCON e dados fiscais.",
+    "latency_seconds": 7.704493999481201
+}

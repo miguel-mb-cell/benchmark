@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "nota_fiscal.jpeg",
+    "question_original_pt": "Descreva os gastos",
+    "timestamp_sent_utc": "2025-10-23T09:19:21.694988",
+    "date": "2025-10-23",
+    "response": "Com base no cupom fiscal da Drogasil (NFC-e), o gasto realizado no dia 13/10/2025, às 17:38:03, na loja localizada no Guará II, em Brasília - DF, foi de **R$ 54,33**.\n\nAbaixo estão os detalhes dos produtos adquiridos, descontos aplicados e a forma de pagamento:\n\n---\n\n### Produtos Comprados (2 Itens no Total)\n\n| Item | Código | Descrição do Produto | Qtd | Valor Unitário (Original) | Desconto (R$) | Valor Líquido (Pago) |\n| :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n| 01 | 000089110 | AERODINI SPRAY 200 DOS | 1 UN | 55,01 | -15,95 | **39,06** |\n| 02 | 000012957 | XANTINON 30'S | 1 UN | 16,97 | -1,70 | **15,27** |\n| **Total** | | | 2 | 71,98 | -17,65 | **54,33** |\n\n### Resumo Financeiro\n\nO valor total original dos produtos era de R$ 71,98, mas, com o desconto total de R$ 17,65, o **Valor Total a Pagar** ficou em R$ 54,33.\n\n*   **Valor Total de Itens:** R$ 54,33\n*   **Total de Descontos:** R$ 17,65\n*   **Forma de Pagamento:** Dinheiro\n*   **Valor Pago:** R$ 100,00\n*   **Troco Recebido:** R$ 45,00\n*   **Troco Doado:** R$ 0,67 (O troco total deveria ser R$ 45,67, sendo que R$ 0,67 foi doado.)\n\n### Informação Tributária\n\nAproximadamente, os tributos incidentes nesta compra totalizam:\n\n*   **Federal:** R$ 7,31\n*   **Estadual:** R$ 9,24",
+    "latency_seconds": 7.939958572387695
+}
