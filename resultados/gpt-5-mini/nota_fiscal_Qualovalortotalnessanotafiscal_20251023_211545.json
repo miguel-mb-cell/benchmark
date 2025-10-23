@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "nota_fiscal.jpeg",
+    "question_original_pt": "Qual o valor total nessa nota fiscal?",
+    "timestamp_sent_utc": "2025-10-23T21:15:06.433513",
+    "date": "2025-10-23",
+    "response": "O valor total da nota é R$ 54,33.\n\nObservação: foi pago R$ 100,00 e o troco foi R$ 45,00.",
+    "latency_seconds": 5.516517400741577
+}

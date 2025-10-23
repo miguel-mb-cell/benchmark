@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "nota_fiscal.jpeg",
+    "question_original_pt": "Qual o valor total nessa nota fiscal?",
+    "timestamp_sent_utc": "2025-10-23T21:15:06.433513",
+    "date": "2025-10-23",
+    "pergunta_translated_en": "What is the total value on this invoice?",
+    "response_original_en": "17.65",
+    "response_translated_pt": "17h65",
+    "latency_seconds": 1.7353999614715576
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "nota_fiscal.jpeg",
+    "question_original_pt": "Descreva os gastos",
+    "timestamp_sent_utc": "2025-10-23T21:15:45.831372",
+    "date": "2025-10-23",
+    "response": "O recibo é de uma compra na Droga Raia/Drogasil e inclui os seguintes itens:\n\n1. **Aerogin Spray 200 Doses**\n   - Preço unitário: R$ 55,01\n   - Desconto: R$ 15,92\n   - Valor líquido: R$ 39,06\n\n2. **Xantinon 30's**\n   - Preço unitário: R$ 16,97\n   - Desconto: R$ 1,70\n   - Valor líquido: R$ 15,27\n\n**Totais:**\n\n- Valor total de itens: R$ 71,98\n- Valor total de desconto: R$ 17,62\n- Valor total da compra: R$ 54,34\n\n**Forma de Pagamento:**\n\n- Dinheiro: R$ 100,00\n- Troco: R$ 45,00\n\n**Tributos:**\n- Aproximadamente R$ 7,31 federais e R$ 9,24 estaduais.",
+    "latency_seconds": 14.05186939239502
+}

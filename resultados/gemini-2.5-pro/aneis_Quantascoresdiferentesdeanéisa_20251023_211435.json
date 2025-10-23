@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "aneis.jpeg",
+    "question_original_pt": "Quantas cores diferentes de anéis aparecem na imagem?",
+    "timestamp_sent_utc": "2025-10-23T21:13:20.847697",
+    "date": "2025-10-23",
+    "response": "Na imagem, aparecem **cinco** cores e/ou acabamentos diferentes de anéis.\n\nAs cores são:\n1.  **Dourado** (à esquerda)\n2.  **Ouro Rosé** (no centro, à direita)\n3.  **Prateado** (há dois anéis prateados, um com acabamento escovado no topo e outro com acabamento polido na parte inferior direita)\n4.  **Preto brilhante** (na parte inferior esquerda)\n5.  **Preto fosco** (o anel escuro que está por cima do prateado polido)",
+    "latency_seconds": 44.506887674331665
+}
