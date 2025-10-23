@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "nota_fiscal.jpeg",
+    "question_original_pt": "Descreva os gastos",
+    "timestamp_sent_utc": "2025-10-23T02:26:31.329337",
+    "date": "2025-10-23",
+    "response": "O recibo é de uma compra na Drogasil, localizada em Brasília, DF. Aqui estão os detalhes dos gastos:\n\n1. **Produtos Comprados:**\n   - **Aerodini Spray 200 Doses:**\n     - Valor unitário: R$ 55,01\n     - Com desconto de: R$ 15,95\n     - Valor final: R$ 39,06\n   - **Xantinon 30 Comprimidos:**\n     - Valor unitário: R$ 16,97\n     - Com desconto de: R$ 1,70\n     - Valor final: R$ 15,27\n\n2. **Totais:**\n   - Valor total de itens: R$ 71,98\n   - Desconto total: R$ 17,65\n   - Valor total pago: R$ 54,33\n\n3. **Forma de Pagamento:**\n   - Pagamento em dinheiro: R$ 100,00\n   - Troco: R$ 45,00\n\n4. **Tributos:**\n   - Aproximadamente R$ 7,31 de tributo federal\n   - Aproximadamente R$ 9,24 de tributo estadual\n\nA emissão do recibo foi em 13/10/2023.",
+    "latency_seconds": 15.777891397476196
+}

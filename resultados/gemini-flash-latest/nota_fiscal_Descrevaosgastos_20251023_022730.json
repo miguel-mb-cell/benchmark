@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "nota_fiscal.jpeg",
+    "question_original_pt": "Descreva os gastos",
+    "timestamp_sent_utc": "2025-10-23T02:26:31.329337",
+    "date": "2025-10-23",
+    "response": "Com base no cupom fiscal (NFC-e) da Drogasil, o gasto detalhado é o seguinte:\n\n***\n\n## Detalhes da Compra (Drogasil)\n\n**Estabelecimento:** Raia Drogasil S/A\n**Localização:** QE 15, S/N - Guará II, Brasília - DF\n**Data da Emissão:** 13/10/2025 às 17:38:03\n**Quantidade Total de Itens:** 2\n\n## Itens Adquiridos e Valores\n\nA compra totalizou dois produtos, ambos com desconto aplicado:\n\n| Item | Descrição do Produto | Qtd. | Valor Original (R$) | Desconto (R$) | Valor Líquido (R$) |\n| :---: | :--- | :---: | :---: | :---: | :---: |\n| 01 | **AERODINI SPRAY 200 DOS** | 1 | 55,01 | 15,95 | **39,06** |\n| 02 | **XANTINON 30'S** | 1 | 16,97 | 1,70 | **15,27** |\n| **TOTAIS** | | **2** | **71,98** | **17,65** | **54,33** |\n\n## Resumo Financeiro\n\n*   **Valor Total Desconto:** R$ 17,65\n*   **Valor Total da Compra (Valor Líquido):** R$ 54,33\n\n## Pagamento\n\n*   **Forma de Pagamento:** Dinheiro (Cash)\n*   **Valor Pago (Recebido):** R$ 100,00\n*   **Troco Devolvido ao Cliente:** R$ 45,00\n*   **Troco Doado (Charity):** R$ 0,67\n\n## Tributação Aproximada\n\nO valor aproximado dos tributos incluídos na venda (Fonte: IBPT) é de **R$ 16,55**, sendo:\n\n*   Federal: R$ 7,31\n*   Estadual: R$ 9,24",
+    "latency_seconds": 7.251292705535889
+}

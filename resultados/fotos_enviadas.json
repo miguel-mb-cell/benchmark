@@ -46,5 +46,12 @@
         "data/imagens/faixa_pedestre.jpg",
         "data/imagens/placa_SQS113.jpeg",
         "data/imagens/VizWiz_train_00000628.jpg"
+    ],
+    "2025-10-23": [
+        "data/imagens/aneis.jpeg",
+        "data/imagens/embalagem_bis.jpeg",
+        "data/imagens/nota_fiscal.jpeg",
+        "data/imagens/VizWiz_train_00001174.jpg",
+        "data/imagens/VizWiz_test_00000219.jpg"
     ]
 }
