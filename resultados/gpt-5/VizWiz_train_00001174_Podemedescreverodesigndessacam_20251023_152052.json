@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001174.jpg",
+    "question_original_pt": "Pode me descrever o design dessa camisa?",
+    "timestamp_sent_utc": "2025-10-23T15:19:53.849940",
+    "date": "2025-10-23",
+    "response": "Erro ao chamar a API: Error code: 400 - {'error': {'message': 'Could not finish the message because max_tokens or model output limit was reached. Please try again with higher max_tokens.', 'type': 'invalid_request_error', 'param': None, 'code': None}}",
+    "latency_seconds": 14.519436597824097
+}

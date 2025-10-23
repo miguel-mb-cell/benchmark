@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "nota_fiscal.jpeg",
+    "question_original_pt": "Descreva os gastos",
+    "timestamp_sent_utc": "2025-10-23T15:18:48.303207",
+    "date": "2025-10-23",
+    "response": "Claro! Aqui estão os detalhes do recibo:\n\n- **Loja**: Drogasil\n- **Localização**: Brasília, DF\n- **Itens Comprados**:\n  - Aerodin Spray 200 Doses\n    - Preço unitário: R$ 55,01\n    - Desconto: R$ 15,06\n  - Xantinon 30’s\n    - Preço unitário: R$ 16,97\n    - Desconto: R$ 1,70\n\n- **Quantidade Total de Itens**: 2\n- **Desconto Total**: R$ 17,65\n- **Valor Total**: R$ 54,93\n\n- **Forma de Pagamento**: Dinheiro\n- **Valor Pago**: R$ 100,00\n- **Troco**: R$ 45,00\n\n- **Tributos Aproximados**: \n  - Federal: R$ 7,31\n  - Estadual: R$ 9,24\n\nIsso resume as principais informações sobre os gastos no recibo.",
+    "latency_seconds": 8.888958215713501
+}
