@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000309.jpg",
+    "question_original_pt": "O que é esse lanche?",
+    "timestamp_sent_utc": "2025-10-24T02:22:30.626262",
+    "date": "2025-10-24",
+    "pergunta_translated_en": "What is this snack?",
+    "response_original_en": "This is a box of Quaker Chewy granola bars.",
+    "response_translated_pt": "Esta é uma caixa de barras de granola Quaker Chewy.",
+    "latency_seconds": 3.707948684692383
+}

@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001094.jpg",
+    "question_original_pt": "Que tipo de árvore é essa?",
+    "timestamp_sent_utc": "2025-10-24T02:23:00.612409",
+    "date": "2025-10-24",
+    "pergunta_translated_en": "What kind of tree is this?",
+    "response_original_en": "This is a flowering tree with yellow blossoms, likely in the genus *Rudbeckia* (commonly known as black-eyed Susan). The image shows branches with yellow flowers and buds against a blue sky and a building in the background.",
+    "response_translated_pt": "Esta é uma árvore florida com flores amarelas, provavelmente do gênero *Rudbeckia* (comumente conhecida como Susan de olhos pretos). A imagem mostra galhos com flores e botões amarelos contra um céu azul e um prédio ao fundo.",
+    "latency_seconds": 2.927473545074463
+}

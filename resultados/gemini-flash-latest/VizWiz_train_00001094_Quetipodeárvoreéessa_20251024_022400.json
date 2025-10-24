@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001094.jpg",
+    "question_original_pt": "Que tipo de árvore é essa?",
+    "timestamp_sent_utc": "2025-10-24T02:23:00.612409",
+    "date": "2025-10-24",
+    "response": "Esta árvore é muito provavelmente um **Palo Verde** (ou Pau-Verde).\n\nO Palo Verde pertence ao gênero ***Parkinsonia*** e é uma árvore nativa de regiões desérticas ou semi-áridas, como o Sudoeste dos Estados Unidos e o México.\n\n**Características que confirmam a identificação:**\n\n1.  **Flores Amarelas Vivas:** As flores são o destaque principal, com pétalas brilhantes, tipicamente agrupadas em cachos.\n2.  **Ramos Verdes (Green Bark):** A característica mais distintiva do Palo Verde (que significa \"pau verde\" em espanhol) é a cor verde dos seus galhos e tronco, que permite que a árvore realize fotossíntese mesmo quando está sem folhas, uma adaptação crucial para climas secos.\n3.  **Folhagem Escassa:** As folhas são muito pequenas e finas (bipenadas), e a árvore frequentemente as perde durante períodos de seca.\n\nAs espécies mais comuns são o **Palo Verde Mexicano** (*Parkinsonia aculeata*) ou o **Palo Verde Azul** (*Parkinsonia florida*).\n\nÉ uma árvore muito popular em paisagismo em regiões quentes devido à sua resistência à seca e ao espetacular florescimento primaveril.",
+    "latency_seconds": 5.899776458740234
+}

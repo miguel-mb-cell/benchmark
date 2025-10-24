@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000335.jpg",
+    "question_original_pt": "De que cor são essas três gravatas?",
+    "timestamp_sent_utc": "2025-10-24T02:21:52.734105",
+    "date": "2025-10-24",
+    "response": "Pelo que dá para ver na foto: \n- Esquerda: verde escuro (com brilho/tons azulados no tecido)  \n- Meio: roxa/violeta  \n- Direita: azul escuro (azul-marinho) com padrão em dourado/amarelo claro\n\n(As cores podem variar um pouco por causa da iluminação.)",
+    "latency_seconds": 7.924953937530518
+}

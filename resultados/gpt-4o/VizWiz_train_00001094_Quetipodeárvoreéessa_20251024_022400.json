@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001094.jpg",
+    "question_original_pt": "Que tipo de árvore é essa?",
+    "timestamp_sent_utc": "2025-10-24T02:23:00.612409",
+    "date": "2025-10-24",
+    "response": "A árvore na imagem parece ser uma **pata-de-vaca amarela** ou **sibipiruna** (Caesalpinia pluviosa), conhecida por suas flores amarelas brilhantes. Além disso, muitas árvores do gênero *Caesalpinia*, como a *Caesalpinia gilliesii* (flor-de-pavão), também têm flores amarelas semelhantes. A presença de galhos esguios e as flores amarelas ajudam na identificação como uma dessas espécies.",
+    "latency_seconds": 12.591012001037598
+}

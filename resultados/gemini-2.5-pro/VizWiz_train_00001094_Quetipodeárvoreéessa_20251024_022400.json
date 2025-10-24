@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001094.jpg",
+    "question_original_pt": "Que tipo de árvore é essa?",
+    "timestamp_sent_utc": "2025-10-24T02:23:00.612409",
+    "date": "2025-10-24",
+    "response": "Com base nas características da imagem, esta é uma árvore de **Pau-Verde** (em inglês, **Palo Verde**).\n\nAs principais características que a identificam são:\n\n*   **Flores Amarelas Vibrantes:** A floração amarela e abundante é uma marca registrada das árvores de Pau-Verde.\n*   **Galhos e Tronco Verdes:** Uma característica distintiva é a casca verde dos galhos e do tronco, que realiza fotossíntese. O nome \"Palo Verde\" vem do espanhol e significa \"pau verde\" por causa disso.\n*   **Folhas Pequenas:** As folhas são pequenas e finas, uma adaptação para conservar água em climas áridos.\n\nÉ uma árvore muito comum em regiões desérticas e semiáridas, como o sudoeste dos Estados Unidos e o norte do México, e é amplamente utilizada em paisagismo por sua beleza e resistência à seca.",
+    "latency_seconds": 12.63468861579895
+}

@@ -53,5 +53,12 @@
         "data/imagens/nota_fiscal.jpeg",
         "data/imagens/VizWiz_train_00001174.jpg",
         "data/imagens/VizWiz_test_00000219.jpg"
+    ],
+    "2025-10-24": [
+        "data/imagens/VizWiz_train_00000179.jpg",
+        "data/imagens/VizWiz_train_00000335.jpg",
+        "data/imagens/VizWiz_train_00000466.jpg",
+        "data/imagens/VizWiz_train_00000309.jpg",
+        "data/imagens/VizWiz_train_00001094.jpg"
     ]
 }
