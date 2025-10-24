@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000335.jpg",
+    "question_original_pt": "De que cor são essas três gravatas?",
+    "timestamp_sent_utc": "2025-10-24T17:14:24.840905",
+    "date": "2025-10-24",
+    "pergunta_translated_en": "What color are these three ties?",
+    "response_original_en": "The three ties are blue, purple, and black.",
+    "response_translated_pt": "As três gravatas são azul, roxa e preta.",
+    "latency_seconds": 2.610319137573242
+}

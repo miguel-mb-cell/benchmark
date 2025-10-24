@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000309.jpg",
+    "question_original_pt": "O que é esse lanche?",
+    "timestamp_sent_utc": "2025-10-24T17:15:40.746954",
+    "date": "2025-10-24",
+    "response": "Esse é um lanche da marca Quaker, chamado \"Chewy\". É uma barrinha de cereais com pedaços de chocolate, conhecida por seu baixo teor de calorias (90 calorias por porção). É uma opção prática e rápida para um lanche saudável.",
+    "latency_seconds": 5.046592712402344
+}

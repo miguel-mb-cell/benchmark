@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001094.jpg",
+    "question_original_pt": "Que tipo de árvore é essa?",
+    "timestamp_sent_utc": "2025-10-24T17:16:19.074458",
+    "date": "2025-10-24",
+    "response": "Com base nas características da imagem, esta é uma árvore **Palo Verde**.\n\nAs principais características que a identificam são:\n\n*   **Flores amarelas brilhantes:** A árvore está coberta de flores amarelas vibrantes, típicas do Palo Verde na primavera.\n*   **Tronco e galhos verdes:** Uma das características mais marcantes desta árvore é a casca verde, que é capaz de realizar fotossíntese. O nome \"Palo Verde\" vem do espanhol e significa \"pau verde\" ou \"vara verde\".\n*   **Folhas pequenas e delicadas:** As folhas são pequenas e finas, quase como samambaias, uma adaptação para conservar água em climas áridos.\n\nEsta árvore é muito comum em regiões desérticas e semiáridas, como o sudoeste dos Estados Unidos e o norte do México. O gênero científico é ***Parkinsonia***. Existem várias espécies, e a da foto pode ser uma **Palo Verde Azul** (*Parkinsonia florida*) ou uma variedade híbrida popular em paisagismo, como a **'Desert Museum' Palo Verde**, conhecida por sua floração intensa.",
+    "latency_seconds": 23.976476192474365
+}

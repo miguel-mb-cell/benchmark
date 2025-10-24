@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000179.jpg",
+    "question_original_pt": "O que é a imagem no captcha?",
+    "timestamp_sent_utc": "2025-10-24T17:13:50.695497",
+    "date": "2025-10-24",
+    "response": "O código alfanumérico visível na imagem do CAPTCHA é:\n\n**R F 7 L**\n\n(A letra \"F\" está ligeiramente colorida de rosa/roxo e o número \"7\" está inclinado com uma linha azul cruzando-o).",
+    "latency_seconds": 0.8681995868682861
+}
