@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001094.jpg",
+    "question_original_pt": "Que tipo de árvore é essa?",
+    "timestamp_sent_utc": "2025-10-24T09:19:59.028307",
+    "date": "2025-10-24",
+    "response": "Esta árvore é um **Pau-Verde** (em espanhol, *Palo Verde*).\n\nPertence ao gênero ***Parkinsonia***, e a espécie mais provável, dadas as flores amarelas intensas e a folhagem delicada, é a ***Parkinsonia aculeata***, conhecida popularmente como **Pau-Verde Mexicano** ou **Espinho de Jerusalém** (Jerusalem Thorn).\n\n### Características que a identificam:\n\n1.  **Flores Amarelas Vivas:** Produz uma profusão de flores amarelas brilhantes, geralmente no final da primavera ou início do verão.\n2.  **Galhos Verdes (Pau-Verde):** A característica mais distintiva é a casca e os galhos verdes ou verde-amarelados. A árvore usa esses galhos para realizar fotossíntese, uma adaptação crucial para sobreviver em climas áridos.\n3.  **Folhagem Escassa:** As folhas são pequenas e bipinadas (muito finas e parecidas com samambaias), e a árvore tende a perdê-las rapidamente durante períodos de seca ou calor intenso para economizar água.\n\nO Pau-Verde é muito comum em paisagismo em regiões desérticas e semiáridas (como o Sudoeste dos EUA e o México), onde é valorizado pela sua resistência à seca e pela espetacular floração primaveril.",
+    "latency_seconds": 7.081493854522705
+}

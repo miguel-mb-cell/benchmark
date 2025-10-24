@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000335.jpg",
+    "question_original_pt": "De que cor são essas três gravatas?",
+    "timestamp_sent_utc": "2025-10-24T09:18:36.694984",
+    "date": "2025-10-24",
+    "response": "Com base na imagem, as três gravatas têm as seguintes cores predominantes:\n\n1.  **Gravata da Esquerda:** Principalmente **cinza escuro/carvão** com um padrão quadriculado sutil, dando um efeito quase preto ou cinza metálico, dependendo da luz.\n2.  **Gravata do Meio:** **Roxa/Lavanda** clara a média na parte superior, com um padrão quadriculado. A cor transiciona para um **roxo escuro/púrpura** em direção à ponta (efeito degradê).\n3.  **Gravata da Direita:** **Azul Marinho muito escuro** ou **preto** como cor de fundo, com um padrão de losangos (argyle) em **branco** e **dourado/amarelo mostarda**.",
+    "latency_seconds": 1.6727652549743652
+}

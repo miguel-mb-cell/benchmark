@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001094.jpg",
+    "question_original_pt": "Que tipo de árvore é essa?",
+    "timestamp_sent_utc": "2025-10-24T09:19:59.028307",
+    "date": "2025-10-24",
+    "response": "Com base nas características da imagem, esta é uma árvore de **Pau-verde** (gênero *Parkinsonia*).\n\nAs principais características que levam a essa identificação são:\n\n*   **Flores Amarelas:** Florescimento abundante com flores de um amarelo vivo e vibrante, que são a característica mais marcante da árvore.\n*   **Galhos e Tronco Verdes:** Os galhos são visivelmente verdes. O nome \"Pau-verde\" (do espanhol *Palo Verde*) significa literalmente \"pau verde\", pois a casca da árvore contém clorofila e pode realizar fotossíntese, o que é uma adaptação a climas áridos.\n*   **Folhas Pequenas:** As folhas são pequenas e finas, quase como penas, o que ajuda a árvore a conservar água.\n\nEssas árvores são muito comuns em paisagismo de regiões desérticas e semiáridas, como o sudoeste dos Estados Unidos e o norte do México, por sua beleza e resistência à seca.",
+    "latency_seconds": 24.42495107650757
+}

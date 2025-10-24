@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000179.jpg",
+    "question_original_pt": "O que é a imagem no captcha?",
+    "timestamp_sent_utc": "2025-10-24T09:17:44.472151",
+    "date": "2025-10-24",
+    "response": "A imagem do CAPTCHA mostra uma sequência de caracteres alfanuméricos distorcidos, com linhas coloridas sobrepostas (azul e rosa/roxo) e ruído de fundo, o que é um método comum para evitar que robôs preencham o formulário automaticamente.\n\nOs caracteres visíveis na imagem do CAPTCHA são:\n\n# R E 7 L\n\n(Embora o segundo caractere seja bastante distorcido, ele se parece com um **E** ou um **B** muito estilizado. A leitura mais provável para a entrada do código é **R E 7 L**.)",
+    "latency_seconds": 5.254848003387451
+}

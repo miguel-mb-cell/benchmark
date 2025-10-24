@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000309.jpg",
+    "question_original_pt": "O que é esse lanche?",
+    "timestamp_sent_utc": "2025-10-24T09:19:26.552661",
+    "date": "2025-10-24",
+    "response": "Este lanche é uma caixa de **Barras de Granola Quaker Chewy**.\n\nEspecificamente, o sabor é **Chocolate Chunk (Pedaços de Chocolate)**, e a embalagem destaca que cada barra tem **90 Calorias** e é de **baixo teor de gordura (Low Fat)**.\n\nÉ um lanche popular à base de aveia e grãos integrais.",
+    "latency_seconds": 3.4359333515167236
+}
