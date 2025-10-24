@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000335.jpg",
+    "question_original_pt": "De que cor são essas três gravatas?",
+    "timestamp_sent_utc": "2025-10-24T15:16:39.164704",
+    "date": "2025-10-24",
+    "response": "Na imagem, as três gravatas têm as seguintes cores:\n\n1. A primeira gravata, à esquerda, é preta com um padrão de quadrados.\n2. A segunda gravata, no meio, tem uma cor roxa com um padrão similar.\n3. A terceira gravata, à direita, é azul escura, também com um padrão de quadrados.",
+    "latency_seconds": 13.191067218780518
+}

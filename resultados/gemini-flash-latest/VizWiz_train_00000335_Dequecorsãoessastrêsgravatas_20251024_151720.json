@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000335.jpg",
+    "question_original_pt": "De que cor são essas três gravatas?",
+    "timestamp_sent_utc": "2025-10-24T15:16:39.164704",
+    "date": "2025-10-24",
+    "response": "Com base na imagem, as três gravatas têm as seguintes cores principais e padrões:\n\n1. **Gravata da Esquerda:** Principalmente **cinza escuro/carvão** ou **preto/cinza muito escuro**. Possui um padrão geométrico sutil (quadrados ou diamantes pequenos) que reflete a luz, dando-lhe um aspecto metálico ou brilhante.\n2. **Gravata do Meio:** Principalmente **roxo/lavanda** ou **lilás**. Também tem um padrão geométrico (quadrados pequenos), e a cor parece mudar ligeiramente de um roxo mais claro na parte superior para um roxo mais escuro (quase azul marinho ou violeta escuro) na ponta inferior.\n3. **Gravata da Direita:** Principalmente **azul marinho muito escuro** ou **preto**. Possui um padrão de argyle (losangos) composto por losangos menores **brancos/prateados** e losangos menores **amarelos/dourados/castanhos claros**.",
+    "latency_seconds": 2.0696847438812256
+}
