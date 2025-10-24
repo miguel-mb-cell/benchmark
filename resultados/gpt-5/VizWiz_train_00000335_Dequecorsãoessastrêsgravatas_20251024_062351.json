@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000335.jpg",
+    "question_original_pt": "De que cor são essas três gravatas?",
+    "timestamp_sent_utc": "2025-10-24T06:23:07.019342",
+    "date": "2025-10-24",
+    "response": "Da esquerda para a direita: \n- cinza-escura (quase preta);\n- roxa/lilás;\n- azul‑marinho com pequenos losangos brancos/bege.",
+    "latency_seconds": 12.636585235595703
+}

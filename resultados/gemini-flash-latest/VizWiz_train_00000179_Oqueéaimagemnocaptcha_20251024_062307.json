@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000179.jpg",
+    "question_original_pt": "O que é a imagem no captcha?",
+    "timestamp_sent_utc": "2025-10-24T06:22:20.853289",
+    "date": "2025-10-24",
+    "response": "A imagem no CAPTCHA exibe uma sequência de caracteres alfanuméricos que foram distorcidos e sobrepostos por linhas e ruídos (pontos cinzas) para provar que o usuário é humano e não um robô.\n\nA sequência de caracteres que aparece na imagem é:\n\n$$\\text{R F 7 L}$$\n\n(Embora o segundo caractere, F, esteja bastante estilizado e cortado por uma linha, ele se assemelha mais a um F ou P.)\n\nPara preencher o campo \"CAPTCHA Code:\", você deve digitar: **RF7L**",
+    "latency_seconds": 4.087538003921509
+}

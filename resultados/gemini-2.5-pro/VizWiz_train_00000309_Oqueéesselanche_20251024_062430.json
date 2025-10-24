@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000309.jpg",
+    "question_original_pt": "O que é esse lanche?",
+    "timestamp_sent_utc": "2025-10-24T06:23:51.638811",
+    "date": "2025-10-24",
+    "response": "Com base na imagem, este lanche é uma caixa de barras de granola da marca **Quaker**.\n\nEspecificamente, são as barras da linha **\"Chewy\"** no sabor **\"Chocolate Chunk\"** (Pedaços de Chocolate).\n\nDe acordo com a embalagem, cada barra:\n*   Tem **90 calorias**.\n*   Contém **8g de grãos integrais**.\n*   É de baixo teor de gordura (\"Low Fat\").\n\nÉ um tipo de barra de cereal mastigável, popular como um lanche rápido.",
+    "latency_seconds": 11.02878737449646
+}

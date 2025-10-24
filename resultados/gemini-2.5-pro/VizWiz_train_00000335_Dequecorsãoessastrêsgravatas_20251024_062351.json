@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000335.jpg",
+    "question_original_pt": "De que cor são essas três gravatas?",
+    "timestamp_sent_utc": "2025-10-24T06:23:07.019342",
+    "date": "2025-10-24",
+    "response": "Com base na imagem, as cores das três gravatas, da esquerda para a direita, são:\n\n1.  **Gravata da Esquerda:** É cinza escura ou preta, com um padrão geométrico de quadrados que reflete a luz, dando-lhe um brilho prateado.\n2.  **Gravata do Meio:** É roxa ou lilás, também com um padrão geométrico de pequenos quadrados em diferentes tons de roxo e azul.\n3.  **Gravata da Direita:** É de uma cor escura, como azul-marinho ou preta, com um padrão de pequenos losangos (ou diamantes) brancos e dourados.",
+    "latency_seconds": 12.8909170627594
+}
