@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001094.jpg",
+    "question_original_pt": "Que tipo de árvore é essa?",
+    "timestamp_sent_utc": "2025-10-24T21:15:03.613465",
+    "date": "2025-10-24",
+    "response": "Com base nas características visíveis na imagem, especialmente as flores amarelas brilhantes, o formato das flores (cinco pétalas) e os ramos finos e verdes, esta árvore é muito provavelmente um **Pau-Verde** (ou **Palo Verde**).\n\nO nome científico geralmente se enquadra no gênero ***Parkinsonia***.\n\n### Detalhes de Identificação:\n\n1.  **Flores:** São a característica mais marcante. São de cor amarelo-vivo, em cachos, com cinco pétalas. É comum que uma pétala tenha uma mancha alaranjada ou avermelhada no centro (visível em alguns closes), um traço característico do Palo Verde.\n2.  **Ramos e Tronco:** O nome \"Palo Verde\" (que significa \"pau verde\" em espanhol) deve-se ao fato de que os ramos e, muitas vezes, o tronco principal, são verdes. Esta característica permite que a árvore realize fotossíntese mesmo quando perde suas folhas (o que ocorre frequentemente em climas desérticos ou secos).\n3.  **Folhas:** As folhas são pequenas e bipinadas (lembrando penas), e tendem a ser pouco visíveis em comparação com as flores e os ramos, especialmente durante a floração.\n\nO Palo Verde é extremamente comum em paisagismo em regiões desérticas ou semi-áridas, como o Sudoeste dos Estados Unidos (Arizona, Califórnia) e o México, onde oferece uma espetacular exibição de flores na primavera.",
+    "latency_seconds": 6.959546089172363
+}

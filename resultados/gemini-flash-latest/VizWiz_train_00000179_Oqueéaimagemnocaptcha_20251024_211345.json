@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000179.jpg",
+    "question_original_pt": "O que é a imagem no captcha?",
+    "timestamp_sent_utc": "2025-10-24T21:13:11.673697",
+    "date": "2025-10-24",
+    "response": "Com base na imagem do captcha fornecida, os caracteres visíveis e distorcidos são:\n\n**R F 7 L**\n\nO código do captcha a ser inserido é, portanto, **RF7L**.",
+    "latency_seconds": 1.1827023029327393
+}
