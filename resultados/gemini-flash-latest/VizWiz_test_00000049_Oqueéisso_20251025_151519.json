@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-25T15:13:59.494801",
+    "date": "2025-10-25",
+    "response": "O objeto na imagem é um **cartão de tarifa (ou bilhete magnético)** usado no sistema de transporte público dos Estados Unidos.\n\nEspecificamente, é um bilhete do **BART** (Bay Area Rapid Transit District), o sistema de trânsito rápido (metrô/trem) que serve a região da Baía de São Francisco, na Califórnia.\n\nAs informações visíveis no cartão confirmam isso:\n\n1.  O nome completo no rodapé é: **\"SAN FRANCISCO BAY AREA RAPID TRANSIT DISTRICT.\"**\n2.  As regras mencionam o acrônimo **\"BART\"** (\"...if lost and returned to BART, ticket will be mailed to you.\").\n3.  O cartão contém regras de uso (por exemplo, deve ser usado na entrada e na saída) e possui espaços para preenchimento de nome e endereço, caso o passageiro queira que o bilhete seja devolvido em caso de perda.",
+    "latency_seconds": 5.270587682723999
+}

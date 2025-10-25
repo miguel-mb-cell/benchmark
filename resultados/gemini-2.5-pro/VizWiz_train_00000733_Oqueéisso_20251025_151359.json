@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000733.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-25T15:13:27.459609",
+    "date": "2025-10-25",
+    "response": "Com base na imagem, isso é uma lata de gel de barbear.\n\nMais especificamente, é um **Gel de Barbear Gillette Series**, na versão **\"Moisturizing Hydratation\" (Hidratação)**.",
+    "latency_seconds": 10.561931371688843
+}

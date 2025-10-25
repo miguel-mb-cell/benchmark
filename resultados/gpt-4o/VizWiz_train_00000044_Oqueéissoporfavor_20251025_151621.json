@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000044.jpg",
+    "question_original_pt": "O que é isso, por favor?",
+    "timestamp_sent_utc": "2025-10-25T15:15:19.151524",
+    "date": "2025-10-25",
+    "response": "Esta é uma embalagem de comida congelada de **frango agridoce** da marca Heinz, na linha \"Weight Watchers\". O prato parece incluir pedaços de frango com molho agridoce, arroz e vegetais.",
+    "latency_seconds": 4.472768306732178
+}

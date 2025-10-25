@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000044.jpg",
+    "question_original_pt": "O que é isso, por favor?",
+    "timestamp_sent_utc": "2025-10-25T15:15:19.151524",
+    "date": "2025-10-25",
+    "response": "Baseado na imagem, isso é a **embalagem de um prato pronto (refeição pré-embalada), provavelmente congelada ou refrigerada.**\n\nO produto principal visível é:\n\n*   **Nome do Prato:** **Sweet Sour Chicken** (Frango Agridoce).\n*   **Descrição:** \"Chicken in a sweet & sour sauce with rice and vegetables\" (Frango em um molho agridoce com arroz e vegetais).\n*   **Marca/Linha:** O produto é da linha **\"Signature Range\"** (Linha de Assinatura) e é associado à marca **HEINZ**.\n*   **Informações Nutricionais:** Há um destaque para o baixo teor de gordura, indicando **1.4g FAT** (1,4 gramas de gordura).\n\nEm resumo, é a embalagem de um prato pronto de Frango Agridoce com Arroz e Vegetais da marca Heinz.",
+    "latency_seconds": 6.981952905654907
+}
