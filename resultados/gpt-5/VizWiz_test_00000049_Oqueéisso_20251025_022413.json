@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-25T02:23:26.216523",
+    "date": "2025-10-25",
+    "response": "É um bilhete de papel do BART (Bay Area Rapid Transit) de São Francisco. É o verso do ticket, com instruções e campos para nome/endereço caso seja perdido. Esse tipo de bilhete magnético era usado para entrar e sair das estações e podia ter saldo recarregado. Hoje foi basicamente substituído pelo cartão Clipper.",
+    "latency_seconds": 10.3358154296875
+}
