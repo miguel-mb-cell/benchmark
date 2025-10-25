@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-25T09:14:40.447218",
+    "date": "2025-10-25",
+    "response": "Com base na imagem, que mostra um cartão azul com regras de uso e campos para preenchimento de informações pessoais, podemos identificar o objeto como um **bilhete de transporte** (cartão de tarifa) para o sistema de metrô e trem da área da Baía de São Francisco.\n\nEspecificamente, é um bilhete emitido pelo:\n\n**SAN FRANCISCO BAY AREA RAPID TRANSIT DISTRICT (BART)**\n\nO texto no cartão, em inglês, detalha as regras de uso:\n\n1. Cada passageiro deve ter um bilhete válido.\n2. O mesmo bilhete deve ser usado para entrada e saída.\n3. O valor deste bilhete, se for inferior a $8,00, pode ser aumentado inserindo-o em qualquer máquina de venda de bilhetes.\n4. **Instruções para achados e perdidos:** \"Assine abaixo. Se perdido e devolvido ao BART, o bilhete será enviado pelo correio para você.\" (Existem campos para Nome, Endereço, Cidade e CEP).\n\nPortanto, **isso é um bilhete de viagem (fare ticket) do BART (metrô/trem rápido da Área da Baía de São Francisco).**",
+    "latency_seconds": 4.987017869949341
+}

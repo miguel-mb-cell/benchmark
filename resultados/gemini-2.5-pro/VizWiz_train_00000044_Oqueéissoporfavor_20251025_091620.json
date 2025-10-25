@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000044.jpg",
+    "question_original_pt": "O que é isso, por favor?",
+    "timestamp_sent_utc": "2025-10-25T09:15:39.337801",
+    "date": "2025-10-25",
+    "response": "Com base na imagem, isto é a embalagem de uma refeição pronta.\n\nEspecificamente, é um prato de **Frango Agridoce (Sweet & Sour Chicken)** da marca **Weight Watchers from Heinz**.\n\nA descrição na embalagem indica que é \"frango em molho agridoce com arroz e vegetais\". É um tipo de refeição congelada ou refrigerada, pronta para aquecer e consumir, focada em ser uma opção com baixo teor de gordura.",
+    "latency_seconds": 10.689586877822876
+}

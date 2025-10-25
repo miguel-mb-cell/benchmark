@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-25T09:14:40.447218",
+    "date": "2025-10-25",
+    "response": "Isso é um cartão de trânsito do San Francisco Bay Area Rapid Transit District (BART). Ele contém informações sobre o uso do ticket, como a necessidade de cada passageiro ter um ticket válido e que o mesmo ticket deve ser usado para entrada e saída. Também há contatos para informações sobre troca e reembolso de tickets.",
+    "latency_seconds": 10.004726886749268
+}

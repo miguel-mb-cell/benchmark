@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000733.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-25T09:14:02.274964",
+    "date": "2025-10-25",
+    "response": "Isso é uma lata de **gel de barbear (Shave Gel)** da marca **Gillette**.\n\nEspecificamente, é o **Gillette Series Shave Gel** na variante **Moisturizing Hydratation** (Hidratação Hidratante).\n\nÉ um produto de higiene pessoal, geralmente usado por homens, que é aplicado no rosto ou em outras áreas do corpo antes de usar uma lâmina de barbear, para amaciar os pelos e proteger a pele contra irritações e cortes.",
+    "latency_seconds": 3.588571786880493
+}
