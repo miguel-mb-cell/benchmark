@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000044.jpg",
+    "question_original_pt": "O que é isso, por favor?",
+    "timestamp_sent_utc": "2025-10-25T06:23:37.636427",
+    "date": "2025-10-25",
+    "pergunta_translated_en": "What is this please?",
+    "response_original_en": "This is a Heinz Signature Sour Chicken meal, described as a sweet and sour chicken dish with rice and vegetables. The image shows a close-up of the food on a plate, highlighting the chicken, sauce, and rice. The packaging indicates it's 1.4g of fat and contains no artificial preservatives.",
+    "response_translated_pt": "Esta é uma refeição de frango azedo exclusivo da Heinz, descrita como um prato de frango agridoce com arroz e vegetais. A imagem mostra um close da comida em um prato, com destaque para o frango, o molho e o arroz. A embalagem indica que contém 1,4g de gordura e não contém conservantes artificiais.",
+    "latency_seconds": 3.671793222427368
+}

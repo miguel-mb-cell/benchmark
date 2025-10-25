@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000733.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-25T06:20:31.727467",
+    "date": "2025-10-25",
+    "pergunta_translated_en": "What is that?",
+    "response_original_en": "That is a Gillette Series shave gel can, designed for shaving and moisturizing. The can is blue with silver accents and features the Gillette logo prominently. The label indicates it contains shave gel and moisturizing hydration.",
+    "response_translated_pt": "Essa é uma lata de gel de barbear da série Gillette, projetada para barbear e hidratar. A lata é azul com detalhes prateados e apresenta o logotipo da Gillette em destaque. O rótulo indica que contém gel de barbear e hidratação hidratante.",
+    "latency_seconds": 13.684373617172241
+}

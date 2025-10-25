@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000044.jpg",
+    "question_original_pt": "O que é isso, por favor?",
+    "timestamp_sent_utc": "2025-10-25T06:23:37.636427",
+    "date": "2025-10-25",
+    "response": "Esta é a embalagem de uma refeição pronta chamada \"Sweet and Sour Chicken\" (Frango Agridoce), da marca Heinz, dentro da linha \"Weight Watchers\". Trata-se de um prato de frango em molho agridoce, servido com arroz e vegetais.",
+    "latency_seconds": 5.40754771232605
+}
