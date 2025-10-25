@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000044.jpg",
+    "question_original_pt": "O que é isso, por favor?",
+    "timestamp_sent_utc": "2025-10-25T21:14:13.731609",
+    "date": "2025-10-25",
+    "response": "Com certeza!\n\nEsta é a embalagem de uma refeição pronta (provavelmente congelada) da marca **Weight Watchers from Heinz**.\n\nO prato é **\"Sweet & Sour Chicken\"**, que em português significa **Frango Agridoce**.\n\nA descrição na caixa diz: \"Frango em molho agridoce com arroz e vegetais\". É um produto da linha \"Signature Range\" da marca.",
+    "latency_seconds": 12.42116093635559
+}

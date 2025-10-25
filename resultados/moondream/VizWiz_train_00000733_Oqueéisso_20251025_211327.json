@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000733.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-25T21:12:50.881875",
+    "date": "2025-10-25",
+    "pergunta_translated_en": "What is that?",
+    "response_original_en": "That is a Gillette Series shave gel can, prominently displaying the brand name and product type. The can is blue with green accents and includes text like “Shave Gel,” “Gel à Raser,” and “Moisturizing Hydratation,” indicating its moisturizing properties. The can is standing on a towel next to a door.",
+    "response_translated_pt": "Essa é uma lata de gel de barbear da série Gillette, exibindo com destaque o nome da marca e o tipo de produto. A lata é azul com detalhes verdes e traz textos como “Gel de Barbear”, “Gel à Raser” e “Hidratação Hidratante”, indicando suas propriedades hidratantes. A lata está sobre uma toalha ao lado de uma porta.",
+    "latency_seconds": 3.817533493041992
+}

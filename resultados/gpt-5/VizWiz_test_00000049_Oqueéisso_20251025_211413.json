@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_test_00000049.jpg",
+    "question_original_pt": "O que é isso?",
+    "timestamp_sent_utc": "2025-10-25T21:13:27.893312",
+    "date": "2025-10-25",
+    "response": "É um bilhete do BART (San Francisco Bay Area Rapid Transit). É o antigo cartão de papel com tarja magnética usado para entrar e sair do metrô/trem na Bay Area, com instruções e campos para nome e endereço.",
+    "latency_seconds": 12.985944271087646
+}

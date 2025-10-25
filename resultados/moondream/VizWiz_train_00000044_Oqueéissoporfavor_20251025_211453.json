@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000044.jpg",
+    "question_original_pt": "O que é isso, por favor?",
+    "timestamp_sent_utc": "2025-10-25T21:14:13.731609",
+    "date": "2025-10-25",
+    "pergunta_translated_en": "What is this please?",
+    "response_original_en": "This is a Heinz Signature Sour Chicken meal, described as a sweet and sour sauce with rice and vegetables. The image shows a white plate containing pieces of chicken coated in a reddish-orange sauce, garnished with shredded green onions. The meal is presented on a dark surface, likely a table or countertop. The packaging features the Heinz logo and nutritional information, indicating the dish is low in fat (1.4g) and high in protein (22g).",
+    "response_translated_pt": "Esta é uma refeição Heinz Signature Sour Chicken, descrita como um molho agridoce com arroz e vegetais. A imagem mostra um prato branco contendo pedaços de frango cobertos com molho laranja-avermelhado, guarnecido com cebolinha verde ralada. A refeição é apresentada em uma superfície escura, provavelmente uma mesa ou bancada. A embalagem traz logotipo da Heinz e informações nutricionais, indicando que o prato tem baixo teor de gordura (1,4g) e alto teor de proteínas (22g).",
+    "latency_seconds": 3.3852357864379883
+}
