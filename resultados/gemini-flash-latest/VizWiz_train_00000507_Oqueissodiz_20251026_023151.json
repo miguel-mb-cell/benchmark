@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000507.jpg",
+    "question_original_pt": "O que isso diz?",
+    "timestamp_sent_utc": "2025-10-26T02:31:15.424753",
+    "date": "2025-10-26",
+    "response": "Com base na imagem, o dispositivo é um termostato da marca **Honeywell**.\n\nO que ele diz é:\n\n1.  **Honeywell** (a marca, na parte superior).\n2.  **76** (o número grande e verde, que representa a temperatura atual ou a temperatura definida no termostato).",
+    "latency_seconds": 3.3536369800567627
+}

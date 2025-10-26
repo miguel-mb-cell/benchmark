@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000507.jpg",
+    "question_original_pt": "O que isso diz?",
+    "timestamp_sent_utc": "2025-10-26T02:31:15.424753",
+    "date": "2025-10-26",
+    "response": "Com base na imagem, isto é o que diz:\n\nA imagem mostra um termostato digital, provavelmente da marca **Honeywell**.\n\nA tela exibe o número **76**, indicando que a temperatura está em **76 graus**.",
+    "latency_seconds": 9.336098432540894
+}

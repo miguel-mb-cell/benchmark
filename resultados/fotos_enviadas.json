@@ -67,5 +67,12 @@
         "data/imagens/VizWiz_test_00000132.jpg",
         "data/imagens/VizWiz_test_00000049.jpg",
         "data/imagens/VizWiz_train_00000044.jpg"
+    ],
+    "2025-10-26": [
+        "data/imagens/VizWiz_train_00000572.jpg",
+        "data/imagens/VizWiz_train_00001097.jpg",
+        "data/imagens/VizWiz_train_00000474.jpg",
+        "data/imagens/VizWiz_train_00000507.jpg",
+        "data/imagens/VizWiz_train_00000408.jpg"
     ]
 }

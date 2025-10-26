@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000474.jpg",
+    "question_original_pt": "Qual é a data de validade nesse creme?",
+    "timestamp_sent_utc": "2025-10-26T02:30:30.622741",
+    "date": "2025-10-26",
+    "response": "Não consigo ler a data na foto — está desfocada. Ela normalmente fica estampada na parte branca do topo, perto da tampa, com “Best Before/Meilleur avant”. Se puder, envie uma foto mais nítida do topo (em boa luz e com foco) ou digite os números que aparecem lá.",
+    "latency_seconds": 9.801291942596436
+}

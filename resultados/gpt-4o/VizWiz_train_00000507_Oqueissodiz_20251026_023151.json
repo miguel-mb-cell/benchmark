@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000507.jpg",
+    "question_original_pt": "O que isso diz?",
+    "timestamp_sent_utc": "2025-10-26T02:31:15.424753",
+    "date": "2025-10-26",
+    "response": "Parece ser um termostato indicando a temperatura de 76 graus. A marca parece ser \"Honeywell\".",
+    "latency_seconds": 3.8716821670532227
+}

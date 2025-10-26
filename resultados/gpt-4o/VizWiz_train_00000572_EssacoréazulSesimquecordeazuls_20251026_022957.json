@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000572.jpg",
+    "question_original_pt": "Essa cor é azul? Se sim, que cor de azul se você puder descrever ela.",
+    "timestamp_sent_utc": "2025-10-26T02:29:09.453974",
+    "date": "2025-10-26",
+    "response": "Sim, a cor parece azul. Mais especificamente, é um tom próximo de azul turquesa.",
+    "latency_seconds": 2.725064754486084
+}

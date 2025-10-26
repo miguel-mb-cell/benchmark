@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000572.jpg",
+    "question_original_pt": "Essa cor é azul? Se sim, que cor de azul se você puder descrever ela.",
+    "timestamp_sent_utc": "2025-10-26T02:29:09.453974",
+    "date": "2025-10-26",
+    "pergunta_translated_en": "Is this color blue? If so, what color blue if you can describe it.",
+    "response_original_en": "Yes, the color is blue. It is a bright, solid blue color.",
+    "response_translated_pt": "Sim, a cor é azul. É uma cor azul sólida e brilhante.",
+    "latency_seconds": 4.487138271331787
+}

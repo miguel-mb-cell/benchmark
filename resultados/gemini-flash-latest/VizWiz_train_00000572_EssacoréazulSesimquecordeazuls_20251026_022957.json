@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000572.jpg",
+    "question_original_pt": "Essa cor é azul? Se sim, que cor de azul se você puder descrever ela.",
+    "timestamp_sent_utc": "2025-10-26T02:29:09.453974",
+    "date": "2025-10-26",
+    "response": "Sim, a cor da blusa/tecido na imagem é **azul**.\n\nÉ um tom de azul bastante **vibrante** e **brilhante**.\n\nSe puder descrever o tom, ele se encaixa melhor nas seguintes categorias:\n\n1.  **Azul Turquesa (Turquoise Blue):** É a descrição mais precisa, pois é um azul claro e forte que tem uma leve tendência para o verde/ciano.\n2.  **Azul Piscina (Pool Blue):** Um termo popular que descreve bem esse azul claro, vívido e refrescante.\n3.  **Azul Ciano (Cyan Blue):** Em termos técnicos, está muito próximo do ciano devido à sua alta saturação e brilho.",
+    "latency_seconds": 4.470418691635132
+}

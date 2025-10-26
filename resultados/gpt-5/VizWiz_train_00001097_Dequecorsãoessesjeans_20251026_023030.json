@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001097.jpg",
+    "question_original_pt": "De que cor são esses jeans?",
+    "timestamp_sent_utc": "2025-10-26T02:29:57.932611",
+    "date": "2025-10-26",
+    "response": "Azul escuro (índigo/denim). A luz amarelada do ambiente pode dar um leve tom diferente, mas são jeans azuis escuros.",
+    "latency_seconds": 6.61253547668457
+}
