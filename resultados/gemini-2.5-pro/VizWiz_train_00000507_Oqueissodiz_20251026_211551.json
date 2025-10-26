@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000507.jpg",
+    "question_original_pt": "O que isso diz?",
+    "timestamp_sent_utc": "2025-10-26T21:15:18.117411",
+    "date": "2025-10-26",
+    "response": "Com base na imagem, trata-se de um termostato digital da marca Honeywell.\n\nA tela verde exibe o número **76**.\n\nIsso indica que a temperatura ambiente atual ou a temperatura desejada está em **76 graus** (provavelmente Fahrenheit, o que equivale a aproximadamente 24,4 graus Celsius).",
+    "latency_seconds": 9.50057578086853
+}

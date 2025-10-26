@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000408.jpg",
+    "question_original_pt": "Que tipo de leite é esse por favor",
+    "timestamp_sent_utc": "2025-10-26T21:15:51.103342",
+    "date": "2025-10-26",
+    "response": "Esse é um leite de chocolate escuro da marca Silk. É feito com cacau escuro. Silk é conhecida por produzir bebidas à base de plantas, então provavelmente é um leite vegetal.",
+    "latency_seconds": 2.9357683658599854
+}

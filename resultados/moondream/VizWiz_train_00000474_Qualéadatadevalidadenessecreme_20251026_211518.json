@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000474.jpg",
+    "question_original_pt": "Qual é a data de validade nesse creme?",
+    "timestamp_sent_utc": "2025-10-26T21:14:25.385019",
+    "date": "2025-10-26",
+    "pergunta_translated_en": "What is the expiration date on this cream?",
+    "response_original_en": "The expiration date is not visible in the image.",
+    "response_translated_pt": "A data de validade não está visível na imagem.",
+    "latency_seconds": 1.9006428718566895
+}

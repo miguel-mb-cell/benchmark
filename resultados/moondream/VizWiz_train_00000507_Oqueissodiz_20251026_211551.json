@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000507.jpg",
+    "question_original_pt": "O que isso diz?",
+    "timestamp_sent_utc": "2025-10-26T21:15:18.117411",
+    "date": "2025-10-26",
+    "pergunta_translated_en": "What does this say?",
+    "response_original_en": "It says “Honeywell” at the top and “76°” on the display.",
+    "response_translated_pt": "Diz “Honeywell” na parte superior e “76°” no display.",
+    "latency_seconds": 2.675222396850586
+}

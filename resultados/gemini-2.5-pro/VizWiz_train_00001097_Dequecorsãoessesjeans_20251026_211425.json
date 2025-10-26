@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001097.jpg",
+    "question_original_pt": "De que cor são esses jeans?",
+    "timestamp_sent_utc": "2025-10-26T21:13:43.796590",
+    "date": "2025-10-26",
+    "response": "Com base nas imagens, os jeans são de cor **azul-escura**.",
+    "latency_seconds": 11.265638828277588
+}

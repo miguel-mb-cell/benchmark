@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000507.jpg",
+    "question_original_pt": "O que isso diz?",
+    "timestamp_sent_utc": "2025-10-26T21:15:18.117411",
+    "date": "2025-10-26",
+    "response": "A imagem mostra um display digital de um termostato da marca Honeywell, que indica a temperatura de 76 graus.",
+    "latency_seconds": 2.7543771266937256
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000572.jpg",
+    "question_original_pt": "Essa cor é azul? Se sim, que cor de azul se você puder descrever ela.",
+    "timestamp_sent_utc": "2025-10-26T21:12:58.305458",
+    "date": "2025-10-26",
+    "response": "A cor da regata na imagem parece azul. Ela se assemelha a um azul turquesa, que é um tom vibrante e mais claro de azul.",
+    "latency_seconds": 3.9031810760498047
+}

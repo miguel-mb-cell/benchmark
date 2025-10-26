@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000507.jpg",
+    "question_original_pt": "O que isso diz?",
+    "timestamp_sent_utc": "2025-10-26T21:15:18.117411",
+    "date": "2025-10-26",
+    "response": "A imagem mostra um termostato (provavelmente da marca **Honeywell**) exibindo o número **76** em uma tela verde.\n\nGeralmente, isso indica uma temperatura de **76 graus** (provavelmente Fahrenheit, dependendo da sua localização).",
+    "latency_seconds": 2.9409875869750977
+}

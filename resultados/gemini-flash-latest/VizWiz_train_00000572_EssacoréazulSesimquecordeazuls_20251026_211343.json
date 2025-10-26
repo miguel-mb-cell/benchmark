@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000572.jpg",
+    "question_original_pt": "Essa cor é azul? Se sim, que cor de azul se você puder descrever ela.",
+    "timestamp_sent_utc": "2025-10-26T21:12:58.305458",
+    "date": "2025-10-26",
+    "response": "Sim, a cor da peça de roupa é definitivamente um tom de **azul**.\n\nEspecificamente, ele se enquadra na categoria de azuis que têm uma notável mistura de verde, tornando-o um tom muito vibrante e brilhante.\n\nAs melhores descrições para essa cor seriam:\n\n1.  **Azul Turquesa (Turquoise Blue):** Esta é a descrição mais precisa. O turquesa é a cor intermediária entre o azul e o verde.\n2.  **Azul Ciano (Cyan Blue):** Um tom muito brilhante e saturado, semelhante à cor das piscinas ou de mares tropicais.\n3.  **Azul Água-Marinha (Aquamarine):** Se for ligeiramente mais claro e brilhante, pode ser classificado como água-marinha.",
+    "latency_seconds": 5.181235313415527
+}

@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001097.jpg",
+    "question_original_pt": "De que cor são esses jeans?",
+    "timestamp_sent_utc": "2025-10-26T21:13:43.796590",
+    "date": "2025-10-26",
+    "pergunta_translated_en": "What color are these jeans?",
+    "response_original_en": "The jeans are blue.",
+    "response_translated_pt": "A calça jeans é azul.",
+    "latency_seconds": 2.9733638763427734
+}
