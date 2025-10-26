@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000507.jpg",
+    "question_original_pt": "O que isso diz?",
+    "timestamp_sent_utc": "2025-10-26T09:16:58.309122",
+    "date": "2025-10-26",
+    "response": "Mostra \"76°\" — parece ser a leitura de um termostato (provavelmente 76°F). Em Celsius isso dá cerca de 24,4 °C. O topo da tela parece mostrar a marca \"Honeywell\", mas a foto está um pouco desfocada. Quer que eu tente ampliar ou melhorar a imagem?",
+    "latency_seconds": 7.101993799209595
+}

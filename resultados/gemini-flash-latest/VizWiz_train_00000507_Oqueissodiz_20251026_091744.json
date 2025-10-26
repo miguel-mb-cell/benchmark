@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000507.jpg",
+    "question_original_pt": "O que isso diz?",
+    "timestamp_sent_utc": "2025-10-26T09:16:58.309122",
+    "date": "2025-10-26",
+    "response": "A imagem mostra um termostato digital.\n\nO que ele diz é:\n\n1.  **Marca:** **Honeywell** (no topo, um pouco borrado).\n2.  **Temperatura/Valor:** **76** (exibido no display verde).\n\nO **76** provavelmente indica a temperatura ambiente atual ou a temperatura alvo (setpoint) que o termostato está programado para manter.",
+    "latency_seconds": 4.943858623504639
+}

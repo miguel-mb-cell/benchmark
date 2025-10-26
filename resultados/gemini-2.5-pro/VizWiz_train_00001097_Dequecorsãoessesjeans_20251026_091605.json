@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001097.jpg",
+    "question_original_pt": "De que cor são esses jeans?",
+    "timestamp_sent_utc": "2025-10-26T09:15:19.490491",
+    "date": "2025-10-26",
+    "response": "Com base na imagem, os jeans são de cor **azul escuro**.\n\nEles parecem ser de uma lavagem escura, possivelmente um tom de índigo ou azul-marinho. A iluminação amarelada no ambiente pode afetar a percepção exata da cor, mas a cor predominante é um azul bem escuro.",
+    "latency_seconds": 11.76700496673584
+}

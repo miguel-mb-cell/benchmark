@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000572.jpg",
+    "question_original_pt": "Essa cor é azul? Se sim, que cor de azul se você puder descrever ela.",
+    "timestamp_sent_utc": "2025-10-26T09:14:14.258685",
+    "date": "2025-10-26",
+    "response": "Sim, a cor da blusa na imagem é definitivamente azul.\n\nÉ um tom de azul bem vivo e vibrante. Devido à iluminação e à leve tremida da foto, a tonalidade exata pode variar, mas pode ser descrita como:\n\n*   **Azul-elétrico** ou **azul-ciano**: Pela sua intensidade e brilho.\n*   **Azul-cerúleo**: Um tom de azul brilhante, semelhante ao céu em um dia claro, mas mais saturado.\n\nÉ uma cor intermediária, nem muito escura como o azul-marinho, nem muito clara como o azul-bebê.",
+    "latency_seconds": 13.81130576133728
+}
