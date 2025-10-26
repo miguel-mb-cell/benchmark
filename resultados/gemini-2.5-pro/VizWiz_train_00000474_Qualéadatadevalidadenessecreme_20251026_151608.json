@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000474.jpg",
+    "question_original_pt": "Qual é a data de validade nesse creme?",
+    "timestamp_sent_utc": "2025-10-26T15:15:16.217070",
+    "date": "2025-10-26",
+    "response": "Com base na imagem, a data de validade está impressa na parte superior da caixa de creme, mas a foto está um pouco embaçada, o que dificulta a leitura exata.\n\nNo entanto, parece estar escrito **DE 5**, que, considerando que Neilson é uma marca canadense, provavelmente significa **5 de Dezembro** (\"DE\" sendo a abreviação bilingue para December/Décembre).",
+    "latency_seconds": 20.601871252059937
+}

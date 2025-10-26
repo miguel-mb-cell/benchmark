@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000408.jpg",
+    "question_original_pt": "Que tipo de leite é esse por favor",
+    "timestamp_sent_utc": "2025-10-26T15:17:07.022621",
+    "date": "2025-10-26",
+    "response": "Com base na imagem, este é um **leite de amêndoa (Almondmilk) da marca Silk**, sabor **Chocolate Amargo (Dark Chocolate)**.\n\nA marca \"Silk\" é conhecida por produzir alternativas não lácteas (bebidas vegetais), e as letras parcialmente visíveis na parte inferior da embalagem, que se parecem com \"Alm[ond]\", confirmam que se trata de leite de amêndoa.",
+    "latency_seconds": 3.8462960720062256
+}

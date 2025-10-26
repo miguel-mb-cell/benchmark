@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000408.jpg",
+    "question_original_pt": "Que tipo de leite é esse por favor",
+    "timestamp_sent_utc": "2025-10-26T15:17:07.022621",
+    "date": "2025-10-26",
+    "pergunta_translated_en": "What kind of milk is this please",
+    "response_original_en": "This image shows a carton of Silk brand dark chocolate milk. The carton is blue and white with the Silk logo prominently displayed. The top features a white cap and partially visible text indicating \"DARK CHOCOLATE.\" The milk is labeled as being made with rich dark cocoa.",
+    "response_translated_pt": "Esta imagem mostra uma caixa de leite com chocolate amargo da marca Silk. A caixa é azul e branca com o logotipo Silk exibido em destaque. A parte superior apresenta uma tampa branca e texto parcialmente visível indicando \"CHOCOLATE ESCURO\". O leite é rotulado como sendo feito com cacau escuro e rico.",
+    "latency_seconds": 3.2723889350891113
+}

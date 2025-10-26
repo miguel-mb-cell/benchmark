@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000507.jpg",
+    "question_original_pt": "O que isso diz?",
+    "timestamp_sent_utc": "2025-10-26T15:16:08.522465",
+    "date": "2025-10-26",
+    "response": "Diz “76°”. Parece o visor verde de um termostato (tipo Honeywell).",
+    "latency_seconds": 9.165306568145752
+}

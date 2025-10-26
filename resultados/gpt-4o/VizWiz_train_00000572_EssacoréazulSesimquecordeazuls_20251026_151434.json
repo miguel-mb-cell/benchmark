@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000572.jpg",
+    "question_original_pt": "Essa cor é azul? Se sim, que cor de azul se você puder descrever ela.",
+    "timestamp_sent_utc": "2025-10-26T15:13:49.301929",
+    "date": "2025-10-26",
+    "response": "Sim, a cor da camiseta parece ser azul. Essa tonalidade se assemelha a um azul ciano ou azul-turquesa, que é um tom mais vibrante e claro de azul.",
+    "latency_seconds": 6.7343034744262695
+}

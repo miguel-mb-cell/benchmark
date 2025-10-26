@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000507.jpg",
+    "question_original_pt": "O que isso diz?",
+    "timestamp_sent_utc": "2025-10-26T15:16:08.522465",
+    "date": "2025-10-26",
+    "response": "A imagem mostra um **termostato digital**, e o que ele diz é:\n\n1.  **Temperatura:** O número exibido em destaque (com fundo verde) é **76**.\n2.  **Marca:** Na parte superior, embora um pouco embaçada, lê-se a marca **Honeywell**.\n\nPortanto, a informação principal é que a temperatura (atual ou a temperatura definida, dependendo do modo do termostato) é **76**.",
+    "latency_seconds": 4.177823305130005
+}

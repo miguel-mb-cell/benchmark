@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000507.jpg",
+    "question_original_pt": "O que isso diz?",
+    "timestamp_sent_utc": "2025-10-26T15:16:08.522465",
+    "date": "2025-10-26",
+    "response": "Com base na imagem, isto é o que se pode ver:\n\nÉ um termostato digital da marca **Honeywell**.\n\nA tela está mostrando o número **76**.\n\nIsso indica que a temperatura ambiente ou a temperatura configurada é de **76 graus**. Nos Estados Unidos, onde este tipo de termostato é comum, a medida seria em graus Fahrenheit (°F), o que equivale a aproximadamente 24.4 graus Celsius (°C).",
+    "latency_seconds": 24.95988702774048
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001097.jpg",
+    "question_original_pt": "De que cor são esses jeans?",
+    "timestamp_sent_utc": "2025-10-26T15:14:34.293070",
+    "date": "2025-10-26",
+    "response": "Com base na imagem, os jeans são de cor **azul-escura** ou **índigo**.\n\nA iluminação um pouco amarelada da foto pode alterar ligeiramente a percepção da cor, mas é visível que se trata de um jeans de lavagem escura.",
+    "latency_seconds": 20.85272479057312
+}

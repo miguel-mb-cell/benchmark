@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000474.jpg",
+    "question_original_pt": "Qual é a data de validade nesse creme?",
+    "timestamp_sent_utc": "2025-10-26T15:15:16.217070",
+    "date": "2025-10-26",
+    "response": "A imagem está bastante desfocada na área da data, mas é possível identificar a sequência de números impressa na aba superior (ao lado da tampa).\n\nA data de validade parece ser:\n\n**05 19 22**\n\nInterpretando isso como Mês/Dia/Ano (formato comum para laticínios na América do Norte, onde a marca Neilson é vendida), a data de validade é:\n\n**19 de maio de 2022**",
+    "latency_seconds": 4.137594223022461
+}
