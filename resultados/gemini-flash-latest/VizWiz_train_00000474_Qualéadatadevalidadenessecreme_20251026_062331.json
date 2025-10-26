@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000474.jpg",
+    "question_original_pt": "Qual é a data de validade nesse creme?",
+    "timestamp_sent_utc": "2025-10-26T06:22:42.108339",
+    "date": "2025-10-26",
+    "response": "A imagem está bastante desfocada (blurry) no topo da embalagem, que é onde a data de validade é impressa (geralmente em tinta preta).\n\nNo entanto, a sequência de números mais visível na parte superior branca da caixa parece ser:\n\n# **05 04** (seguido pelo ano e outros códigos, que não são legíveis)\n\nSe o formato for Mês/Dia (MM DD), a data seria **4 de Maio**.\nSe o formato for Dia/Mês (DD MM), a data seria **5 de Abril**.\n\nNão é possível identificar o ano com clareza devido à qualidade da foto.",
+    "latency_seconds": 5.882460355758667
+}

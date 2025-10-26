@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000507.jpg",
+    "question_original_pt": "O que isso diz?",
+    "timestamp_sent_utc": "2025-10-26T06:23:31.286923",
+    "date": "2025-10-26",
+    "response": "Mostra \"76°\" — ou seja, 76 graus (provavelmente 76 °F). Na parte superior aparece a marca \"Honeywell\". Quer que eu converta para Celsius?",
+    "latency_seconds": 5.782288551330566
+}

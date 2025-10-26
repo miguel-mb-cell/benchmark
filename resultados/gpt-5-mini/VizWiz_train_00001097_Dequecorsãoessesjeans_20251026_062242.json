@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001097.jpg",
+    "question_original_pt": "De que cor são esses jeans?",
+    "timestamp_sent_utc": "2025-10-26T06:21:49.932480",
+    "date": "2025-10-26",
+    "response": "São azuis — um tom de jeans azul escuro (o brilho/iluminação pode mudar ligeiramente a aparência).",
+    "latency_seconds": 6.282186985015869
+}

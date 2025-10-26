@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000507.jpg",
+    "question_original_pt": "O que isso diz?",
+    "timestamp_sent_utc": "2025-10-26T06:23:31.286923",
+    "date": "2025-10-26",
+    "response": "A imagem mostra um termostato eletrônico. As informações que podem ser lidas são:\n\n1.  **O número:** **76** (Este é o valor da temperatura, provavelmente 76 graus Fahrenheit, ou o ponto de ajuste (set-point) do termostato).\n2.  **A marca:** **Honeywell** (Na parte superior).",
+    "latency_seconds": 4.148967504501343
+}

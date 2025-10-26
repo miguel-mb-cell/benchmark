@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000507.jpg",
+    "question_original_pt": "O que isso diz?",
+    "timestamp_sent_utc": "2025-10-26T06:23:31.286923",
+    "date": "2025-10-26",
+    "response": "Mostra “76°” — provavelmente a temperatura em um termostato Honeywell (76°F ≈ 24°C).",
+    "latency_seconds": 7.902480602264404
+}

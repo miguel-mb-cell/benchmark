@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000507.jpg",
+    "question_original_pt": "O que isso diz?",
+    "timestamp_sent_utc": "2025-10-26T06:23:31.286923",
+    "date": "2025-10-26",
+    "response": "Parece ser um termostato com a temperatura configurada para 76 graus Fahrenheit.",
+    "latency_seconds": 2.3341569900512695
+}

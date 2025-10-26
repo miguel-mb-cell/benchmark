@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000507.jpg",
+    "question_original_pt": "O que isso diz?",
+    "timestamp_sent_utc": "2025-10-26T06:23:31.286923",
+    "date": "2025-10-26",
+    "response": "Com base nas imagens, trata-se de um termostato digital da marca Honeywell.\n\nO visor está marcando **76**.\n\nEste número representa a temperatura atual, provavelmente em graus Fahrenheit (o que equivale a aproximadamente 24.4° Celsius).",
+    "latency_seconds": 15.728835105895996
+}

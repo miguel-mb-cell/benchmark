@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00001097.jpg",
+    "question_original_pt": "De que cor são esses jeans?",
+    "timestamp_sent_utc": "2025-10-26T06:21:49.932480",
+    "date": "2025-10-26",
+    "response": "Com base na imagem, os jeans são de cor **azul-escuro**. É um tom clássico de denim escuro, por vezes referido como índigo.",
+    "latency_seconds": 11.03775429725647
+}

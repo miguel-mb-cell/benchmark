@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000572.jpg",
+    "question_original_pt": "Essa cor é azul? Se sim, que cor de azul se você puder descrever ela.",
+    "timestamp_sent_utc": "2025-10-26T06:21:08.114427",
+    "date": "2025-10-26",
+    "response": "Sim. Parece um tom de azul turquesa/ciano — um azul vibrante com leve toque esverdeado, às vezes chamado de “azul piscina”. A iluminação da foto pode mudar um pouco a percepção, mas fica entre azul e verde-água.",
+    "latency_seconds": 8.109534978866577
+}

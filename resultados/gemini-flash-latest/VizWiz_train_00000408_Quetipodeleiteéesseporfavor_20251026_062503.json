@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000408.jpg",
+    "question_original_pt": "Que tipo de leite é esse por favor",
+    "timestamp_sent_utc": "2025-10-26T06:24:11.121490",
+    "date": "2025-10-26",
+    "response": "Com base na imagem, posso identificar as seguintes informações:\n\n1.  **Marca:** O leite é da marca **Silk**.\n2.  **Sabor:** O produto é sabor **Chocolate Escuro (Dark Chocolate)**, feito com cacau escuro (\"made with rich dark cocoa\").\n\nA marca Silk é especializada em **alternativas não-lácteas** (não é leite de vaca).\n\nEmbora a palavra exata para o tipo de base (amêndoa, soja, aveia, etc.) esteja cortada na parte inferior da imagem, a embalagem da Silk para este sabor escuro (e a leve forma das letras visíveis abaixo do logo) indica que este é muito provavelmente:\n\n**Leite de Amêndoa (Almond Milk) sabor Chocolate Escuro da marca Silk.**",
+    "latency_seconds": 4.77217173576355
+}
