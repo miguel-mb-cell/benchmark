@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000474.jpg",
+    "question_original_pt": "Qual é a data de validade nesse creme?",
+    "timestamp_sent_utc": "2025-10-26T17:14:04.131586",
+    "date": "2025-10-26",
+    "response": "A data de validade está impressa na aba superior (branca) da caixa, logo atrás da tampa, mas a imagem está extremamente borrada nesse ponto.\n\nDevido à grande falta de nitidez, é impossível ler a data com 100% de certeza. No entanto, a sequência de números borrada sugere que a validade era em 2022.\n\nA leitura mais provável da impressão (que geralmente é no formato Dia/Mês/Ano) é:\n\n**05 JUL 22** (5 de Julho de 2022)\nou\n**05 JUN 22** (5 de Junho de 2022)\n\nNovamente, essa é uma estimativa baseada na forma dos números embaçados. É necessário verificar a embalagem física para confirmar a data exata.",
+    "latency_seconds": 6.565187454223633
+}

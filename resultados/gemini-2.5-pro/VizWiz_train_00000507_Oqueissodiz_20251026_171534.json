@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000507.jpg",
+    "question_original_pt": "O que isso diz?",
+    "timestamp_sent_utc": "2025-10-26T17:14:53.910136",
+    "date": "2025-10-26",
+    "response": "Com base na imagem, isto é o que diz:\n\nA imagem mostra um termostato digital da marca **Honeywell**.\n\nA tela verde está marcando a temperatura de **76**.\n\nIsso indica que a temperatura ambiente é de **76 graus**. Provavelmente são 76° Fahrenheit (°F), o que equivale a cerca de 24,4° Celsius (°C).",
+    "latency_seconds": 13.888598442077637
+}
