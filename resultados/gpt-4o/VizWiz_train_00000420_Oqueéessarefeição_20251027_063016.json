@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000420.jpg",
+    "question_original_pt": "O que é essa refeição?",
+    "timestamp_sent_utc": "2025-10-27T06:29:23.184404",
+    "date": "2025-10-27",
+    "response": "Parece uma embalagem de comida congelada da Lean Cuisine. O prato parece ser frango ao molho de amendoim. Essas refeições geralmente são rápidas e fáceis de preparar.",
+    "latency_seconds": 3.1095423698425293
+}

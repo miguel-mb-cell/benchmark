@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000420.jpg",
+    "question_original_pt": "O que é essa refeição?",
+    "timestamp_sent_utc": "2025-10-27T06:29:23.184404",
+    "date": "2025-10-27",
+    "response": "Parece ser uma refeição pronta (congelada) de estilo asiático: macarrão (noodles) com pedaços de frango e legumes, em um molho que parece ser de amendoim (peanut sauce). A foto está um pouco borrada e invertida — quer que eu gire/aperfeiçoe a imagem para tentar ler o rótulo e confirmar?",
+    "latency_seconds": 6.974470376968384
+}

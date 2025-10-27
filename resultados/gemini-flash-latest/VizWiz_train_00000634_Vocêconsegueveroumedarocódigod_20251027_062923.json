@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000634.jpg",
+    "question_original_pt": "Você consegue ver ou me dar o código de autorização para essa conta que eu tenho que criar?",
+    "timestamp_sent_utc": "2025-10-27T06:28:10.686308",
+    "date": "2025-10-27",
+    "response": "Eu consigo ver a imagem que você enviou.\n\nO código que você precisa para criar a conta é o **CAPTCHA** (os caracteres distorcidos) exibido na tela, que deve ser digitado na caixa de texto.\n\nNeste caso, o CAPTCHA é composto por duas partes: a palavra legível e a palavra distorcida.\n\n1.  **Palavra Legível:** **Guenter**\n2.  **Palavra Distorcida (a interpretação mais provável):** **ercilo** (ou possivelmente **ercito**)\n\nPortanto, o código que você deve digitar na caixa \"Enter the characters you see\" (Digite os caracteres que você vê) é:\n\n## **Guenter ercilo**\n\n(Ou digite a palavra **Guenter** e a palavra distorcida **ercilo** separadas por um espaço.)\n\nSe **ercilo** não funcionar, tente **ercito**.",
+    "latency_seconds": 7.971625804901123
+}

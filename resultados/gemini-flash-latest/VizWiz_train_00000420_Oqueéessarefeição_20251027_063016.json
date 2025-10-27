@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000420.jpg",
+    "question_original_pt": "O que é essa refeição?",
+    "timestamp_sent_utc": "2025-10-27T06:29:23.184404",
+    "date": "2025-10-27",
+    "response": "Com base na imagem, que está bastante borrada e com o texto de cabeça para baixo, é possível identificar que se trata de uma **refeição congelada de conveniência** (tipo pronto para micro-ondas).\n\nO texto legível na embalagem revela o tipo de prato:\n\n1.  **Categoria:** O termo visível é \"an cuisine\" (que pode fazer parte de um nome de marca, como Lean Cuisine, ou simplesmente indicar \"Asian Cuisine\" - Culinária Asiática).\n2.  **Prato Específico:** A descrição principal (lida de cabeça para baixo) é: **\"CHICKEN IN PEANUT SAUCE\"** (Frango com Molho de Amendoim).\n\nPortanto, a refeição é um **Frango com Molho de Amendoim (Peanut Chicken)**, geralmente servido com macarrão (noodles) ou vegetais, no estilo asiático/tailandês.",
+    "latency_seconds": 5.625690698623657
+}

@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000420.jpg",
+    "question_original_pt": "O que é essa refeição?",
+    "timestamp_sent_utc": "2025-10-27T06:29:23.184404",
+    "date": "2025-10-27",
+    "pergunta_translated_en": "What is this meal?",
+    "response_original_en": "This meal is a box of peanut sauce and noodles, likely Asian cuisine, served in a white bowl. The box features an image of the dish and text indicating the ingredients and flavor profile.",
+    "response_translated_pt": "Esta refeição é uma caixa de molho de amendoim e macarrão, provavelmente da culinária asiática, servida em uma tigela branca. A caixa traz imagem do prato e texto indicando os ingredientes e perfil de sabor.",
+    "latency_seconds": 3.426821231842041
+}

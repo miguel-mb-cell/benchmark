@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000634.jpg",
+    "question_original_pt": "Você consegue ver ou me dar o código de autorização para essa conta que eu tenho que criar?",
+    "timestamp_sent_utc": "2025-10-27T06:28:10.686308",
+    "date": "2025-10-27",
+    "pergunta_translated_en": "Can you see or give me the authorization code for this account that I have to create?",
+    "response_original_en": "The image does not show any authorization code or account creation details.",
+    "response_translated_pt": "A imagem não mostra nenhum código de autorização ou detalhes de criação de conta.",
+    "latency_seconds": 4.176933288574219
+}
