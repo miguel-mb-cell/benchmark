@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000420.jpg",
+    "question_original_pt": "O que é essa refeição?",
+    "timestamp_sent_utc": "2025-10-27T17:16:50.974976",
+    "date": "2025-10-27",
+    "response": "Esta refeição é um produto embalado, provavelmente uma **refeição congelada ou de micro-ondas**, com base na embalagem visível.\n\nApesar da imagem estar muito embaçada, é possível ler algumas palavras-chave na embalagem:\n\n1.  **Culinária:** A palavra \"cuisine\" (culinária) é proeminente. O texto sugere que é um produto da linha **Lean Cuisine** (uma marca popular de refeições congeladas nos EUA).\n2.  **O Prato:** O nome do prato principal parece ser **\"Chicken in Peanut Sauce\"** (Frango com Molho de Amendoim).\n\nPortanto, trata-se de um prato de **Frango com Molho de Amendoim e macarrão/noodles**, típico da culinária asiática (Tailândia ou inspiração asiática).",
+    "latency_seconds": 5.802406311035156
+}

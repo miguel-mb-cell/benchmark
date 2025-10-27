@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000420.jpg",
+    "question_original_pt": "O que é essa refeição?",
+    "timestamp_sent_utc": "2025-10-27T17:16:50.974976",
+    "date": "2025-10-27",
+    "response": "Parece uma refeição congelada da Lean Cuisine: “Chicken in Peanut Sauce” (frango ao molho de amendoim) com macarrão e legumes, como ervilha-torta e cenoura.",
+    "latency_seconds": 13.435928583145142
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000289.jpg",
+    "question_original_pt": "Qual o perfume?",
+    "timestamp_sent_utc": "2025-10-27T17:13:38.957660",
+    "date": "2025-10-27",
+    "response": "Com base na imagem, o nome da fragrância (o \"perfume\") é:\n\n## **Welcome Home™**\n\nEste é um Scentsy Bar (uma cera perfumada usada em aquecedores, e não um perfume pessoal).\n\nA fragrância **Welcome Home** da Scentsy é tipicamente descrita como um aroma acolhedor e reconfortante, muitas vezes associado a:\n\n*   **Canela**\n*   **Especiarias**\n*   **Notas de chá** (dando um toque quente e familiar)",
+    "latency_seconds": 4.046931743621826
+}

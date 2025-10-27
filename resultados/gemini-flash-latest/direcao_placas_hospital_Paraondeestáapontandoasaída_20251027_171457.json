@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "direcao_placas_hospital.jpeg",
+    "question_original_pt": "Para onde está apontando a saída?",
+    "timestamp_sent_utc": "2025-10-27T17:14:17.763241",
+    "date": "2025-10-27",
+    "response": "Com base na placa de sinalização localizada na parede à esquerda da imagem, a saída está apontando **para a direita** (seguindo o corredor, para o fundo da imagem).",
+    "latency_seconds": 2.827599048614502
+}

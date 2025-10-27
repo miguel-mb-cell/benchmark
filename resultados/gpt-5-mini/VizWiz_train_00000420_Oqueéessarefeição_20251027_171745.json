@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000420.jpg",
+    "question_original_pt": "O que é essa refeição?",
+    "timestamp_sent_utc": "2025-10-27T17:16:50.974976",
+    "date": "2025-10-27",
+    "response": "Parece ser uma refeição congelada pronta, provavelmente um prato asiático com frango e macarrão (talvez “chicken in peanut sauce” — frango em molho de amendoim). Vejo pedaços de frango, macarrão e alguns legumes (como ervilhas-tortas).\n\nNão tenho certeza absoluta — se quiser eu posso girar/aproximar a imagem para ler o rótulo e confirmar o nome e instruções de preparo. Quer que eu tente?",
+    "latency_seconds": 11.339997291564941
+}

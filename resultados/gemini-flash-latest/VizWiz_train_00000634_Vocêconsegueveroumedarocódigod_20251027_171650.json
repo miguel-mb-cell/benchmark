@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000634.jpg",
+    "question_original_pt": "Você consegue ver ou me dar o código de autorização para essa conta que eu tenho que criar?",
+    "timestamp_sent_utc": "2025-10-27T17:15:45.608714",
+    "date": "2025-10-27",
+    "response": "Com certeza. O código de autorização (o CAPTCHA) que você precisa inserir é a combinação das duas palavras que aparecem na tela:\n\n1.  A palavra legível é: **Guenter**\n2.  A palavra distorcida (o CAPTCHA) parece ser: **ergio**\n\nPortanto, o código completo que você deve digitar no campo é:\n\n**Guenter ergio**",
+    "latency_seconds": 6.189290761947632
+}
