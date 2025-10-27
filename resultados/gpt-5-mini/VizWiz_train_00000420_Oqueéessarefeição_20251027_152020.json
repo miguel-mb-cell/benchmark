@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000420.jpg",
+    "question_original_pt": "O que é essa refeição?",
+    "timestamp_sent_utc": "2025-10-27T15:19:40.531163",
+    "date": "2025-10-27",
+    "response": "Parece ser uma refeição congelada estilo asiático: frango com noodles (macarrão) e alguns legumes, provavelmente em molho de amendoim ou molho tipo satay. Não dá para ter 100% de certeza pela foto, mas é essa a aparência.",
+    "latency_seconds": 7.223430633544922
+}

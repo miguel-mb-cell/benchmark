@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000420.jpg",
+    "question_original_pt": "O que é essa refeição?",
+    "timestamp_sent_utc": "2025-10-27T15:19:40.531163",
+    "date": "2025-10-27",
+    "response": "Parece ser um prato congelado da linha “Asian Cuisine”. A imagem mostra um prato com macarrão e vegetais cobertos por um molho, que parece ser uma refeição ao estilo asiático. Para mais detalhes, seria bom verificar a embalagem mais de perto.",
+    "latency_seconds": 5.394947052001953
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000289.jpg",
+    "question_original_pt": "Qual o perfume?",
+    "timestamp_sent_utc": "2025-10-27T15:16:45.447584",
+    "date": "2025-10-27",
+    "response": "Este é um produto da Scentsy, mais especificamente a \"Scentsy Bar\" no perfume \"Welcome Home\". É uma cera perfumada usada em aquecedores para liberar fragrâncias no ambiente.",
+    "latency_seconds": 3.462108612060547
+}

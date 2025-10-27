@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000420.jpg",
+    "question_original_pt": "O que é essa refeição?",
+    "timestamp_sent_utc": "2025-10-27T15:19:40.531163",
+    "date": "2025-10-27",
+    "response": "Apesar da imagem estar bastante embaçada e do texto estar invertido, é possível identificar claramente o que é a refeição.\n\nEsta é uma **refeição pronta/congelada** de marca (provavelmente de uma linha chamada \"Asian Cuisine\" ou similar).\n\nO prato específico é:\n\n### **Frango com Molho de Amendoim** (Chicken in Peanut Sauce)\n\nO prato na imagem consiste em:\n\n*   **Macarrão** (noodles ou um tipo de massa longa).\n*   **Tiras de Frango.**\n*   **Molho de Amendoim** (Peanut Sauce), característico da culinária tailandesa ou de outras culinárias asiáticas.\n*   **Vegetais** (como vagens ou tiras de pimentão).",
+    "latency_seconds": 5.2870237827301025
+}

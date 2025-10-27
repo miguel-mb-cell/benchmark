@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000370.jpg",
+    "question_original_pt": "Leia essas instruções para mim",
+    "timestamp_sent_utc": "2025-10-27T15:18:09.016185",
+    "date": "2025-10-27",
+    "pergunta_translated_en": "Read these instructions to me",
+    "response_original_en": "1. Remove from carton; pat dry.\n2. Microwave on HIGH for 2 minutes; stir.\n3. Microwave on MEDIUM for 2 minutes; stir.\n4. Let stand 1 minute before serving.\n5. Product will be hot. Single use bowl.",
+    "response_translated_pt": "1. Retire da caixa; seque.\n2. Microondas em ALTA por 2 minutos; mexer.\n3. Microondas em MÉDIA por 2 minutos; mexer.\n4. Deixe descansar por 1 minuto antes de servir.\n5. O produto estará quente. Tigela descartável.",
+    "latency_seconds": 6.990016460418701
+}

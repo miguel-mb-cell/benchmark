@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000289.jpg",
+    "question_original_pt": "Qual o perfume?",
+    "timestamp_sent_utc": "2025-10-27T15:16:45.447584",
+    "date": "2025-10-27",
+    "response": "Com base na imagem, o produto é uma barra de cera perfumada (Scentsy Bar™) para aquecedor, e o nome da fragrância é:\n\n# **Welcome Home™**\n\nEste é um aroma popular da Scentsy. A descrição típica de **\"Welcome Home\"** é de uma fragrância quente e reconfortante, frequentemente associada a especiarias de cozinha e doçura. As notas costumam incluir:\n\n*   **Canela** (Cinnamon)\n*   **Cravo** (Clove)\n*   **Açúcar Mascavo ou Baunilha** (Brown Sugar or Vanilla)\n*   Especiarias quentes em geral.\n\nÉ um cheiro acolhedor, projetado para dar a sensação de conforto e lar.",
+    "latency_seconds": 16.589573860168457
+}
