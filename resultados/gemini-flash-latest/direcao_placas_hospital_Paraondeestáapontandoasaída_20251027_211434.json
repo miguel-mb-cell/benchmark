@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "direcao_placas_hospital.jpeg",
+    "question_original_pt": "Para onde está apontando a saída?",
+    "timestamp_sent_utc": "2025-10-27T21:14:03.507229",
+    "date": "2025-10-27",
+    "response": "Com base na placa de sinalização localizada na parede à esquerda, a **Saída** está indicada com uma seta apontando para a **direita** (->).\n\nNeste contexto, onde a placa está instalada na lateral do corredor, a seta para a direita significa que a saída está **em frente, seguindo o corredor** (na direção do fundo da imagem).\n\nA linha colorida que corresponde à Saída (a terceira linha, de cor rosa/magenta) também guia o caminho para frente, ao longo do corredor.",
+    "latency_seconds": 3.5555198192596436
+}

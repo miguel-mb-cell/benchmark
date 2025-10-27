@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000634.jpg",
+    "question_original_pt": "Você consegue ver ou me dar o código de autorização para essa conta que eu tenho que criar?",
+    "timestamp_sent_utc": "2025-10-27T21:15:30.487506",
+    "date": "2025-10-27",
+    "response": "Com base na imagem que você forneceu, parece que você está tentando resolver um **CAPTCHA** (o teste de segurança que pede para você digitar caracteres distorcidos) para criar uma conta.\n\nO CAPTCHA na imagem consiste em duas partes:\n\n1.  A palavra legível à esquerda: **Guentér**\n2.  A sequência de caracteres distorcidos à direita: A sequência mais distorcida parece ser **ERGTLO** ou talvez **ERGILO** (o \"T\" e o \"I\" são difíceis de distinguir, mas o \"L\" e o \"O\" são mais claros).\n\nO código completo que você deve tentar inserir na caixa de texto (dependendo do formato que o formulário exige) é:\n\n**Guentér ERGTLO** (ou, mais provavelmente, apenas a parte distorcida)\n\nSe o formulário pedir para você inserir *todos* os caracteres que você vê, o código é:\n\n**GuentérERGTLO** (ou com o espaço, dependendo do que o formulário está pedindo).\n\n**O mais provável é que o formulário de CAPTCHA esteja pedindo para você digitar os dois textos, com um espaço no meio:**\n\n**Guentér ERGTLO**\n\n**Tente inserir isso. Se não funcionar, tente ERGILO.**",
+    "latency_seconds": 2.25883412361145
+}

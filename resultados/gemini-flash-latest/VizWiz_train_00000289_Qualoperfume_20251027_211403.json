@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000289.jpg",
+    "question_original_pt": "Qual o perfume?",
+    "timestamp_sent_utc": "2025-10-27T21:13:29.625657",
+    "date": "2025-10-27",
+    "response": "A fragrância (o aroma) indicada na embalagem é **Welcome Home™**.\n\nEste é um produto **Scentsy Bar** (cera perfumada para aquecedores de cera), e a linha \"Welcome Home\" é geralmente descrita como um aroma quente, acolhedor e caseiro, muitas vezes com notas de **canela e especiarias**.",
+    "latency_seconds": 4.088845252990723
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000420.jpg",
+    "question_original_pt": "O que é essa refeição?",
+    "timestamp_sent_utc": "2025-10-27T21:16:35.513241",
+    "date": "2025-10-27",
+    "response": "Parece ser uma embalagem de um prato congelado da marca Lean Cuisine. O rótulo menciona algo sobre \"chicken in peanut sauce\", ou seja, frango ao molho de amendoim. É provável que o prato inclua frango, vegetais e algum tipo de massa ou arroz.",
+    "latency_seconds": 7.322018384933472
+}

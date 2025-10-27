@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000420.jpg",
+    "question_original_pt": "O que é essa refeição?",
+    "timestamp_sent_utc": "2025-10-27T21:16:35.513241",
+    "date": "2025-10-27",
+    "response": "Esta é uma embalagem de uma **refeição congelada**.\n\nEmbora a imagem esteja muito embaçada e o texto esteja invertido, é possível decifrar as informações principais:\n\n1.  **Marca:** Parece ser um produto da linha **Lean Cuisine** (ou uma marca similar que utiliza o termo \"Cuisine\").\n2.  **Refeição específica:** O texto indica \"chicken in peanut sauce\" (Frango com Molho de Amendoim).\n\nPortanto, a refeição é um prato de **Frango com Molho de Amendoim**, provavelmente com macarrão (noodles) e vegetais, vendido como uma opção de comida congelada de preparo rápido.",
+    "latency_seconds": 5.210424900054932
+}

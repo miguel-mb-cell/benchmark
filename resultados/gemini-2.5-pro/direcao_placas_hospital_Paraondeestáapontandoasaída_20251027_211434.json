@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "direcao_placas_hospital.jpeg",
+    "question_original_pt": "Para onde está apontando a saída?",
+    "timestamp_sent_utc": "2025-10-27T21:14:03.507229",
+    "date": "2025-10-27",
+    "response": "Com base na sinalização na imagem, a saída está apontando **para a direita, em frente, seguindo o corredor**.\n\nVocê pode ver isso de duas maneiras:\n\n1.  **Na placa verde na parede**, a palavra \"Saída\" tem uma seta (→) apontando para a direita.\n2.  **A linha rosa/magenta** que começa na placa da \"Saída\" desce pela parede e continua pelo chão, indicando o caminho a ser seguido pelo corredor.",
+    "latency_seconds": 8.928749799728394
+}
