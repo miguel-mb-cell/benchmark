@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "direcao_placas_hospital.jpeg",
+    "question_original_pt": "Para onde está apontando a saída?",
+    "timestamp_sent_utc": "2025-10-27T02:47:02.589170",
+    "date": "2025-10-27",
+    "response": "Com base no sinal de orientação na parede, o destino \"Saída\" está apontando para a **direita**, seguindo pelo corredor.\n\nA seta no painel de sinalização de \"Saída\" (a terceira placa verde de cima para baixo) indica a direção a seguir. Além disso, a linha de cor rosa no chão (a terceira linha de dentro para fora no início, que se torna a terceira linha no centro do corredor) está alinhada com a seta.",
+    "latency_seconds": 1.1050631999969482
+}

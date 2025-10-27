@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000370.jpg",
+    "question_original_pt": "Leia essas instruções para mim",
+    "timestamp_sent_utc": "2025-10-27T02:47:39.172369",
+    "date": "2025-10-27",
+    "response": "Based on the image provided, here are the cooking instructions:\n\n***\n\n**DO NOT USE IN CONVENTIONAL OR TOASTER OVEN**\n\n**ALWAYS FOLLOW COOKING INSTRUCTIONS**\n\n### MICROWAVE COOKING INSTRUCTIONS\n\nFOR FOOD SAFETY AND QUALITY PURPOSES, COOK THOROUGHLY TO A MINIMUM INTERNAL TEMPERATURE OF 165°F.\nDirections were developed using an 1100-watt microwave oven. Ovens vary; heat times may need to be adjusted.\n\n**KEEP FROZEN UNTIL READY TO USE.**\n\n1.  Remove from carton; puncture film.\n2.  Microwave on **HIGH** for 2 minutes.\n3.  Remove film and stir. Microwave for an additional 1 minute or until product is steaming throughout.\n4.  Let stand 1 minute before serving. Enjoy!\n\n**CAUTION:** PRODUCT WILL BE HOT. SINGLE USE BOWL.",
+    "latency_seconds": 3.850275993347168
+}

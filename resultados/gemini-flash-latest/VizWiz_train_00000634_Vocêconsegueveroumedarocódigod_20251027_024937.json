@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000634.jpg",
+    "question_original_pt": "Você consegue ver ou me dar o código de autorização para essa conta que eu tenho que criar?",
+    "timestamp_sent_utc": "2025-10-27T02:48:29.372817",
+    "date": "2025-10-27",
+    "response": "Eu consigo ver o código de segurança (CAPTCHA) que você precisa digitar para criar a conta. Não se trata de um código de autorização único que eu gere, mas sim dos caracteres visíveis na imagem.\n\nVocê deve digitar as duas palavras que aparecem:\n\n1.  A palavra clara: **Guenter**\n2.  A palavra distorcida na imagem: **ERGLO** (Essa é a interpretação mais provável dos caracteres altamente distorcidos).\n\nPortanto, o código que você deve inserir no campo é:\n\n**Guenter ERGLO**",
+    "latency_seconds": 7.780641317367554
+}

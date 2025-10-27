@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000420.jpg",
+    "question_original_pt": "O que é essa refeição?",
+    "timestamp_sent_utc": "2025-10-27T02:49:37.706543",
+    "date": "2025-10-27",
+    "response": "Apesar de a imagem estar um pouco embaçada e o texto na caixa estar invertido, é possível identificar claramente o tipo de refeição.\n\nO texto na caixa, quando lido na direção correta, indica que esta é uma refeição de **cozinha asiática** (\"Asian Cuisine\"), especificamente:\n\n**Frango em Molho de Amendoim** (Chicken in Peanut Sauce)\n\nO prato parece consistir em macarrão (noodles), pedaços de frango e vegetais (como vagem ou pimentão) cobertos com o molho de amendoim. É uma refeição pré-embalada/congelada.",
+    "latency_seconds": 4.798550844192505
+}

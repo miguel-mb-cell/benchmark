@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000289.jpg",
+    "question_original_pt": "Qual o perfume?",
+    "timestamp_sent_utc": "2025-10-27T02:46:28.291208",
+    "date": "2025-10-27",
+    "response": "O produto mostrado na imagem é uma barra de cera aromática (Scentsy Bar), e não um perfume corporal.\n\nO nome da fragrância (o \"perfume\" da cera) é:\n\n## **Welcome Home™**\n\nEsta fragrância da Scentsy é tipicamente descrita como um aroma quente e acolhedor, geralmente contendo notas de especiarias (como canela) e toques de madeira/apothecary.",
+    "latency_seconds": 4.483076095581055
+}

@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000420.jpg",
+    "question_original_pt": "O que é essa refeição?",
+    "timestamp_sent_utc": "2025-10-27T02:49:37.706543",
+    "date": "2025-10-27",
+    "response": "A imagem mostra uma embalagem de uma refeição congelada. Parece ser uma marca chamada \"Lean Cuisine\", e a refeição inclui frango em um molho de amendoim. É um prato pronto para ser aquecido.",
+    "latency_seconds": 3.8578829765319824
+}
