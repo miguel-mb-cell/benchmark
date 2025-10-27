@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "direcao_placas_hospital.jpeg",
+    "question_original_pt": "Para onde está apontando a saída?",
+    "timestamp_sent_utc": "2025-10-27T09:20:01.825067",
+    "date": "2025-10-27",
+    "response": "A seta do sinal \"Saída\" está apontando para a direita, ou seja, para o corredor à direita.",
+    "latency_seconds": 3.9659078121185303
+}

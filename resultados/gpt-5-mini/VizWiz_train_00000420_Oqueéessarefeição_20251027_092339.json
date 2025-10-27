@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000420.jpg",
+    "question_original_pt": "O que é essa refeição?",
+    "timestamp_sent_utc": "2025-10-27T09:22:34.394039",
+    "date": "2025-10-27",
+    "response": "Parece uma refeição congelada/embalada do tipo “asiático”: macarrão com pedaços de frango e legumes (tipo ervilha-torta e cenoura), provavelmente em molho de amendoim (ou outro molho cremoso). A embalagem está de cabeça para baixo — quer que eu gire a imagem ou traduza o texto da caixa?",
+    "latency_seconds": 6.670911550521851
+}

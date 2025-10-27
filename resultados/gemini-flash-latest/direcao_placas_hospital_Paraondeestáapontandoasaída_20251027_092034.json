@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "direcao_placas_hospital.jpeg",
+    "question_original_pt": "Para onde está apontando a saída?",
+    "timestamp_sent_utc": "2025-10-27T09:20:01.825067",
+    "date": "2025-10-27",
+    "response": "O sinal de \"Saída\" aponta para a **direita** (→).\n\nEm termos práticos, isso significa que a saída está localizada em frente, seguindo pelo corredor.",
+    "latency_seconds": 3.201688051223755
+}

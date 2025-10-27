@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "direcao_placas_hospital.jpeg",
+    "question_original_pt": "Para onde está apontando a saída?",
+    "timestamp_sent_utc": "2025-10-27T09:20:01.825067",
+    "date": "2025-10-27",
+    "pergunta_translated_en": "Where is the exit pointing?",
+    "response_original_en": "The exit is pointing to the right.",
+    "response_translated_pt": "A saída está apontando para a direita.",
+    "latency_seconds": 3.658921003341675
+}

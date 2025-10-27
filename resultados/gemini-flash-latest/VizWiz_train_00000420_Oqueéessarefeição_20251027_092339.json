@@ -1,0 +1,8 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000420.jpg",
+    "question_original_pt": "O que é essa refeição?",
+    "timestamp_sent_utc": "2025-10-27T09:22:34.394039",
+    "date": "2025-10-27",
+    "response": "Com base na imagem, que é de uma embalagem de comida congelada e está bastante embaçada (além de o texto estar invertido), é possível identificar a refeição como:\n\nUm prato de inspiração **Asiática/Tailandesa** que consiste em **frango com macarrão (noodles) e vegetais em molho de amendoim.**\n\nO texto invertido na embalagem indica claramente a descrição do prato em inglês:\n\n*   **`chicken in peanut sauce`** (frango em molho de amendoim)\n*   **`cuisine`** (que, dado o estilo da fonte e a popularidade, é provavelmente da marca **Lean Cuisine**, uma marca conhecida de refeições congeladas nos EUA).\n\nPortanto, a refeição é um prato pronto de **Frango com Molho de Amendoim** (Chicken in Peanut Sauce).",
+    "latency_seconds": 5.775004625320435
+}

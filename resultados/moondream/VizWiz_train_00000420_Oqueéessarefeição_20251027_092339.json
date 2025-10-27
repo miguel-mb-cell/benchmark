@@ -1,0 +1,10 @@
+{
+    "arquivo_imagem": "VizWiz_train_00000420.jpg",
+    "question_original_pt": "O que é essa refeição?",
+    "timestamp_sent_utc": "2025-10-27T09:22:34.394039",
+    "date": "2025-10-27",
+    "pergunta_translated_en": "What is this meal?",
+    "response_original_en": "This meal is a box of peanut sauce served over noodles, likely Chinese-style. The box features an image of the dish on the front, highlighting the ingredients and presentation. The peanut sauce is visible on the noodles and around the dish, complementing the meal.",
+    "response_translated_pt": "Esta refeição é uma caixa de molho de amendoim servida com macarrão, provavelmente ao estilo chinês. A caixa traz na frente a imagem do prato, destacando os ingredientes e a apresentação. O molho de amendoim fica visível no macarrão e ao redor do prato, complementando a refeição.",
+    "latency_seconds": 4.101828098297119
+}
